@@ -1,0 +1,5710 @@
+[
+  {
+    "state_name": "alabama",
+    "district": 1,
+    "democrat": null,
+    "republican": {
+      "name": "B. Byrne (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "alabama",
+    "district": 2,
+    "democrat": {
+      "name": "N. Mathis",
+      "votes": "111,640",
+      "percentage": "45.4%"
+    },
+    "republican": {
+      "name": "M. Roby (i)",
+      "votes": "134,450",
+      "percentage": "54.6%"
+    }
+  },
+  {
+    "state_name": "alabama",
+    "district": 3,
+    "democrat": {
+      "name": "J. Smith",
+      "votes": "93,567",
+      "percentage": "32.9%"
+    },
+    "republican": {
+      "name": "M. Rogers (i)",
+      "votes": "190,724",
+      "percentage": "67.1%"
+    }
+  },
+  {
+    "state_name": "alabama",
+    "district": 4,
+    "democrat": null,
+    "republican": {
+      "name": "R. Aderholt (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "alabama",
+    "district": 5,
+    "democrat": {
+      "name": "W. Boyd",
+      "votes": "101,577",
+      "percentage": "33.2%"
+    },
+    "republican": {
+      "name": "M. Brooks (i)",
+      "votes": "204,791",
+      "percentage": "66.8%"
+    }
+  },
+  {
+    "state_name": "alabama",
+    "district": 6,
+    "democrat": {
+      "name": "D. Putman",
+      "votes": "81,296",
+      "percentage": "25.2%"
+    },
+    "republican": {
+      "name": "G. Palmer (i)",
+      "votes": "240,897",
+      "percentage": "74.8%"
+    }
+  },
+  {
+    "state_name": "alabama",
+    "district": 7,
+    "democrat": {
+      "name": "T. Sewell (i)",
+      "votes": null,
+      "percentage": null
+    },
+    "republican": null
+  },
+  {
+    "state_name": "delaware",
+    "district": 1,
+    "democrat": {
+      "name": "L. Rochester",
+      "votes": "233,542",
+      "percentage": "55.5%"
+    },
+    "republican": {
+      "name": "H. Reigle",
+      "votes": "172,290",
+      "percentage": "41.0%"
+    }
+  },
+  {
+    "state_name": "arizona",
+    "district": 1,
+    "democrat": {
+      "name": "T. O'Halleran",
+      "votes": "117,048",
+      "percentage": "50.8%"
+    },
+    "republican": {
+      "name": "P. Babeu",
+      "votes": "100,236",
+      "percentage": "43.5%"
+    }
+  },
+  {
+    "state_name": "arizona",
+    "district": 2,
+    "democrat": {
+      "name": "M. Heinz",
+      "votes": "120,572",
+      "percentage": "43.3%"
+    },
+    "republican": {
+      "name": "M. McSally (i)",
+      "votes": "157,677",
+      "percentage": "56.7%"
+    }
+  },
+  {
+    "state_name": "arizona",
+    "district": 3,
+    "democrat": {
+      "name": "R. Grijalva (i)",
+      "votes": null,
+      "percentage": null
+    },
+    "republican": null
+  },
+  {
+    "state_name": "arizona",
+    "district": 4,
+    "democrat": {
+      "name": "M. Weisser",
+      "votes": "68,460",
+      "percentage": "28.5%"
+    },
+    "republican": {
+      "name": "P. Gosar (i)",
+      "votes": "171,901",
+      "percentage": "71.5%"
+    }
+  },
+  {
+    "state_name": "arizona",
+    "district": 5,
+    "democrat": {
+      "name": "T. Fuentes",
+      "votes": "92,225",
+      "percentage": "36.9%"
+    },
+    "republican": {
+      "name": "A. Biggs",
+      "votes": "157,980",
+      "percentage": "63.1%"
+    }
+  },
+  {
+    "state_name": "arizona",
+    "district": 6,
+    "democrat": {
+      "name": "J. Williamson",
+      "votes": "99,008",
+      "percentage": "38.4%"
+    },
+    "republican": {
+      "name": "D. Schweikert (i)",
+      "votes": "158,978",
+      "percentage": "61.6%"
+    }
+  },
+  {
+    "state_name": "arizona",
+    "district": 7,
+    "democrat": {
+      "name": "R. Gallego (i)",
+      "votes": "88,219",
+      "percentage": "74.6%"
+    },
+    "republican": {
+      "name": "E. Nunez",
+      "votes": "30,040",
+      "percentage": "25.4%"
+    }
+  },
+  {
+    "state_name": "arizona",
+    "district": 8,
+    "democrat": null,
+    "republican": {
+      "name": "T. Franks (i)",
+      "votes": "165,593",
+      "percentage": "68.6%"
+    }
+  },
+  {
+    "state_name": "arizona",
+    "district": 9,
+    "democrat": {
+      "name": "K. Sinema (i)",
+      "votes": "132,281",
+      "percentage": "61.1%"
+    },
+    "republican": {
+      "name": "D. Giles",
+      "votes": "84,137",
+      "percentage": "38.9%"
+    }
+  },
+  {
+    "state_name": "colorado",
+    "district": 1,
+    "democrat": {
+      "name": "D. DeGette (i)",
+      "votes": "189,837",
+      "percentage": "67.8%"
+    },
+    "republican": {
+      "name": "C. Stockham",
+      "votes": "79,561",
+      "percentage": "28.4%"
+    }
+  },
+  {
+    "state_name": "colorado",
+    "district": 2,
+    "democrat": {
+      "name": "J. Polis (i)",
+      "votes": "251,988",
+      "percentage": "56.8%"
+    },
+    "republican": {
+      "name": "N. Morse",
+      "votes": "166,020",
+      "percentage": "37.4%"
+    }
+  },
+  {
+    "state_name": "colorado",
+    "district": 3,
+    "democrat": {
+      "name": "G. Schwartz",
+      "votes": "142,794",
+      "percentage": "40.6%"
+    },
+    "republican": {
+      "name": "S. Tipton (i)",
+      "votes": "191,917",
+      "percentage": "54.6%"
+    }
+  },
+  {
+    "state_name": "colorado",
+    "district": 4,
+    "democrat": {
+      "name": "B. Seay",
+      "votes": "119,249",
+      "percentage": "31.5%"
+    },
+    "republican": {
+      "name": "K. Buck (i)",
+      "votes": "241,424",
+      "percentage": "63.8%"
+    }
+  },
+  {
+    "state_name": "colorado",
+    "district": 5,
+    "democrat": {
+      "name": "M. Plowright",
+      "votes": "109,573",
+      "percentage": "30.8%"
+    },
+    "republican": {
+      "name": "D. Lamborn (i)",
+      "votes": "222,169",
+      "percentage": "62.4%"
+    }
+  },
+  {
+    "state_name": "colorado",
+    "district": 6,
+    "democrat": {
+      "name": "M. Carroll",
+      "votes": "149,417",
+      "percentage": "42.4%"
+    },
+    "republican": {
+      "name": "M. Coffman (i)",
+      "votes": "180,727",
+      "percentage": "51.3%"
+    }
+  },
+  {
+    "state_name": "colorado",
+    "district": 7,
+    "democrat": {
+      "name": "E. Perlmutter (i)",
+      "votes": "185,208",
+      "percentage": "55.2%"
+    },
+    "republican": {
+      "name": "G. Athanasopoulos",
+      "votes": "134,244",
+      "percentage": "40.0%"
+    }
+  },
+  {
+    "state_name": "alaska",
+    "district": 1,
+    "democrat": {
+      "name": "S. Lindbeck",
+      "votes": "90,784",
+      "percentage": "36.5%"
+    },
+    "republican": {
+      "name": "D. Young (i)",
+      "votes": "125,729",
+      "percentage": "50.5%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 1,
+    "democrat": {
+      "name": "S. Specht",
+      "votes": "113,586",
+      "percentage": "30.9%"
+    },
+    "republican": {
+      "name": "M. Gaetz",
+      "votes": "254,280",
+      "percentage": "69.1%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 2,
+    "democrat": {
+      "name": "W. Dartland",
+      "votes": "102,596",
+      "percentage": "29.9%"
+    },
+    "republican": {
+      "name": "N. Dunn",
+      "votes": "230,838",
+      "percentage": "67.3%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 3,
+    "democrat": {
+      "name": "K. McGurn",
+      "votes": "135,688",
+      "percentage": "39.7%"
+    },
+    "republican": {
+      "name": "T. Yoho (i)",
+      "votes": "193,261",
+      "percentage": "56.6%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 4,
+    "democrat": {
+      "name": "D. Bruderly",
+      "votes": "112,253",
+      "percentage": "27.6%"
+    },
+    "republican": {
+      "name": "J. Rutherford",
+      "votes": "286,018",
+      "percentage": "70.2%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 5,
+    "democrat": {
+      "name": "A. Lawson",
+      "votes": "193,430",
+      "percentage": "64.2%"
+    },
+    "republican": {
+      "name": "G. Smith",
+      "votes": "107,784",
+      "percentage": "35.8%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 6,
+    "democrat": {
+      "name": "B. McCullough",
+      "votes": "150,677",
+      "percentage": "41.4%"
+    },
+    "republican": {
+      "name": "R. DeSantis (i)",
+      "votes": "213,180",
+      "percentage": "58.6%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 7,
+    "democrat": {
+      "name": "S. Murphy",
+      "votes": "181,758",
+      "percentage": "51.5%"
+    },
+    "republican": {
+      "name": "J. Mica (i)",
+      "votes": "171,412",
+      "percentage": "48.5%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 8,
+    "democrat": {
+      "name": "C. Westbrook",
+      "votes": "126,962",
+      "percentage": "32.5%"
+    },
+    "republican": {
+      "name": "B. Posey (i)",
+      "votes": "246,257",
+      "percentage": "63.1%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 9,
+    "democrat": {
+      "name": "D. Soto",
+      "votes": "194,963",
+      "percentage": "57.5%"
+    },
+    "republican": {
+      "name": "W. Liebnitzky",
+      "votes": "144,281",
+      "percentage": "42.5%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 10,
+    "democrat": {
+      "name": "V. Demings",
+      "votes": "198,309",
+      "percentage": "64.9%"
+    },
+    "republican": {
+      "name": "T. Lowe",
+      "votes": "107,423",
+      "percentage": "35.1%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 11,
+    "democrat": {
+      "name": "D. Koller",
+      "votes": "124,599",
+      "percentage": "31.6%"
+    },
+    "republican": {
+      "name": "D. Webster (i)",
+      "votes": "257,881",
+      "percentage": "65.4%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 12,
+    "democrat": {
+      "name": "R. Tager",
+      "votes": "115,909",
+      "percentage": "31.4%"
+    },
+    "republican": {
+      "name": "G. Bilirakis (i)",
+      "votes": "253,347",
+      "percentage": "68.6%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 13,
+    "democrat": {
+      "name": "C. Crist",
+      "votes": "184,371",
+      "percentage": "51.9%"
+    },
+    "republican": {
+      "name": "D. Jolly (i)",
+      "votes": "170,964",
+      "percentage": "48.1%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 14,
+    "democrat": {
+      "name": "K. Castor (i)",
+      "votes": "194,851",
+      "percentage": "61.8%"
+    },
+    "republican": {
+      "name": "C. Quinn",
+      "votes": "120,584",
+      "percentage": "38.2%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 15,
+    "democrat": {
+      "name": "J. Lange",
+      "votes": "134,945",
+      "percentage": "42.5%"
+    },
+    "republican": {
+      "name": "D. Ross (i)",
+      "votes": "182,498",
+      "percentage": "57.5%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 16,
+    "democrat": {
+      "name": "J. Schneider",
+      "votes": "154,854",
+      "percentage": "40.2%"
+    },
+    "republican": {
+      "name": "V. Buchanan (i)",
+      "votes": "230,187",
+      "percentage": "59.8%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 17,
+    "democrat": {
+      "name": "A. Freeman",
+      "votes": "115,801",
+      "percentage": "34.2%"
+    },
+    "republican": {
+      "name": "T. Rooney (i)",
+      "votes": "209,135",
+      "percentage": "61.8%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 18,
+    "democrat": {
+      "name": "R. Perkins",
+      "votes": "161,328",
+      "percentage": "43.0%"
+    },
+    "republican": {
+      "name": "B. Mast",
+      "votes": "201,011",
+      "percentage": "53.6%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 19,
+    "democrat": {
+      "name": "R. Neeld",
+      "votes": "123,625",
+      "percentage": "34.1%"
+    },
+    "republican": {
+      "name": "F. Rooney",
+      "votes": "238,975",
+      "percentage": "65.9%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 20,
+    "democrat": {
+      "name": "A. Hastings (i)",
+      "votes": "220,452",
+      "percentage": "80.3%"
+    },
+    "republican": {
+      "name": "G. Stein",
+      "votes": "54,079",
+      "percentage": "19.7%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 21,
+    "democrat": {
+      "name": "L. Frankel (i)",
+      "votes": "208,999",
+      "percentage": "62.7%"
+    },
+    "republican": {
+      "name": "P. Spain",
+      "votes": "117,273",
+      "percentage": "35.2%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 22,
+    "democrat": {
+      "name": "T. Deutch (i)",
+      "votes": "197,396",
+      "percentage": "58.9%"
+    },
+    "republican": {
+      "name": "A. McGee",
+      "votes": "137,691",
+      "percentage": "41.1%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 23,
+    "democrat": {
+      "name": "D. Wasserman Schultz (i)",
+      "votes": "180,979",
+      "percentage": "56.7%"
+    },
+    "republican": {
+      "name": "J. Kaufman",
+      "votes": "129,400",
+      "percentage": "40.5%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 24,
+    "democrat": {
+      "name": "F. Wilson (i)",
+      "votes": null,
+      "percentage": null
+    },
+    "republican": null
+  },
+  {
+    "state_name": "florida",
+    "district": 25,
+    "democrat": {
+      "name": "A. Valdes",
+      "votes": "95,008",
+      "percentage": "37.6%"
+    },
+    "republican": {
+      "name": "M. Diaz-Balart (i)",
+      "votes": "157,748",
+      "percentage": "62.4%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 26,
+    "democrat": {
+      "name": "J. Garcia",
+      "votes": "115,348",
+      "percentage": "41.2%"
+    },
+    "republican": {
+      "name": "C. Curbelo (i)",
+      "votes": "148,445",
+      "percentage": "53.0%"
+    }
+  },
+  {
+    "state_name": "florida",
+    "district": 27,
+    "democrat": {
+      "name": "S. Fuhrman",
+      "votes": "129,548",
+      "percentage": "45.1%"
+    },
+    "republican": {
+      "name": "I. Ros-Lehtinen (i)",
+      "votes": "157,763",
+      "percentage": "54.9%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 1,
+    "democrat": {
+      "name": "J. Reed",
+      "votes": "112,183",
+      "percentage": "40.5%"
+    },
+    "republican": {
+      "name": "D. La Malfa (i)",
+      "votes": "164,907",
+      "percentage": "59.5%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 2,
+    "democrat": {
+      "name": "J. Huffman (i)",
+      "votes": "177,724",
+      "percentage": "77.1%"
+    },
+    "republican": {
+      "name": "D. Mensing",
+      "votes": "52,818",
+      "percentage": "22.9%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 3,
+    "democrat": {
+      "name": "J. Garamendi (i)",
+      "votes": "127,623",
+      "percentage": "58.2%"
+    },
+    "republican": {
+      "name": "E. Cleek",
+      "votes": "91,544",
+      "percentage": "41.8%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 4,
+    "democrat": {
+      "name": "R. Derlet",
+      "votes": "116,541",
+      "percentage": "37.2%"
+    },
+    "republican": {
+      "name": "T. McClintock (i)",
+      "votes": "196,613",
+      "percentage": "62.8%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 5,
+    "democrat": {
+      "name": "M. Thompson (i)",
+      "votes": "172,810",
+      "percentage": "77.2%"
+    },
+    "republican": {
+      "name": "C. Santamaria",
+      "votes": "51,098",
+      "percentage": "22.8%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 6,
+    "democrat": {
+      "name": "D. Matsui (i)",
+      "votes": "145,704",
+      "percentage": "75.2%"
+    },
+    "republican": {
+      "name": "R. Evans",
+      "votes": "47,926",
+      "percentage": "24.8%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 7,
+    "democrat": {
+      "name": "A. Bera (i)",
+      "votes": "129,064",
+      "percentage": "51.2%"
+    },
+    "republican": {
+      "name": "S. Jones",
+      "votes": "123,056",
+      "percentage": "48.8%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 8,
+    "democrat": {
+      "name": "R. Ramirez",
+      "votes": "76,999",
+      "percentage": "37.3%"
+    },
+    "republican": {
+      "name": "P. Cook (i)",
+      "votes": "129,690",
+      "percentage": "62.7%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 9,
+    "democrat": {
+      "name": "J. McNerney (i)",
+      "votes": "106,256",
+      "percentage": "57.6%"
+    },
+    "republican": {
+      "name": "T. Amador",
+      "votes": "78,121",
+      "percentage": "42.4%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 10,
+    "democrat": {
+      "name": "M. Eggman",
+      "votes": "100,646",
+      "percentage": "47.6%"
+    },
+    "republican": {
+      "name": "J. Denham (i)",
+      "votes": "110,659",
+      "percentage": "52.4%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 11,
+    "democrat": {
+      "name": "M. DeSaulnier (i)",
+      "votes": "194,345",
+      "percentage": "71.8%"
+    },
+    "republican": {
+      "name": "R. Petersen",
+      "votes": "76,473",
+      "percentage": "28.2%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 12,
+    "democrat": {
+      "name": "N. Pelosi (i)",
+      "votes": "250,378",
+      "percentage": "81.0%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "california",
+    "district": 13,
+    "democrat": {
+      "name": "B. Lee (i)",
+      "votes": "277,390",
+      "percentage": "90.7%"
+    },
+    "republican": {
+      "name": "S. Caro",
+      "votes": "28,413",
+      "percentage": "9.3%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 14,
+    "democrat": {
+      "name": "J. Speier (i)",
+      "votes": "213,612",
+      "percentage": "80.9%"
+    },
+    "republican": {
+      "name": "A. Cardenas",
+      "votes": "50,485",
+      "percentage": "19.1%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 15,
+    "democrat": {
+      "name": "E. Swalwell (i)",
+      "votes": "188,179",
+      "percentage": "73.8%"
+    },
+    "republican": {
+      "name": "D. Turner",
+      "votes": "66,959",
+      "percentage": "26.2%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 16,
+    "democrat": {
+      "name": "J. Costa (i)",
+      "votes": "72,111",
+      "percentage": "57.8%"
+    },
+    "republican": {
+      "name": "J. Tacherra",
+      "votes": "52,570",
+      "percentage": "42.2%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 17,
+    "democrat": {
+      "name": "M. Honda (i)",
+      "votes": "86,505",
+      "percentage": "38.9%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "california",
+    "district": 18,
+    "democrat": {
+      "name": "A. Eshoo (i)",
+      "votes": "220,139",
+      "percentage": "71.2%"
+    },
+    "republican": {
+      "name": "R. Fox",
+      "votes": "88,907",
+      "percentage": "28.8%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 19,
+    "democrat": {
+      "name": "Z. Lofgren (i)",
+      "votes": "171,688",
+      "percentage": "74.0%"
+    },
+    "republican": {
+      "name": "B. Lancaster",
+      "votes": "60,420",
+      "percentage": "26.0%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 20,
+    "democrat": {
+      "name": "J. Panetta",
+      "votes": "144,870",
+      "percentage": "70.6%"
+    },
+    "republican": {
+      "name": "C. Lucius",
+      "votes": "60,324",
+      "percentage": "29.4%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 21,
+    "democrat": {
+      "name": "E. Huerta",
+      "votes": "49,643",
+      "percentage": "42.0%"
+    },
+    "republican": {
+      "name": "D. Valadao (i)",
+      "votes": "68,481",
+      "percentage": "58.0%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 22,
+    "democrat": {
+      "name": "L. Campos",
+      "votes": "66,802",
+      "percentage": "31.8%"
+    },
+    "republican": {
+      "name": "D. Nunes (i)",
+      "votes": "143,333",
+      "percentage": "68.2%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 23,
+    "democrat": {
+      "name": "W. Reed",
+      "votes": "64,842",
+      "percentage": "30.0%"
+    },
+    "republican": {
+      "name": "K. McCarthy (i)",
+      "votes": "151,346",
+      "percentage": "70.0%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 24,
+    "democrat": {
+      "name": "S. Carbajal",
+      "votes": "155,492",
+      "percentage": "53.2%"
+    },
+    "republican": {
+      "name": "J. Fareed",
+      "votes": "136,532",
+      "percentage": "46.8%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 25,
+    "democrat": {
+      "name": "B. Caforio",
+      "votes": "95,296",
+      "percentage": "45.8%"
+    },
+    "republican": {
+      "name": "S. Knight (i)",
+      "votes": "112,768",
+      "percentage": "54.2%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 26,
+    "democrat": {
+      "name": "J. Brownley (i)",
+      "votes": "148,550",
+      "percentage": "59.9%"
+    },
+    "republican": {
+      "name": "R. Dagnesses",
+      "votes": "99,597",
+      "percentage": "40.1%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 27,
+    "democrat": {
+      "name": "J. Chu (i)",
+      "votes": "133,766",
+      "percentage": "66.5%"
+    },
+    "republican": {
+      "name": "J. Orswell",
+      "votes": "67,421",
+      "percentage": "33.5%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 28,
+    "democrat": {
+      "name": "A. Schiff (i)",
+      "votes": "168,082",
+      "percentage": "77.9%"
+    },
+    "republican": {
+      "name": "L. Solis",
+      "votes": "47,619",
+      "percentage": "22.1%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 29,
+    "democrat": {
+      "name": "R. Alarcon",
+      "votes": "32,656",
+      "percentage": "24.8%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "california",
+    "district": 30,
+    "democrat": {
+      "name": "B. Sherman (i)",
+      "votes": "159,974",
+      "percentage": "72.4%"
+    },
+    "republican": {
+      "name": "M. Reed",
+      "votes": "60,865",
+      "percentage": "27.6%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 31,
+    "democrat": {
+      "name": "P. Aguilar (i)",
+      "votes": "111,870",
+      "percentage": "55.7%"
+    },
+    "republican": {
+      "name": "P. Chabot",
+      "votes": "89,070",
+      "percentage": "44.3%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 32,
+    "democrat": {
+      "name": "R. Hernandez",
+      "votes": "56,050",
+      "percentage": "37.6%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "california",
+    "district": 33,
+    "democrat": {
+      "name": "T. Lieu (i)",
+      "votes": "173,778",
+      "percentage": "66.3%"
+    },
+    "republican": {
+      "name": "K. Wright",
+      "votes": "88,507",
+      "percentage": "33.7%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 34,
+    "democrat": {
+      "name": "A. Edwards",
+      "votes": "27,091",
+      "percentage": "21.8%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "california",
+    "district": 35,
+    "democrat": {
+      "name": "N. Torres (i)",
+      "votes": "109,767",
+      "percentage": "71.8%"
+    },
+    "republican": {
+      "name": "T. Fischella",
+      "votes": "43,189",
+      "percentage": "28.2%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 36,
+    "democrat": {
+      "name": "R. Ruiz (i)",
+      "votes": "132,252",
+      "percentage": "61.4%"
+    },
+    "republican": {
+      "name": "J. Stone",
+      "votes": "83,049",
+      "percentage": "38.6%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 37,
+    "democrat": {
+      "name": "C. Wiggins",
+      "votes": "33,082",
+      "percentage": "18.0%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "california",
+    "district": 38,
+    "democrat": {
+      "name": "L. Sanchez (i)",
+      "votes": "131,099",
+      "percentage": "69.7%"
+    },
+    "republican": {
+      "name": "R. Downing",
+      "votes": "56,883",
+      "percentage": "30.3%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 39,
+    "democrat": {
+      "name": "B. Murdock",
+      "votes": "101,651",
+      "percentage": "42.3%"
+    },
+    "republican": {
+      "name": "E. Royce (i)",
+      "votes": "138,907",
+      "percentage": "57.7%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 40,
+    "democrat": {
+      "name": "L. Roybal-Allard (i)",
+      "votes": "82,789",
+      "percentage": "71.9%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "california",
+    "district": 41,
+    "democrat": {
+      "name": "M. Takano (i)",
+      "votes": "115,859",
+      "percentage": "64.4%"
+    },
+    "republican": {
+      "name": "D. Shepherd",
+      "votes": "64,153",
+      "percentage": "35.6%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 42,
+    "democrat": {
+      "name": "T. Sheridan",
+      "votes": "97,123",
+      "percentage": "41.0%"
+    },
+    "republican": {
+      "name": "K. Calvert (i)",
+      "votes": "139,915",
+      "percentage": "59.0%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 43,
+    "democrat": {
+      "name": "M. Waters (i)",
+      "votes": "128,551",
+      "percentage": "75.6%"
+    },
+    "republican": {
+      "name": "O. Navarro",
+      "votes": "41,507",
+      "percentage": "24.4%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 44,
+    "democrat": {
+      "name": "I. Hall",
+      "votes": "67,177",
+      "percentage": "48.9%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "california",
+    "district": 45,
+    "democrat": {
+      "name": "R. Varasteh",
+      "votes": "119,521",
+      "percentage": "41.0%"
+    },
+    "republican": {
+      "name": "M. Walters (i)",
+      "votes": "171,736",
+      "percentage": "59.0%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 46,
+    "democrat": {
+      "name": "B. Nguyen",
+      "votes": "44,652",
+      "percentage": "30.1%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "california",
+    "district": 47,
+    "democrat": {
+      "name": "A. Lowenthal (i)",
+      "votes": "127,832",
+      "percentage": "62.5%"
+    },
+    "republican": {
+      "name": "A. Whallon",
+      "votes": "76,670",
+      "percentage": "37.5%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 48,
+    "democrat": {
+      "name": "S. Savary",
+      "votes": "117,716",
+      "percentage": "41.5%"
+    },
+    "republican": {
+      "name": "D. Rohrabacher (i)",
+      "votes": "165,987",
+      "percentage": "58.5%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 49,
+    "democrat": {
+      "name": "D. Applegate",
+      "votes": "129,100",
+      "percentage": "49.0%"
+    },
+    "republican": {
+      "name": "D. Issa (i)",
+      "votes": "134,428",
+      "percentage": "51.0%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 50,
+    "democrat": {
+      "name": "P. Malloy",
+      "votes": "84,142",
+      "percentage": "36.1%"
+    },
+    "republican": {
+      "name": "D. Hunter (i)",
+      "votes": "148,880",
+      "percentage": "63.9%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 51,
+    "democrat": {
+      "name": "J. Vargas (i)",
+      "votes": "108,932",
+      "percentage": "71.9%"
+    },
+    "republican": {
+      "name": "J. Hidalgo",
+      "votes": "42,676",
+      "percentage": "28.1%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 52,
+    "democrat": {
+      "name": "S. Peters (i)",
+      "votes": "148,651",
+      "percentage": "56.4%"
+    },
+    "republican": {
+      "name": "D. Gitsham",
+      "votes": "115,013",
+      "percentage": "43.6%"
+    }
+  },
+  {
+    "state_name": "california",
+    "district": 53,
+    "democrat": {
+      "name": "S. Davis (i)",
+      "votes": "151,269",
+      "percentage": "66.1%"
+    },
+    "republican": {
+      "name": "J. Veltmeyer",
+      "votes": "77,436",
+      "percentage": "33.9%"
+    }
+  },
+  {
+    "state_name": "connecticut",
+    "district": 1,
+    "democrat": {
+      "name": "J. Larson (i)",
+      "votes": "193,040",
+      "percentage": "63.6%"
+    },
+    "republican": {
+      "name": "M. Corey",
+      "votes": "104,214",
+      "percentage": "34.3%"
+    }
+  },
+  {
+    "state_name": "connecticut",
+    "district": 2,
+    "democrat": {
+      "name": "J. Courtney (i)",
+      "votes": "207,584",
+      "percentage": "63.0%"
+    },
+    "republican": {
+      "name": "D. Novak",
+      "votes": "111,587",
+      "percentage": "33.9%"
+    }
+  },
+  {
+    "state_name": "connecticut",
+    "district": 3,
+    "democrat": {
+      "name": "R. DeLauro (i)",
+      "votes": "208,900",
+      "percentage": "68.7%"
+    },
+    "republican": {
+      "name": "A. Cadena",
+      "votes": "95,370",
+      "percentage": "31.3%"
+    }
+  },
+  {
+    "state_name": "connecticut",
+    "district": 4,
+    "democrat": {
+      "name": "J. Himes (i)",
+      "votes": "185,928",
+      "percentage": "60.1%"
+    },
+    "republican": {
+      "name": "J. Shaban",
+      "votes": "123,630",
+      "percentage": "39.9%"
+    }
+  },
+  {
+    "state_name": "connecticut",
+    "district": 5,
+    "democrat": {
+      "name": "E. Esty (i)",
+      "votes": "174,788",
+      "percentage": "57.9%"
+    },
+    "republican": {
+      "name": "C. Cope",
+      "votes": "126,842",
+      "percentage": "42.1%"
+    }
+  },
+  {
+    "state_name": "arkansas",
+    "district": 1,
+    "democrat": null,
+    "republican": {
+      "name": "R. Crawford (i)",
+      "votes": "183,068",
+      "percentage": "76.5%"
+    }
+  },
+  {
+    "state_name": "arkansas",
+    "district": 2,
+    "democrat": {
+      "name": "D. Curry",
+      "votes": "111,049",
+      "percentage": "36.8%"
+    },
+    "republican": {
+      "name": "F. Hill (i)",
+      "votes": "176,100",
+      "percentage": "58.4%"
+    }
+  },
+  {
+    "state_name": "arkansas",
+    "district": 3,
+    "democrat": null,
+    "republican": {
+      "name": "S. Womack (i)",
+      "votes": "214,268",
+      "percentage": "77.3%"
+    }
+  },
+  {
+    "state_name": "arkansas",
+    "district": 4,
+    "democrat": null,
+    "republican": {
+      "name": "B. Westerman (i)",
+      "votes": "181,921",
+      "percentage": "74.9%"
+    }
+  },
+  {
+    "state_name": "georgia",
+    "district": 1,
+    "democrat": null,
+    "republican": {
+      "name": "B. Carter (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "georgia",
+    "district": 2,
+    "democrat": {
+      "name": "S. Bishop (i)",
+      "votes": "146,284",
+      "percentage": "61.0%"
+    },
+    "republican": {
+      "name": "G. Duke",
+      "votes": "93,392",
+      "percentage": "39.0%"
+    }
+  },
+  {
+    "state_name": "georgia",
+    "district": 3,
+    "democrat": {
+      "name": "A. Pendley",
+      "votes": "95,736",
+      "percentage": "31.6%"
+    },
+    "republican": {
+      "name": "D. Ferguson",
+      "votes": "206,930",
+      "percentage": "68.4%"
+    }
+  },
+  {
+    "state_name": "georgia",
+    "district": 4,
+    "democrat": {
+      "name": "H. Johnson (i)",
+      "votes": "214,278",
+      "percentage": "75.6%"
+    },
+    "republican": {
+      "name": "V. Armendariz",
+      "votes": "69,075",
+      "percentage": "24.4%"
+    }
+  },
+  {
+    "state_name": "georgia",
+    "district": 5,
+    "democrat": {
+      "name": "J. Lewis (i)",
+      "votes": "241,773",
+      "percentage": "84.6%"
+    },
+    "republican": {
+      "name": "D. Bell",
+      "votes": "44,032",
+      "percentage": "15.4%"
+    }
+  },
+  {
+    "state_name": "georgia",
+    "district": 6,
+    "democrat": {
+      "name": "R. Stooksbury",
+      "votes": "119,536",
+      "percentage": "38.4%"
+    },
+    "republican": {
+      "name": "T. Price (i)",
+      "votes": "191,792",
+      "percentage": "61.6%"
+    }
+  },
+  {
+    "state_name": "georgia",
+    "district": 7,
+    "democrat": {
+      "name": "R. Malik",
+      "votes": "113,593",
+      "percentage": "39.5%"
+    },
+    "republican": {
+      "name": "R. Woodall (i)",
+      "votes": "173,638",
+      "percentage": "60.5%"
+    }
+  },
+  {
+    "state_name": "georgia",
+    "district": 8,
+    "democrat": {
+      "name": "J. Harris",
+      "votes": "81,903",
+      "percentage": "32.3%"
+    },
+    "republican": {
+      "name": "A. Scott (i)",
+      "votes": "171,529",
+      "percentage": "67.7%"
+    }
+  },
+  {
+    "state_name": "georgia",
+    "district": 9,
+    "democrat": null,
+    "republican": {
+      "name": "D. Collins (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "georgia",
+    "district": 10,
+    "democrat": null,
+    "republican": {
+      "name": "J. Hice (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "georgia",
+    "district": 11,
+    "democrat": {
+      "name": "D. Wilson",
+      "votes": "104,401",
+      "percentage": "32.5%"
+    },
+    "republican": {
+      "name": "B. Loudermilk (i)",
+      "votes": "216,772",
+      "percentage": "67.5%"
+    }
+  },
+  {
+    "state_name": "georgia",
+    "district": 12,
+    "democrat": {
+      "name": "T. McCracken",
+      "votes": "98,870",
+      "percentage": "38.4%"
+    },
+    "republican": {
+      "name": "R. Allen (i)",
+      "votes": "158,705",
+      "percentage": "61.6%"
+    }
+  },
+  {
+    "state_name": "georgia",
+    "district": 13,
+    "democrat": {
+      "name": "D. Scott (i)",
+      "votes": null,
+      "percentage": null
+    },
+    "republican": null
+  },
+  {
+    "state_name": "georgia",
+    "district": 14,
+    "democrat": null,
+    "republican": {
+      "name": "T. Graves (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "hawaii",
+    "district": 1,
+    "democrat": {
+      "name": "C. Hanabusa",
+      "votes": "135,069",
+      "percentage": "71.9%"
+    },
+    "republican": {
+      "name": "S. Ostrov",
+      "votes": "42,569",
+      "percentage": "22.7%"
+    }
+  },
+  {
+    "state_name": "hawaii",
+    "district": 2,
+    "democrat": {
+      "name": "T. Gabbard (i)",
+      "votes": "163,484",
+      "percentage": "81.1%"
+    },
+    "republican": {
+      "name": "A. Kaaihue",
+      "votes": "38,098",
+      "percentage": "18.9%"
+    }
+  },
+  {
+    "state_name": "kansas",
+    "district": 1,
+    "democrat": null,
+    "republican": {
+      "name": "R. Marshall",
+      "votes": "166,051",
+      "percentage": "66.2%"
+    }
+  },
+  {
+    "state_name": "kansas",
+    "district": 2,
+    "democrat": {
+      "name": "B. Potter",
+      "votes": "94,561",
+      "percentage": "32.5%"
+    },
+    "republican": {
+      "name": "L. Jenkins (i)",
+      "votes": "177,851",
+      "percentage": "61.1%"
+    }
+  },
+  {
+    "state_name": "kansas",
+    "district": 3,
+    "democrat": {
+      "name": "J. Sidie",
+      "votes": "135,778",
+      "percentage": "40.6%"
+    },
+    "republican": {
+      "name": "K. Yoder (i)",
+      "votes": "171,647",
+      "percentage": "51.3%"
+    }
+  },
+  {
+    "state_name": "kansas",
+    "district": 4,
+    "democrat": {
+      "name": "D. Giroux",
+      "votes": "78,822",
+      "percentage": "29.4%"
+    },
+    "republican": {
+      "name": "M. Pompeo (i)",
+      "votes": "163,406",
+      "percentage": "61.0%"
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 1,
+    "democrat": {
+      "name": "B. Rush (i)",
+      "votes": "221,551",
+      "percentage": "73.4%"
+    },
+    "republican": {
+      "name": "A. Deuser",
+      "votes": "80,161",
+      "percentage": "26.6%"
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 2,
+    "democrat": {
+      "name": "R. Kelly (i)",
+      "votes": "229,184",
+      "percentage": "79.6%"
+    },
+    "republican": {
+      "name": "J. Morrow",
+      "votes": "58,788",
+      "percentage": "20.4%"
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 3,
+    "democrat": {
+      "name": "D. Lipinski (i)",
+      "votes": null,
+      "percentage": null
+    },
+    "republican": null
+  },
+  {
+    "state_name": "illinois",
+    "district": 4,
+    "democrat": {
+      "name": "L. Gutierrez (i)",
+      "votes": null,
+      "percentage": null
+    },
+    "republican": null
+  },
+  {
+    "state_name": "illinois",
+    "district": 5,
+    "democrat": {
+      "name": "M. Quigley (i)",
+      "votes": "201,983",
+      "percentage": "67.6%"
+    },
+    "republican": {
+      "name": "V. Kolber",
+      "votes": "82,931",
+      "percentage": "27.8%"
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 6,
+    "democrat": {
+      "name": "A. Howland",
+      "votes": "140,023",
+      "percentage": "40.5%"
+    },
+    "republican": {
+      "name": "P. Roskam (i)",
+      "votes": "205,746",
+      "percentage": "59.5%"
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 7,
+    "democrat": {
+      "name": "D. Davis (i)",
+      "votes": "232,322",
+      "percentage": "84.0%"
+    },
+    "republican": {
+      "name": "J. Leef",
+      "votes": "44,242",
+      "percentage": "16.0%"
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 8,
+    "democrat": {
+      "name": "R. Krishnamoorthi",
+      "votes": "141,138",
+      "percentage": "58.1%"
+    },
+    "republican": {
+      "name": "P. DiCianni",
+      "votes": "101,893",
+      "percentage": "41.9%"
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 9,
+    "democrat": {
+      "name": "J. Schakowsky (i)",
+      "votes": "203,834",
+      "percentage": "65.8%"
+    },
+    "republican": {
+      "name": "J. McCarthy Lasonde",
+      "votes": "105,920",
+      "percentage": "34.2%"
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 10,
+    "democrat": {
+      "name": "B. Schneider",
+      "votes": "147,299",
+      "percentage": "52.5%"
+    },
+    "republican": {
+      "name": "R. Dold (i)",
+      "votes": "133,383",
+      "percentage": "47.5%"
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 11,
+    "democrat": {
+      "name": "B. Foster (i)",
+      "votes": "157,659",
+      "percentage": "59.9%"
+    },
+    "republican": {
+      "name": "T. Khouri",
+      "votes": "105,762",
+      "percentage": "40.1%"
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 12,
+    "democrat": {
+      "name": "C. Baricevic",
+      "votes": "123,754",
+      "percentage": "39.7%"
+    },
+    "republican": {
+      "name": "M. Bost (i)",
+      "votes": "169,233",
+      "percentage": "54.3%"
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 13,
+    "democrat": {
+      "name": "M. Wicklund",
+      "votes": "125,932",
+      "percentage": "40.3%"
+    },
+    "republican": {
+      "name": "R. Davis (i)",
+      "votes": "186,791",
+      "percentage": "59.7%"
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 14,
+    "democrat": {
+      "name": "J. Walz",
+      "votes": "134,362",
+      "percentage": "40.4%"
+    },
+    "republican": {
+      "name": "R. Hultgren (i)",
+      "votes": "197,962",
+      "percentage": "59.6%"
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 15,
+    "democrat": null,
+    "republican": {
+      "name": "J. Shimkus (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 16,
+    "democrat": null,
+    "republican": {
+      "name": "A. Kinzinger (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 17,
+    "democrat": {
+      "name": "C. Bustos (i)",
+      "votes": "170,746",
+      "percentage": "60.1%"
+    },
+    "republican": {
+      "name": "P. Harlan",
+      "votes": "113,141",
+      "percentage": "39.9%"
+    }
+  },
+  {
+    "state_name": "illinois",
+    "district": 18,
+    "democrat": {
+      "name": "J. Rodriguez",
+      "votes": "95,741",
+      "percentage": "27.8%"
+    },
+    "republican": {
+      "name": "D. LaHood (i)",
+      "votes": "248,701",
+      "percentage": "72.2%"
+    }
+  },
+  {
+    "state_name": "indiana",
+    "district": 1,
+    "democrat": {
+      "name": "P. Visclosky (i)",
+      "votes": "207,299",
+      "percentage": "81.5%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "indiana",
+    "district": 2,
+    "democrat": {
+      "name": "L. Coleman",
+      "votes": "102,332",
+      "percentage": "36.9%"
+    },
+    "republican": {
+      "name": "J. Walorski (i)",
+      "votes": "164,276",
+      "percentage": "59.3%"
+    }
+  },
+  {
+    "state_name": "indiana",
+    "district": 3,
+    "democrat": {
+      "name": "T. Schrader",
+      "votes": "65,908",
+      "percentage": "23.0%"
+    },
+    "republican": {
+      "name": "J. Banks",
+      "votes": "201,216",
+      "percentage": "70.1%"
+    }
+  },
+  {
+    "state_name": "indiana",
+    "district": 4,
+    "democrat": {
+      "name": "J. Dale",
+      "votes": "91,153",
+      "percentage": "30.5%"
+    },
+    "republican": {
+      "name": "T. Rokita (i)",
+      "votes": "193,272",
+      "percentage": "64.6%"
+    }
+  },
+  {
+    "state_name": "indiana",
+    "district": 5,
+    "democrat": {
+      "name": "A. Demaree",
+      "votes": "123,791",
+      "percentage": "34.3%"
+    },
+    "republican": {
+      "name": "S. Brooks (i)",
+      "votes": "221,785",
+      "percentage": "61.5%"
+    }
+  },
+  {
+    "state_name": "indiana",
+    "district": 6,
+    "democrat": {
+      "name": "B. Welsh",
+      "votes": "79,075",
+      "percentage": "26.7%"
+    },
+    "republican": {
+      "name": "L. Messer (i)",
+      "votes": "204,844",
+      "percentage": "69.1%"
+    }
+  },
+  {
+    "state_name": "indiana",
+    "district": 7,
+    "democrat": {
+      "name": "A. Carson (i)",
+      "votes": "158,606",
+      "percentage": "60.0%"
+    },
+    "republican": {
+      "name": "C. Ping",
+      "votes": "94,396",
+      "percentage": "35.7%"
+    }
+  },
+  {
+    "state_name": "indiana",
+    "district": 8,
+    "democrat": {
+      "name": "R. Drake",
+      "votes": "93,130",
+      "percentage": "31.6%"
+    },
+    "republican": {
+      "name": "L. Bucshon (i)",
+      "votes": "187,569",
+      "percentage": "63.7%"
+    }
+  },
+  {
+    "state_name": "indiana",
+    "district": 9,
+    "democrat": {
+      "name": "S. Yoder",
+      "votes": "130,539",
+      "percentage": "40.5%"
+    },
+    "republican": {
+      "name": "T. Hollingsworth",
+      "votes": "174,698",
+      "percentage": "54.1%"
+    }
+  },
+  {
+    "state_name": "idaho",
+    "district": 1,
+    "democrat": {
+      "name": "J. Piotrowski",
+      "votes": "111,035",
+      "percentage": "32.0%"
+    },
+    "republican": {
+      "name": "R. Labrador (i)",
+      "votes": "236,397",
+      "percentage": "68.0%"
+    }
+  },
+  {
+    "state_name": "idaho",
+    "district": 2,
+    "democrat": {
+      "name": "J. Martinez",
+      "votes": "97,250",
+      "percentage": "29.3%"
+    },
+    "republican": {
+      "name": "M. Simpson (i)",
+      "votes": "208,887",
+      "percentage": "63.0%"
+    }
+  },
+  {
+    "state_name": "iowa",
+    "district": 1,
+    "democrat": {
+      "name": "M. Vernon",
+      "votes": "176,447",
+      "percentage": "46.1%"
+    },
+    "republican": {
+      "name": "R. Blum (i)",
+      "votes": "206,273",
+      "percentage": "53.9%"
+    }
+  },
+  {
+    "state_name": "iowa",
+    "district": 2,
+    "democrat": {
+      "name": "D. Loebsack (i)",
+      "votes": "197,802",
+      "percentage": "53.7%"
+    },
+    "republican": {
+      "name": "C. Peters",
+      "votes": "170,529",
+      "percentage": "46.3%"
+    }
+  },
+  {
+    "state_name": "iowa",
+    "district": 3,
+    "democrat": {
+      "name": "J. Mowrer",
+      "votes": "154,780",
+      "percentage": "39.8%"
+    },
+    "republican": {
+      "name": "D. Young (i)",
+      "votes": "208,264",
+      "percentage": "53.5%"
+    }
+  },
+  {
+    "state_name": "iowa",
+    "district": 4,
+    "democrat": {
+      "name": "K. Weaver",
+      "votes": "142,018",
+      "percentage": "38.6%"
+    },
+    "republican": {
+      "name": "S. King (i)",
+      "votes": "225,842",
+      "percentage": "61.4%"
+    }
+  },
+  {
+    "state_name": "kentucky",
+    "district": 1,
+    "democrat": {
+      "name": "S. Gaskins",
+      "votes": "81,710",
+      "percentage": "27.4%"
+    },
+    "republican": {
+      "name": "J. Comer",
+      "votes": "216,957",
+      "percentage": "72.6%"
+    }
+  },
+  {
+    "state_name": "kentucky",
+    "district": 2,
+    "democrat": null,
+    "republican": {
+      "name": "B. Guthrie (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "kentucky",
+    "district": 3,
+    "democrat": {
+      "name": "J. Yarmuth (i)",
+      "votes": "212,388",
+      "percentage": "63.5%"
+    },
+    "republican": {
+      "name": "H. Bratcher",
+      "votes": "122,085",
+      "percentage": "36.5%"
+    }
+  },
+  {
+    "state_name": "kentucky",
+    "district": 4,
+    "democrat": {
+      "name": "C. Sidle",
+      "votes": "94,064",
+      "percentage": "28.7%"
+    },
+    "republican": {
+      "name": "T. Massie (i)",
+      "votes": "233,922",
+      "percentage": "71.3%"
+    }
+  },
+  {
+    "state_name": "kentucky",
+    "district": 5,
+    "democrat": null,
+    "republican": {
+      "name": "H. Rogers (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "kentucky",
+    "district": 6,
+    "democrat": {
+      "name": "N. Kemper",
+      "votes": "128,725",
+      "percentage": "38.9%"
+    },
+    "republican": {
+      "name": "A. Barr (i)",
+      "votes": "202,094",
+      "percentage": "61.1%"
+    }
+  },
+  {
+    "state_name": "louisiana",
+    "district": 1,
+    "democrat": {
+      "name": "J. Swider",
+      "votes": "9,231",
+      "percentage": "2.8%"
+    },
+    "republican": {
+      "name": "S. Scalise (i)",
+      "votes": "243,575",
+      "percentage": "74.6%"
+    }
+  },
+  {
+    "state_name": "louisiana",
+    "district": 2,
+    "democrat": {
+      "name": "K. Cutno",
+      "votes": "28,826",
+      "percentage": "10.1%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "louisiana",
+    "district": 3,
+    "democrat": {
+      "name": "L. Rader",
+      "votes": "27,807",
+      "percentage": "8.7%"
+    },
+    "republican": {
+      "name": "H. Vidrine",
+      "votes": "1,354",
+      "percentage": "0.4%"
+    }
+  },
+  {
+    "state_name": "louisiana",
+    "district": 4,
+    "democrat": {
+      "name": "* M. Jones",
+      "votes": "80,558",
+      "percentage": "28.2%"
+    },
+    "republican": {
+      "name": "R. John",
+      "votes": "13,215",
+      "percentage": "4.6%"
+    }
+  },
+  {
+    "state_name": "louisiana",
+    "district": 5,
+    "democrat": null,
+    "republican": {
+      "name": "B. Burkette",
+      "votes": "47,106",
+      "percentage": "18.4%"
+    }
+  },
+  {
+    "state_name": "louisiana",
+    "district": 6,
+    "democrat": {
+      "name": "J. Sampson",
+      "votes": "29,809",
+      "percentage": "9.0%"
+    },
+    "republican": {
+      "name": "B. Bell",
+      "votes": "33,585",
+      "percentage": "10.1%"
+    }
+  },
+  {
+    "state_name": "maine",
+    "district": 1,
+    "democrat": {
+      "name": "C. Pingree (i)",
+      "votes": "225,428",
+      "percentage": "57.9%"
+    },
+    "republican": {
+      "name": "M. Holbrook",
+      "votes": "164,048",
+      "percentage": "42.1%"
+    }
+  },
+  {
+    "state_name": "maine",
+    "district": 2,
+    "democrat": {
+      "name": "E. Cain",
+      "votes": "157,862",
+      "percentage": "45.1%"
+    },
+    "republican": {
+      "name": "B. Poliquin (i)",
+      "votes": "192,285",
+      "percentage": "54.9%"
+    }
+  },
+  {
+    "state_name": "maryland",
+    "district": 1,
+    "democrat": {
+      "name": "J. Werner",
+      "votes": "94,776",
+      "percentage": "28.0%"
+    },
+    "republican": {
+      "name": "A. Harris (i)",
+      "votes": "229,135",
+      "percentage": "67.8%"
+    }
+  },
+  {
+    "state_name": "maryland",
+    "district": 2,
+    "democrat": {
+      "name": "D. Ruppersberger (i)",
+      "votes": "172,324",
+      "percentage": "62.2%"
+    },
+    "republican": {
+      "name": "P. McDonough",
+      "votes": "92,099",
+      "percentage": "33.3%"
+    }
+  },
+  {
+    "state_name": "maryland",
+    "district": 3,
+    "democrat": {
+      "name": "J. Sarbanes (i)",
+      "votes": "194,362",
+      "percentage": "62.8%"
+    },
+    "republican": {
+      "name": "M. Plaster",
+      "votes": "106,627",
+      "percentage": "34.5%"
+    }
+  },
+  {
+    "state_name": "maryland",
+    "district": 4,
+    "democrat": {
+      "name": "A. Brown",
+      "votes": "218,215",
+      "percentage": "74.1%"
+    },
+    "republican": {
+      "name": "G. McDermott",
+      "votes": "63,674",
+      "percentage": "21.6%"
+    }
+  },
+  {
+    "state_name": "maryland",
+    "district": 5,
+    "democrat": {
+      "name": "S. Hoyer (i)",
+      "votes": "223,582",
+      "percentage": "67.3%"
+    },
+    "republican": {
+      "name": "M. Arness",
+      "votes": "98,768",
+      "percentage": "29.7%"
+    }
+  },
+  {
+    "state_name": "maryland",
+    "district": 6,
+    "democrat": {
+      "name": "J. Delaney (i)",
+      "votes": "167,229",
+      "percentage": "55.4%"
+    },
+    "republican": {
+      "name": "A. Hoeber",
+      "votes": "123,611",
+      "percentage": "40.9%"
+    }
+  },
+  {
+    "state_name": "maryland",
+    "district": 7,
+    "democrat": {
+      "name": "E. Cummings (i)",
+      "votes": "211,962",
+      "percentage": "75.1%"
+    },
+    "republican": {
+      "name": "C. Vaughn",
+      "votes": "61,854",
+      "percentage": "21.9%"
+    }
+  },
+  {
+    "state_name": "maryland",
+    "district": 8,
+    "democrat": {
+      "name": "J. Raskin",
+      "votes": "191,671",
+      "percentage": "59.3%"
+    },
+    "republican": {
+      "name": "D. Cox",
+      "votes": "115,200",
+      "percentage": "35.6%"
+    }
+  },
+  {
+    "state_name": "massachusetts",
+    "district": 1,
+    "democrat": {
+      "name": "R. Neal (i)",
+      "votes": "233,310",
+      "percentage": "73.4%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "massachusetts",
+    "district": 2,
+    "democrat": {
+      "name": "J. McGovern (i)",
+      "votes": null,
+      "percentage": null
+    },
+    "republican": null
+  },
+  {
+    "state_name": "massachusetts",
+    "district": 3,
+    "democrat": {
+      "name": "N. Tsongas (i)",
+      "votes": "234,361",
+      "percentage": "68.7%"
+    },
+    "republican": {
+      "name": "A. Wofford",
+      "votes": "106,882",
+      "percentage": "31.3%"
+    }
+  },
+  {
+    "state_name": "massachusetts",
+    "district": 4,
+    "democrat": {
+      "name": "J. Kennedy (i)",
+      "votes": "261,356",
+      "percentage": "70.0%"
+    },
+    "republican": {
+      "name": "D. Rosa",
+      "votes": "111,890",
+      "percentage": "30.0%"
+    }
+  },
+  {
+    "state_name": "massachusetts",
+    "district": 5,
+    "democrat": {
+      "name": "K. Clark (i)",
+      "votes": null,
+      "percentage": null
+    },
+    "republican": null
+  },
+  {
+    "state_name": "massachusetts",
+    "district": 6,
+    "democrat": {
+      "name": "S. Moulton (i)",
+      "votes": null,
+      "percentage": null
+    },
+    "republican": null
+  },
+  {
+    "state_name": "massachusetts",
+    "district": 7,
+    "democrat": {
+      "name": "M. Capuano (i)",
+      "votes": null,
+      "percentage": null
+    },
+    "republican": null
+  },
+  {
+    "state_name": "massachusetts",
+    "district": 8,
+    "democrat": {
+      "name": "S. Lynch (i)",
+      "votes": "267,944",
+      "percentage": "72.4%"
+    },
+    "republican": {
+      "name": "W. Burke",
+      "votes": "102,146",
+      "percentage": "27.6%"
+    }
+  },
+  {
+    "state_name": "massachusetts",
+    "district": 9,
+    "democrat": {
+      "name": "B. Keating (i)",
+      "votes": "209,911",
+      "percentage": "55.7%"
+    },
+    "republican": {
+      "name": "M. Alliegro",
+      "votes": "127,199",
+      "percentage": "33.8%"
+    }
+  },
+  {
+    "state_name": "michigan",
+    "district": 1,
+    "democrat": {
+      "name": "L. Johnson",
+      "votes": "144,319",
+      "percentage": "39.7%"
+    },
+    "republican": {
+      "name": "J. Bergman",
+      "votes": "201,153",
+      "percentage": "55.3%"
+    }
+  },
+  {
+    "state_name": "michigan",
+    "district": 2,
+    "democrat": {
+      "name": "D. Murphy",
+      "votes": "110,077",
+      "percentage": "32.4%"
+    },
+    "republican": {
+      "name": "B. Huizenga (i)",
+      "votes": "213,095",
+      "percentage": "62.7%"
+    }
+  },
+  {
+    "state_name": "michigan",
+    "district": 3,
+    "democrat": {
+      "name": "D. Smith",
+      "votes": "128,159",
+      "percentage": "37.5%"
+    },
+    "republican": {
+      "name": "J. Amash (i)",
+      "votes": "203,069",
+      "percentage": "59.4%"
+    }
+  },
+  {
+    "state_name": "michigan",
+    "district": 4,
+    "democrat": {
+      "name": "D. Wirth",
+      "votes": "101,275",
+      "percentage": "32.1%"
+    },
+    "republican": {
+      "name": "J. Moolenaar (i)",
+      "votes": "194,569",
+      "percentage": "61.6%"
+    }
+  },
+  {
+    "state_name": "michigan",
+    "district": 5,
+    "democrat": {
+      "name": "D. Kildee (i)",
+      "votes": "195,076",
+      "percentage": "61.2%"
+    },
+    "republican": {
+      "name": "A. Hardwick",
+      "votes": "111,908",
+      "percentage": "35.1%"
+    }
+  },
+  {
+    "state_name": "michigan",
+    "district": 6,
+    "democrat": {
+      "name": "P. Clements",
+      "votes": "119,871",
+      "percentage": "36.4%"
+    },
+    "republican": {
+      "name": "F. Upton (i)",
+      "votes": "192,862",
+      "percentage": "58.6%"
+    }
+  },
+  {
+    "state_name": "michigan",
+    "district": 7,
+    "democrat": {
+      "name": "G. Driskell",
+      "votes": "133,697",
+      "percentage": "40.1%"
+    },
+    "republican": {
+      "name": "T. Walberg (i)",
+      "votes": "183,549",
+      "percentage": "55.0%"
+    }
+  },
+  {
+    "state_name": "michigan",
+    "district": 8,
+    "democrat": {
+      "name": "S. Shkreli",
+      "votes": "143,775",
+      "percentage": "39.2%"
+    },
+    "republican": {
+      "name": "M. Bishop (i)",
+      "votes": "205,617",
+      "percentage": "56.0%"
+    }
+  },
+  {
+    "state_name": "michigan",
+    "district": 9,
+    "democrat": {
+      "name": "S. Levin (i)",
+      "votes": "199,620",
+      "percentage": "57.9%"
+    },
+    "republican": {
+      "name": "C. Morse",
+      "votes": "128,907",
+      "percentage": "37.4%"
+    }
+  },
+  {
+    "state_name": "michigan",
+    "district": 10,
+    "democrat": {
+      "name": "F. Accavitti",
+      "votes": "109,875",
+      "percentage": "32.3%"
+    },
+    "republican": {
+      "name": "P. Mitchell",
+      "votes": "214,164",
+      "percentage": "63.0%"
+    }
+  },
+  {
+    "state_name": "michigan",
+    "district": 11,
+    "democrat": {
+      "name": "A. Kumar",
+      "votes": "152,359",
+      "percentage": "40.2%"
+    },
+    "republican": {
+      "name": "D. Trott (i)",
+      "votes": "200,787",
+      "percentage": "52.9%"
+    }
+  },
+  {
+    "state_name": "michigan",
+    "district": 12,
+    "democrat": {
+      "name": "D. Dingell (i)",
+      "votes": "210,922",
+      "percentage": "64.4%"
+    },
+    "republican": {
+      "name": "J. Jones",
+      "votes": "95,823",
+      "percentage": "29.2%"
+    }
+  },
+  {
+    "state_name": "michigan",
+    "district": 13,
+    "democrat": {
+      "name": "J. Conyers (i)",
+      "votes": "197,173",
+      "percentage": "77.0%"
+    },
+    "republican": {
+      "name": "J. Gorman",
+      "votes": "40,483",
+      "percentage": "15.8%"
+    }
+  },
+  {
+    "state_name": "michigan",
+    "district": 14,
+    "democrat": {
+      "name": "B. Lawrence (i)",
+      "votes": "244,220",
+      "percentage": "78.5%"
+    },
+    "republican": {
+      "name": "H. Klausner",
+      "votes": "58,111",
+      "percentage": "18.7%"
+    }
+  },
+  {
+    "state_name": "minnesota",
+    "district": 1,
+    "democrat": {
+      "name": "T. Walz (i)",
+      "votes": "169,076",
+      "percentage": "50.4%"
+    },
+    "republican": {
+      "name": "J. Hagedorn",
+      "votes": "166,527",
+      "percentage": "49.6%"
+    }
+  },
+  {
+    "state_name": "minnesota",
+    "district": 2,
+    "democrat": {
+      "name": "A. Craig",
+      "votes": "167,071",
+      "percentage": "45.2%"
+    },
+    "republican": {
+      "name": "J. Lewis",
+      "votes": "174,030",
+      "percentage": "47.0%"
+    }
+  },
+  {
+    "state_name": "minnesota",
+    "district": 3,
+    "democrat": {
+      "name": "T. Bonoff",
+      "votes": "169,238",
+      "percentage": "43.1%"
+    },
+    "republican": {
+      "name": "E. Paulsen (i)",
+      "votes": "223,075",
+      "percentage": "56.9%"
+    }
+  },
+  {
+    "state_name": "minnesota",
+    "district": 4,
+    "democrat": {
+      "name": "B. McCollum (i)",
+      "votes": "202,558",
+      "percentage": "57.8%"
+    },
+    "republican": {
+      "name": "G. Ryan",
+      "votes": "120,871",
+      "percentage": "34.5%"
+    }
+  },
+  {
+    "state_name": "minnesota",
+    "district": 5,
+    "democrat": {
+      "name": "K. Ellison (i)",
+      "votes": "249,957",
+      "percentage": "69.2%"
+    },
+    "republican": {
+      "name": "F. Drake",
+      "votes": "80,660",
+      "percentage": "22.3%"
+    }
+  },
+  {
+    "state_name": "minnesota",
+    "district": 6,
+    "democrat": {
+      "name": "D. Snyder",
+      "votes": "123,012",
+      "percentage": "34.3%"
+    },
+    "republican": {
+      "name": "T. Emmer (i)",
+      "votes": "235,384",
+      "percentage": "65.7%"
+    }
+  },
+  {
+    "state_name": "minnesota",
+    "district": 7,
+    "democrat": {
+      "name": "C. Peterson (i)",
+      "votes": "173,571",
+      "percentage": "52.5%"
+    },
+    "republican": {
+      "name": "D. Hughes",
+      "votes": "156,950",
+      "percentage": "47.5%"
+    }
+  },
+  {
+    "state_name": "minnesota",
+    "district": 8,
+    "democrat": {
+      "name": "R. Nolan (i)",
+      "votes": "179,106",
+      "percentage": "50.3%"
+    },
+    "republican": {
+      "name": "S. Mills",
+      "votes": "177,095",
+      "percentage": "49.7%"
+    }
+  },
+  {
+    "state_name": "mississippi",
+    "district": 1,
+    "democrat": {
+      "name": "J. Owens",
+      "votes": "82,133",
+      "percentage": "27.8%"
+    },
+    "republican": {
+      "name": "T. Kelly (i)",
+      "votes": "203,142",
+      "percentage": "68.8%"
+    }
+  },
+  {
+    "state_name": "mississippi",
+    "district": 2,
+    "democrat": {
+      "name": "B. Thompson (i)",
+      "votes": "181,108",
+      "percentage": "66.8%"
+    },
+    "republican": {
+      "name": "J. Bouie",
+      "votes": "79,773",
+      "percentage": "29.4%"
+    }
+  },
+  {
+    "state_name": "mississippi",
+    "district": 3,
+    "democrat": {
+      "name": "D. Quinn",
+      "votes": "91,992",
+      "percentage": "30.3%"
+    },
+    "republican": {
+      "name": "G. Harper (i)",
+      "votes": "201,280",
+      "percentage": "66.3%"
+    }
+  },
+  {
+    "state_name": "mississippi",
+    "district": 4,
+    "democrat": {
+      "name": "M. Gladney",
+      "votes": "74,176",
+      "percentage": "27.7%"
+    },
+    "republican": {
+      "name": "S. Palazzo (i)",
+      "votes": "174,783",
+      "percentage": "65.2%"
+    }
+  },
+  {
+    "state_name": "missouri",
+    "district": 1,
+    "democrat": {
+      "name": "L. Clay (i)",
+      "votes": "231,604",
+      "percentage": "75.5%"
+    },
+    "republican": {
+      "name": "S. Bailey",
+      "votes": "61,252",
+      "percentage": "20.0%"
+    }
+  },
+  {
+    "state_name": "missouri",
+    "district": 2,
+    "democrat": {
+      "name": "B. Otto",
+      "votes": "153,331",
+      "percentage": "37.6%"
+    },
+    "republican": {
+      "name": "A. Wagner (i)",
+      "votes": "238,826",
+      "percentage": "58.6%"
+    }
+  },
+  {
+    "state_name": "missouri",
+    "district": 3,
+    "democrat": {
+      "name": "K. Miller",
+      "votes": "102,484",
+      "percentage": "27.9%"
+    },
+    "republican": {
+      "name": "B. Luetkemeyer (i)",
+      "votes": "248,880",
+      "percentage": "67.8%"
+    }
+  },
+  {
+    "state_name": "missouri",
+    "district": 4,
+    "democrat": {
+      "name": "G. Christensen",
+      "votes": "92,385",
+      "percentage": "27.8%"
+    },
+    "republican": {
+      "name": "V. Hartzler (i)",
+      "votes": "225,034",
+      "percentage": "67.8%"
+    }
+  },
+  {
+    "state_name": "missouri",
+    "district": 5,
+    "democrat": {
+      "name": "E. Cleaver (i)",
+      "votes": "185,494",
+      "percentage": "58.4%"
+    },
+    "republican": {
+      "name": "J. Turk",
+      "votes": "122,367",
+      "percentage": "38.5%"
+    }
+  },
+  {
+    "state_name": "missouri",
+    "district": 6,
+    "democrat": {
+      "name": "D. Blackwell",
+      "votes": "98,588",
+      "percentage": "28.3%"
+    },
+    "republican": {
+      "name": "S. Graves (i)",
+      "votes": "236,938",
+      "percentage": "68.1%"
+    }
+  },
+  {
+    "state_name": "missouri",
+    "district": 7,
+    "democrat": {
+      "name": "G. Williams",
+      "votes": "92,390",
+      "percentage": "27.4%"
+    },
+    "republican": {
+      "name": "B. Long (i)",
+      "votes": "228,001",
+      "percentage": "67.6%"
+    }
+  },
+  {
+    "state_name": "missouri",
+    "district": 8,
+    "democrat": {
+      "name": "D. Cowell",
+      "votes": "69,949",
+      "percentage": "22.7%"
+    },
+    "republican": {
+      "name": "J. Smith (i)",
+      "votes": "229,648",
+      "percentage": "74.4%"
+    }
+  },
+  {
+    "state_name": "montana",
+    "district": 1,
+    "democrat": {
+      "name": "D. Juneau",
+      "votes": "201,758",
+      "percentage": "40.5%"
+    },
+    "republican": {
+      "name": "R. Zinke (i)",
+      "votes": "280,472",
+      "percentage": "56.3%"
+    }
+  },
+  {
+    "state_name": "nebraska",
+    "district": 1,
+    "democrat": {
+      "name": "D. Wik",
+      "votes": "81,939",
+      "percentage": "30.4%"
+    },
+    "republican": {
+      "name": "J. Fortenberry (i)",
+      "votes": "187,258",
+      "percentage": "69.6%"
+    }
+  },
+  {
+    "state_name": "nebraska",
+    "district": 2,
+    "democrat": {
+      "name": "B. Ashford (i)",
+      "votes": "128,739",
+      "percentage": "47.3%"
+    },
+    "republican": {
+      "name": "D. Bacon",
+      "votes": "134,291",
+      "percentage": "49.4%"
+    }
+  },
+  {
+    "state_name": "nebraska",
+    "district": 3,
+    "democrat": null,
+    "republican": {
+      "name": "A. Smith (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "nevada",
+    "district": 1,
+    "democrat": {
+      "name": "D. Titus (i)",
+      "votes": "116,045",
+      "percentage": "61.8%"
+    },
+    "republican": {
+      "name": "M. Perry",
+      "votes": "54,053",
+      "percentage": "28.8%"
+    }
+  },
+  {
+    "state_name": "nevada",
+    "district": 2,
+    "democrat": {
+      "name": "C. Evans",
+      "votes": "115,395",
+      "percentage": "36.9%"
+    },
+    "republican": {
+      "name": "M. Amodei (i)",
+      "votes": "182,452",
+      "percentage": "58.3%"
+    }
+  },
+  {
+    "state_name": "nevada",
+    "district": 3,
+    "democrat": {
+      "name": "J. Rosen",
+      "votes": "146,653",
+      "percentage": "47.2%"
+    },
+    "republican": {
+      "name": "D. Tarkanian",
+      "votes": "142,726",
+      "percentage": "46.0%"
+    }
+  },
+  {
+    "state_name": "nevada",
+    "district": 4,
+    "democrat": {
+      "name": "R. Kihuen",
+      "votes": "128,680",
+      "percentage": "48.5%"
+    },
+    "republican": {
+      "name": "C. Hardy (i)",
+      "votes": "118,220",
+      "percentage": "44.5%"
+    }
+  },
+  {
+    "state_name": "new-jersey",
+    "district": 1,
+    "democrat": {
+      "name": "D. Norcross (i)",
+      "votes": "178,655",
+      "percentage": "59.8%"
+    },
+    "republican": {
+      "name": "B. Patterson",
+      "votes": "110,235",
+      "percentage": "36.9%"
+    }
+  },
+  {
+    "state_name": "new-jersey",
+    "district": 2,
+    "democrat": {
+      "name": "D. Cole",
+      "votes": "104,726",
+      "percentage": "37.1%"
+    },
+    "republican": {
+      "name": "F. LoBiondo (i)",
+      "votes": "167,816",
+      "percentage": "59.4%"
+    }
+  },
+  {
+    "state_name": "new-jersey",
+    "district": 3,
+    "democrat": {
+      "name": "F. LaVergne",
+      "votes": "115,212",
+      "percentage": "38.6%"
+    },
+    "republican": {
+      "name": "T. MacArthur (i)",
+      "votes": "177,522",
+      "percentage": "59.5%"
+    }
+  },
+  {
+    "state_name": "new-jersey",
+    "district": 4,
+    "democrat": {
+      "name": "L. Phillipson",
+      "votes": "108,373",
+      "percentage": "33.5%"
+    },
+    "republican": {
+      "name": "C. Smith (i)",
+      "votes": "206,137",
+      "percentage": "63.7%"
+    }
+  },
+  {
+    "state_name": "new-jersey",
+    "district": 5,
+    "democrat": {
+      "name": "J. Gottheimer",
+      "votes": "156,863",
+      "percentage": "50.5%"
+    },
+    "republican": {
+      "name": "S. Garrett (i)",
+      "votes": "146,643",
+      "percentage": "47.2%"
+    }
+  },
+  {
+    "state_name": "new-jersey",
+    "district": 6,
+    "democrat": {
+      "name": "F. Pallone (i)",
+      "votes": "150,971",
+      "percentage": "63.0%"
+    },
+    "republican": {
+      "name": "B. Sonnek-Schmelz",
+      "votes": "85,613",
+      "percentage": "35.7%"
+    }
+  },
+  {
+    "state_name": "new-jersey",
+    "district": 7,
+    "democrat": {
+      "name": "P. Jacob",
+      "votes": "146,350",
+      "percentage": "43.0%"
+    },
+    "republican": {
+      "name": "L. Lance (i)",
+      "votes": "184,309",
+      "percentage": "54.2%"
+    }
+  },
+  {
+    "state_name": "new-jersey",
+    "district": 8,
+    "democrat": {
+      "name": "A. Sires (i)",
+      "votes": "124,381",
+      "percentage": "76.9%"
+    },
+    "republican": {
+      "name": "A. Khan",
+      "votes": "30,085",
+      "percentage": "18.6%"
+    }
+  },
+  {
+    "state_name": "new-jersey",
+    "district": 9,
+    "democrat": {
+      "name": "B. Pascrell (i)",
+      "votes": "151,823",
+      "percentage": "69.6%"
+    },
+    "republican": {
+      "name": "H. Castillo",
+      "votes": "61,384",
+      "percentage": "28.1%"
+    }
+  },
+  {
+    "state_name": "new-jersey",
+    "district": 10,
+    "democrat": {
+      "name": "D. Payne Jr. (i)",
+      "votes": "181,591",
+      "percentage": "85.6%"
+    },
+    "republican": {
+      "name": "D. Pinckney",
+      "votes": "25,452",
+      "percentage": "12.0%"
+    }
+  },
+  {
+    "state_name": "new-jersey",
+    "district": 11,
+    "democrat": {
+      "name": "J. Wenzel",
+      "votes": "128,232",
+      "percentage": "38.7%"
+    },
+    "republican": {
+      "name": "R. Frelinghuysen (i)",
+      "votes": "192,538",
+      "percentage": "58.2%"
+    }
+  },
+  {
+    "state_name": "new-jersey",
+    "district": 12,
+    "democrat": {
+      "name": "B. Watson Coleman (i)",
+      "votes": "162,383",
+      "percentage": "62.6%"
+    },
+    "republican": {
+      "name": "S. Uccio",
+      "votes": "83,633",
+      "percentage": "32.3%"
+    }
+  },
+  {
+    "state_name": "new-mexico",
+    "district": 1,
+    "democrat": {
+      "name": "M. Lujan Grisham (i)",
+      "votes": "179,380",
+      "percentage": "65.1%"
+    },
+    "republican": {
+      "name": "R. Priem",
+      "votes": "96,061",
+      "percentage": "34.9%"
+    }
+  },
+  {
+    "state_name": "new-mexico",
+    "district": 2,
+    "democrat": {
+      "name": "M. Soules",
+      "votes": "84,514",
+      "percentage": "37.2%"
+    },
+    "republican": {
+      "name": "S. Pearce (i)",
+      "votes": "142,499",
+      "percentage": "62.8%"
+    }
+  },
+  {
+    "state_name": "new-mexico",
+    "district": 3,
+    "democrat": {
+      "name": "B. Lujan (i)",
+      "votes": "167,848",
+      "percentage": "62.5%"
+    },
+    "republican": {
+      "name": "M. Romero",
+      "votes": "100,529",
+      "percentage": "37.5%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 1,
+    "democrat": {
+      "name": "A. Throne-Holst",
+      "votes": "121,640",
+      "percentage": "41.0%"
+    },
+    "republican": {
+      "name": "L. Zeldin (i)",
+      "votes": "174,682",
+      "percentage": "59.0%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 2,
+    "democrat": {
+      "name": "D. Gregory",
+      "votes": "103,643",
+      "percentage": "37.6%"
+    },
+    "republican": {
+      "name": "P. King (i)",
+      "votes": "171,915",
+      "percentage": "62.4%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 3,
+    "democrat": {
+      "name": "T. Suozzi",
+      "votes": "156,315",
+      "percentage": "52.4%"
+    },
+    "republican": {
+      "name": "J. Martins",
+      "votes": "142,023",
+      "percentage": "47.6%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 4,
+    "democrat": {
+      "name": "K. Rice (i)",
+      "votes": "173,796",
+      "percentage": "59.4%"
+    },
+    "republican": {
+      "name": "D. Gurfein",
+      "votes": "118,821",
+      "percentage": "40.6%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 5,
+    "democrat": {
+      "name": "G. Meeks (i)",
+      "votes": "184,179",
+      "percentage": "85.5%"
+    },
+    "republican": {
+      "name": "M. O'Reilly",
+      "votes": "28,030",
+      "percentage": "13.0%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 6,
+    "democrat": {
+      "name": "G. Meng (i)",
+      "votes": "126,018",
+      "percentage": "71.9%"
+    },
+    "republican": {
+      "name": "D. Maio",
+      "votes": "47,278",
+      "percentage": "27.0%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 7,
+    "democrat": {
+      "name": "N. Velazquez (i)",
+      "votes": "158,972",
+      "percentage": "90.7%"
+    },
+    "republican": {
+      "name": "A. Romaguera",
+      "votes": "16,255",
+      "percentage": "9.3%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 8,
+    "democrat": {
+      "name": "H. Jeffries (i)",
+      "votes": "199,747",
+      "percentage": "93.2%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "new-york",
+    "district": 9,
+    "democrat": {
+      "name": "Y. Clarke (i)",
+      "votes": "200,266",
+      "percentage": "92.3%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "new-york",
+    "district": 10,
+    "democrat": {
+      "name": "J. Nadler (i)",
+      "votes": "170,286",
+      "percentage": "77.5%"
+    },
+    "republican": {
+      "name": "P. Rosenthal",
+      "votes": "49,530",
+      "percentage": "22.5%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 11,
+    "democrat": {
+      "name": "R. Reichard",
+      "votes": "78,066",
+      "percentage": "36.1%"
+    },
+    "republican": {
+      "name": "D. Donovan (i)",
+      "votes": "134,366",
+      "percentage": "62.2%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 12,
+    "democrat": {
+      "name": "C. Maloney (i)",
+      "votes": "219,165",
+      "percentage": "83.0%"
+    },
+    "republican": {
+      "name": "R. Ardini",
+      "votes": "44,981",
+      "percentage": "17.0%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 13,
+    "democrat": {
+      "name": "A. Espaillat",
+      "votes": "187,382",
+      "percentage": "88.8%"
+    },
+    "republican": {
+      "name": "T. Evans",
+      "votes": "14,501",
+      "percentage": "6.9%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 14,
+    "democrat": {
+      "name": "J. Crowley (i)",
+      "votes": "134,603",
+      "percentage": "82.6%"
+    },
+    "republican": {
+      "name": "F. Spotorno",
+      "votes": "28,332",
+      "percentage": "17.4%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 15,
+    "democrat": {
+      "name": "J. Serrano (i)",
+      "votes": "150,058",
+      "percentage": "95.2%"
+    },
+    "republican": {
+      "name": "A. Vega",
+      "votes": "5,606",
+      "percentage": "3.6%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 16,
+    "democrat": {
+      "name": "E. Engel (i)",
+      "votes": "192,671",
+      "percentage": "94.7%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "new-york",
+    "district": 17,
+    "democrat": {
+      "name": "N. Lowey (i)",
+      "votes": null,
+      "percentage": null
+    },
+    "republican": null
+  },
+  {
+    "state_name": "new-york",
+    "district": 18,
+    "democrat": {
+      "name": "S. Maloney (i)",
+      "votes": "149,056",
+      "percentage": "55.2%"
+    },
+    "republican": {
+      "name": "P. Oliva",
+      "votes": "120,967",
+      "percentage": "44.8%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 19,
+    "democrat": {
+      "name": "Z. Teachout",
+      "votes": "126,641",
+      "percentage": "45.3%"
+    },
+    "republican": {
+      "name": "J. Faso",
+      "votes": "153,143",
+      "percentage": "54.7%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 20,
+    "democrat": {
+      "name": "P. Tonko (i)",
+      "votes": "195,005",
+      "percentage": "67.6%"
+    },
+    "republican": {
+      "name": "J. Vitollo",
+      "votes": "93,407",
+      "percentage": "32.4%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 21,
+    "democrat": {
+      "name": "M. Derrick",
+      "votes": "72,637",
+      "percentage": "29.3%"
+    },
+    "republican": {
+      "name": "E. Stefanik (i)",
+      "votes": "164,212",
+      "percentage": "66.1%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 22,
+    "democrat": {
+      "name": "K. Myers",
+      "votes": "103,955",
+      "percentage": "40.4%"
+    },
+    "republican": {
+      "name": "C. Tenney",
+      "votes": "120,777",
+      "percentage": "47.0%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 23,
+    "democrat": {
+      "name": "J. Plumb",
+      "votes": "107,822",
+      "percentage": "41.9%"
+    },
+    "republican": {
+      "name": "T. Reed (i)",
+      "votes": "149,779",
+      "percentage": "58.1%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 24,
+    "democrat": {
+      "name": "C. Deacon",
+      "votes": "108,928",
+      "percentage": "39.0%"
+    },
+    "republican": {
+      "name": "J. Katko (i)",
+      "votes": "170,532",
+      "percentage": "61.0%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 25,
+    "democrat": {
+      "name": "L. Slaughter (i)",
+      "votes": "169,199",
+      "percentage": "55.8%"
+    },
+    "republican": {
+      "name": "M. Assini",
+      "votes": "134,285",
+      "percentage": "44.2%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 26,
+    "democrat": {
+      "name": "B. Higgins (i)",
+      "votes": "193,518",
+      "percentage": "74.4%"
+    },
+    "republican": {
+      "name": "S. Schratz",
+      "votes": "66,688",
+      "percentage": "25.6%"
+    }
+  },
+  {
+    "state_name": "new-york",
+    "district": 27,
+    "democrat": {
+      "name": "D. Kastenbaum",
+      "votes": "99,222",
+      "percentage": "32.3%"
+    },
+    "republican": {
+      "name": "C. Collins (i)",
+      "votes": "207,510",
+      "percentage": "67.7%"
+    }
+  },
+  {
+    "state_name": "north-carolina",
+    "district": 1,
+    "democrat": {
+      "name": "G. Butterfield (i)",
+      "votes": "237,938",
+      "percentage": "68.6%"
+    },
+    "republican": {
+      "name": "H. Dew",
+      "votes": "100,633",
+      "percentage": "29.0%"
+    }
+  },
+  {
+    "state_name": "north-carolina",
+    "district": 2,
+    "democrat": {
+      "name": "J. McNeil",
+      "votes": "167,299",
+      "percentage": "43.3%"
+    },
+    "republican": {
+      "name": "G. Holding (i)",
+      "votes": "219,342",
+      "percentage": "56.7%"
+    }
+  },
+  {
+    "state_name": "north-carolina",
+    "district": 3,
+    "democrat": {
+      "name": "E. Reeves",
+      "votes": "104,007",
+      "percentage": "32.6%"
+    },
+    "republican": {
+      "name": "W. Jones (i)",
+      "votes": "214,850",
+      "percentage": "67.4%"
+    }
+  },
+  {
+    "state_name": "north-carolina",
+    "district": 4,
+    "democrat": {
+      "name": "D. Price (i)",
+      "votes": "275,501",
+      "percentage": "68.2%"
+    },
+    "republican": {
+      "name": "S. Googe",
+      "votes": "128,331",
+      "percentage": "31.8%"
+    }
+  },
+  {
+    "state_name": "north-carolina",
+    "district": 5,
+    "democrat": {
+      "name": "J. Brannon",
+      "votes": "145,597",
+      "percentage": "41.5%"
+    },
+    "republican": {
+      "name": "V. Foxx (i)",
+      "votes": "204,943",
+      "percentage": "58.5%"
+    }
+  },
+  {
+    "state_name": "north-carolina",
+    "district": 6,
+    "democrat": {
+      "name": "P. Glidewell",
+      "votes": "141,480",
+      "percentage": "40.7%"
+    },
+    "republican": {
+      "name": "M. Walker (i)",
+      "votes": "205,973",
+      "percentage": "59.3%"
+    }
+  },
+  {
+    "state_name": "north-carolina",
+    "district": 7,
+    "democrat": {
+      "name": "J. Casteen",
+      "votes": "134,344",
+      "percentage": "39.0%"
+    },
+    "republican": {
+      "name": "D. Rouzer (i)",
+      "votes": "209,933",
+      "percentage": "61.0%"
+    }
+  },
+  {
+    "state_name": "north-carolina",
+    "district": 8,
+    "democrat": {
+      "name": "T. Mills",
+      "votes": "131,428",
+      "percentage": "41.2%"
+    },
+    "republican": {
+      "name": "R. Hudson (i)",
+      "votes": "187,909",
+      "percentage": "58.8%"
+    }
+  },
+  {
+    "state_name": "north-carolina",
+    "district": 9,
+    "democrat": {
+      "name": "C. Cano",
+      "votes": "137,335",
+      "percentage": "41.7%"
+    },
+    "republican": {
+      "name": "R. Pittenger (i)",
+      "votes": "191,660",
+      "percentage": "58.3%"
+    }
+  },
+  {
+    "state_name": "north-carolina",
+    "district": 10,
+    "democrat": {
+      "name": "A. Millard",
+      "votes": "128,114",
+      "percentage": "36.8%"
+    },
+    "republican": {
+      "name": "P. McHenry (i)",
+      "votes": "219,589",
+      "percentage": "63.2%"
+    }
+  },
+  {
+    "state_name": "north-carolina",
+    "district": 11,
+    "democrat": {
+      "name": "R. Bryson",
+      "votes": "127,972",
+      "percentage": "35.8%"
+    },
+    "republican": {
+      "name": "M. Meadows (i)",
+      "votes": "229,130",
+      "percentage": "64.2%"
+    }
+  },
+  {
+    "state_name": "north-carolina",
+    "district": 12,
+    "democrat": {
+      "name": "A. Adams (i)",
+      "votes": "232,451",
+      "percentage": "67.0%"
+    },
+    "republican": {
+      "name": "L. Threatt",
+      "votes": "114,242",
+      "percentage": "33.0%"
+    }
+  },
+  {
+    "state_name": "north-carolina",
+    "district": 13,
+    "democrat": {
+      "name": "B. Davis",
+      "votes": "153,691",
+      "percentage": "43.9%"
+    },
+    "republican": {
+      "name": "T. Budd",
+      "votes": "196,736",
+      "percentage": "56.1%"
+    }
+  },
+  {
+    "state_name": "new-hampshire",
+    "district": 1,
+    "democrat": {
+      "name": "C. Shea-Porter",
+      "votes": "161,828",
+      "percentage": "44.2%"
+    },
+    "republican": {
+      "name": "F. Guinta (i)",
+      "votes": "157,011",
+      "percentage": "42.9%"
+    }
+  },
+  {
+    "state_name": "new-hampshire",
+    "district": 2,
+    "democrat": {
+      "name": "A. Kuster (i)",
+      "votes": "174,386",
+      "percentage": "49.8%"
+    },
+    "republican": {
+      "name": "J. Lawrence",
+      "votes": "158,960",
+      "percentage": "45.4%"
+    }
+  },
+  {
+    "state_name": "north-dakota",
+    "district": 1,
+    "democrat": {
+      "name": "C. Iron Eyes",
+      "votes": "80,186",
+      "percentage": "23.8%"
+    },
+    "republican": {
+      "name": "K. Cramer (i)",
+      "votes": "233,245",
+      "percentage": "69.2%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 1,
+    "democrat": {
+      "name": "M. Young",
+      "votes": "139,279",
+      "percentage": "40.4%"
+    },
+    "republican": {
+      "name": "S. Chabot (i)",
+      "votes": "205,283",
+      "percentage": "59.6%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 2,
+    "democrat": {
+      "name": "W. Smith",
+      "votes": "107,859",
+      "percentage": "33.4%"
+    },
+    "republican": {
+      "name": "B. Wenstrup (i)",
+      "votes": "215,265",
+      "percentage": "66.6%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 3,
+    "democrat": {
+      "name": "J. Beatty (i)",
+      "votes": "189,536",
+      "percentage": "68.3%"
+    },
+    "republican": {
+      "name": "J. Adams",
+      "votes": "88,040",
+      "percentage": "31.7%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 4,
+    "democrat": {
+      "name": "J. Garrett",
+      "votes": "96,334",
+      "percentage": "31.9%"
+    },
+    "republican": {
+      "name": "J. Jordan (i)",
+      "votes": "205,669",
+      "percentage": "68.1%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 5,
+    "democrat": {
+      "name": "J. Neu",
+      "votes": "98,045",
+      "percentage": "29.0%"
+    },
+    "republican": {
+      "name": "B. Latta (i)",
+      "votes": "240,036",
+      "percentage": "71.0%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 6,
+    "democrat": {
+      "name": "M. Lorentz",
+      "votes": "86,938",
+      "percentage": "29.4%"
+    },
+    "republican": {
+      "name": "B. Johnson (i)",
+      "votes": "209,177",
+      "percentage": "70.6%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 7,
+    "democrat": {
+      "name": "R. Rich",
+      "votes": "87,602",
+      "percentage": "28.9%"
+    },
+    "republican": {
+      "name": "B. Gibbs (i)",
+      "votes": "194,146",
+      "percentage": "64.1%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 8,
+    "democrat": {
+      "name": "S. Fought",
+      "votes": "85,313",
+      "percentage": "26.8%"
+    },
+    "republican": {
+      "name": "W. Davidson (i)",
+      "votes": "219,453",
+      "percentage": "69.0%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 9,
+    "democrat": {
+      "name": "M. Kaptur (i)",
+      "votes": "187,926",
+      "percentage": "68.5%"
+    },
+    "republican": {
+      "name": "D. Larson",
+      "votes": "86,311",
+      "percentage": "31.5%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 10,
+    "democrat": {
+      "name": "R. Klepinger",
+      "votes": "105,947",
+      "percentage": "32.4%"
+    },
+    "republican": {
+      "name": "M. Turner (i)",
+      "votes": "210,256",
+      "percentage": "64.4%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 11,
+    "democrat": {
+      "name": "M. Fudge (i)",
+      "votes": "233,285",
+      "percentage": "80.1%"
+    },
+    "republican": {
+      "name": "B. Goldstein",
+      "votes": "58,066",
+      "percentage": "19.9%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 12,
+    "democrat": {
+      "name": "E. Albertson",
+      "votes": "109,455",
+      "percentage": "29.9%"
+    },
+    "republican": {
+      "name": "P. Tiberi (i)",
+      "votes": "243,970",
+      "percentage": "66.6%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 13,
+    "democrat": {
+      "name": "T. Ryan (i)",
+      "votes": "203,430",
+      "percentage": "67.6%"
+    },
+    "republican": {
+      "name": "R. Morckel",
+      "votes": "97,312",
+      "percentage": "32.4%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 14,
+    "democrat": {
+      "name": "M. Wager",
+      "votes": "127,547",
+      "percentage": "37.3%"
+    },
+    "republican": {
+      "name": "D. Joyce (i)",
+      "votes": "214,618",
+      "percentage": "62.7%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 15,
+    "democrat": {
+      "name": "S. Wharton",
+      "votes": "110,272",
+      "percentage": "33.8%"
+    },
+    "republican": {
+      "name": "S. Stivers (i)",
+      "votes": "216,186",
+      "percentage": "66.2%"
+    }
+  },
+  {
+    "state_name": "ohio",
+    "district": 16,
+    "democrat": {
+      "name": "K. Mundy",
+      "votes": "117,296",
+      "percentage": "34.6%"
+    },
+    "republican": {
+      "name": "J. Renacci (i)",
+      "votes": "221,495",
+      "percentage": "65.4%"
+    }
+  },
+  {
+    "state_name": "oklahoma",
+    "district": 1,
+    "democrat": null,
+    "republican": {
+      "name": "J. Bridenstine (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "oklahoma",
+    "district": 2,
+    "democrat": {
+      "name": "J. Harris-Till",
+      "votes": "62,307",
+      "percentage": "23.2%"
+    },
+    "republican": {
+      "name": "M. Mullin (i)",
+      "votes": "189,612",
+      "percentage": "70.6%"
+    }
+  },
+  {
+    "state_name": "oklahoma",
+    "district": 3,
+    "democrat": {
+      "name": "F. Robbins",
+      "votes": "63,008",
+      "percentage": "21.7%"
+    },
+    "republican": {
+      "name": "F. Lucas (i)",
+      "votes": "227,276",
+      "percentage": "78.3%"
+    }
+  },
+  {
+    "state_name": "oklahoma",
+    "district": 4,
+    "democrat": {
+      "name": "C. Owen",
+      "votes": "76,380",
+      "percentage": "26.1%"
+    },
+    "republican": {
+      "name": "T. Cole (i)",
+      "votes": "203,942",
+      "percentage": "69.6%"
+    }
+  },
+  {
+    "state_name": "oklahoma",
+    "district": 5,
+    "democrat": {
+      "name": "A. McAffrey",
+      "votes": "103,122",
+      "percentage": "36.8%"
+    },
+    "republican": {
+      "name": "S. Russell (i)",
+      "votes": "160,012",
+      "percentage": "57.1%"
+    }
+  },
+  {
+    "state_name": "oregon",
+    "district": 1,
+    "democrat": {
+      "name": "S. Bonamici (i)",
+      "votes": "207,190",
+      "percentage": "59.6%"
+    },
+    "republican": {
+      "name": "B. Heinrich",
+      "votes": "129,495",
+      "percentage": "37.3%"
+    }
+  },
+  {
+    "state_name": "oregon",
+    "district": 2,
+    "democrat": {
+      "name": "J. Crary",
+      "votes": "103,383",
+      "percentage": "27.9%"
+    },
+    "republican": {
+      "name": "G. Walden (i)",
+      "votes": "267,179",
+      "percentage": "72.1%"
+    }
+  },
+  {
+    "state_name": "oregon",
+    "district": 3,
+    "democrat": {
+      "name": "E. Blumenauer (i)",
+      "votes": "256,159",
+      "percentage": "72.6%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "oregon",
+    "district": 4,
+    "democrat": {
+      "name": "P. DeFazio (i)",
+      "votes": "216,442",
+      "percentage": "55.5%"
+    },
+    "republican": {
+      "name": "A. Robinson",
+      "votes": "155,271",
+      "percentage": "39.8%"
+    }
+  },
+  {
+    "state_name": "oregon",
+    "district": 5,
+    "democrat": {
+      "name": "K. Schrader (i)",
+      "votes": "178,405",
+      "percentage": "53.6%"
+    },
+    "republican": {
+      "name": "C. Willis",
+      "votes": "143,839",
+      "percentage": "43.2%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 1,
+    "democrat": {
+      "name": "R. Brady (i)",
+      "votes": "237,882",
+      "percentage": "82.2%"
+    },
+    "republican": {
+      "name": "D. Williams",
+      "votes": "51,516",
+      "percentage": "17.8%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 2,
+    "democrat": {
+      "name": "D. Evans",
+      "votes": "310,770",
+      "percentage": "90.2%"
+    },
+    "republican": {
+      "name": "J. Jones",
+      "votes": "33,911",
+      "percentage": "9.8%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 3,
+    "democrat": null,
+    "republican": {
+      "name": "M. Kelly (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 4,
+    "democrat": {
+      "name": "J. Burkholder",
+      "votes": "111,158",
+      "percentage": "33.9%"
+    },
+    "republican": {
+      "name": "S. Perry (i)",
+      "votes": "216,772",
+      "percentage": "66.1%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 5,
+    "democrat": {
+      "name": "K. Strano Taylor",
+      "votes": "97,686",
+      "percentage": "32.7%"
+    },
+    "republican": {
+      "name": "G. Thompson (i)",
+      "votes": "200,627",
+      "percentage": "67.3%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 6,
+    "democrat": {
+      "name": "M. Parrish",
+      "votes": "151,800",
+      "percentage": "42.7%"
+    },
+    "republican": {
+      "name": "R. Costello (i)",
+      "votes": "203,671",
+      "percentage": "57.3%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 7,
+    "democrat": {
+      "name": "M. Balchunis",
+      "votes": "147,808",
+      "percentage": "40.3%"
+    },
+    "republican": {
+      "name": "P. Meehan (i)",
+      "votes": "219,314",
+      "percentage": "59.7%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 8,
+    "democrat": {
+      "name": "S. Santarsiero",
+      "votes": "172,571",
+      "percentage": "45.5%"
+    },
+    "republican": {
+      "name": "B. Fitzpatrick",
+      "votes": "206,607",
+      "percentage": "54.5%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 9,
+    "democrat": {
+      "name": "A. Halvorson",
+      "votes": "105,958",
+      "percentage": "36.6%"
+    },
+    "republican": {
+      "name": "B. Shuster (i)",
+      "votes": "183,798",
+      "percentage": "63.4%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 10,
+    "democrat": {
+      "name": "M. Molesevich",
+      "votes": "87,956",
+      "percentage": "29.7%"
+    },
+    "republican": {
+      "name": "T. Marino (i)",
+      "votes": "208,106",
+      "percentage": "70.3%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 11,
+    "democrat": {
+      "name": "M. Marsicano",
+      "votes": "111,025",
+      "percentage": "36.3%"
+    },
+    "republican": {
+      "name": "L. Barletta (i)",
+      "votes": "194,889",
+      "percentage": "63.7%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 12,
+    "democrat": {
+      "name": "E. McClelland",
+      "votes": "133,607",
+      "percentage": "38.1%"
+    },
+    "republican": {
+      "name": "K. Rothfus (i)",
+      "votes": "217,449",
+      "percentage": "61.9%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 13,
+    "democrat": {
+      "name": "B. Boyle (i)",
+      "votes": null,
+      "percentage": null
+    },
+    "republican": null
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 14,
+    "democrat": {
+      "name": "M. Doyle (i)",
+      "votes": "252,709",
+      "percentage": "74.3%"
+    },
+    "republican": {
+      "name": "L. McAllister",
+      "votes": "87,334",
+      "percentage": "25.7%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 15,
+    "democrat": {
+      "name": "R. Daugherty",
+      "votes": "120,233",
+      "percentage": "38.0%"
+    },
+    "republican": {
+      "name": "C. Dent (i)",
+      "votes": "184,562",
+      "percentage": "58.4%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 16,
+    "democrat": {
+      "name": "C. Hartman",
+      "votes": "132,969",
+      "percentage": "42.7%"
+    },
+    "republican": {
+      "name": "L. Smucker",
+      "votes": "167,698",
+      "percentage": "53.9%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 17,
+    "democrat": {
+      "name": "M. Cartwright (i)",
+      "votes": "155,766",
+      "percentage": "53.8%"
+    },
+    "republican": {
+      "name": "M. Connolly",
+      "votes": "133,719",
+      "percentage": "46.2%"
+    }
+  },
+  {
+    "state_name": "pennsylvania",
+    "district": 18,
+    "democrat": null,
+    "republican": {
+      "name": "T. Murphy (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "rhode-island",
+    "district": 1,
+    "democrat": {
+      "name": "D. Cicilline (i)",
+      "votes": "129,272",
+      "percentage": "64.7%"
+    },
+    "republican": {
+      "name": "R. Taub",
+      "votes": "70,608",
+      "percentage": "35.3%"
+    }
+  },
+  {
+    "state_name": "rhode-island",
+    "district": 2,
+    "democrat": {
+      "name": "J. Langevin (i)",
+      "votes": "131,968",
+      "percentage": "58.2%"
+    },
+    "republican": {
+      "name": "R. Reis",
+      "votes": "69,918",
+      "percentage": "30.8%"
+    }
+  },
+  {
+    "state_name": "south-carolina",
+    "district": 1,
+    "democrat": {
+      "name": "D. Cherny",
+      "votes": "117,487",
+      "percentage": "36.9%"
+    },
+    "republican": {
+      "name": "M. Sanford (i)",
+      "votes": "186,735",
+      "percentage": "58.6%"
+    }
+  },
+  {
+    "state_name": "south-carolina",
+    "district": 2,
+    "democrat": {
+      "name": "A. Bjorn",
+      "votes": "109,488",
+      "percentage": "35.9%"
+    },
+    "republican": {
+      "name": "J. Wilson (i)",
+      "votes": "183,766",
+      "percentage": "60.3%"
+    }
+  },
+  {
+    "state_name": "south-carolina",
+    "district": 3,
+    "democrat": {
+      "name": "H. Cleveland",
+      "votes": "72,993",
+      "percentage": "27.1%"
+    },
+    "republican": {
+      "name": "J. Duncan (i)",
+      "votes": "196,793",
+      "percentage": "72.9%"
+    }
+  },
+  {
+    "state_name": "south-carolina",
+    "district": 4,
+    "democrat": {
+      "name": "C. Fedalei",
+      "votes": "91,106",
+      "percentage": "31.1%"
+    },
+    "republican": {
+      "name": "T. Gowdy (i)",
+      "votes": "197,235",
+      "percentage": "67.2%"
+    }
+  },
+  {
+    "state_name": "south-carolina",
+    "district": 5,
+    "democrat": {
+      "name": "F. Person",
+      "votes": "114,936",
+      "percentage": "38.8%"
+    },
+    "republican": {
+      "name": "M. Mulvaney (i)",
+      "votes": "175,139",
+      "percentage": "59.1%"
+    }
+  },
+  {
+    "state_name": "south-carolina",
+    "district": 6,
+    "democrat": {
+      "name": "J. Clyburn (i)",
+      "votes": "179,351",
+      "percentage": "70.2%"
+    },
+    "republican": {
+      "name": "L. Sterling",
+      "votes": "70,636",
+      "percentage": "27.6%"
+    }
+  },
+  {
+    "state_name": "south-carolina",
+    "district": 7,
+    "democrat": {
+      "name": "M. Hyman",
+      "votes": "110,378",
+      "percentage": "39.3%"
+    },
+    "republican": {
+      "name": "T. Rice (i)",
+      "votes": "170,826",
+      "percentage": "60.7%"
+    }
+  },
+  {
+    "state_name": "south-dakota",
+    "district": 1,
+    "democrat": {
+      "name": "P. Hawks",
+      "votes": "132,792",
+      "percentage": "35.9%"
+    },
+    "republican": {
+      "name": "K. Noem (i)",
+      "votes": "237,141",
+      "percentage": "64.1%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 1,
+    "democrat": {
+      "name": "S. McKellar",
+      "votes": "62,635",
+      "percentage": "24.1%"
+    },
+    "republican": {
+      "name": "L. Gohmert (i)",
+      "votes": "192,066",
+      "percentage": "73.9%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 2,
+    "democrat": {
+      "name": "P. Bryan",
+      "votes": "100,077",
+      "percentage": "36.0%"
+    },
+    "republican": {
+      "name": "T. Poe (i)",
+      "votes": "168,524",
+      "percentage": "60.6%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 3,
+    "democrat": {
+      "name": "A. Bell",
+      "votes": "108,780",
+      "percentage": "34.5%"
+    },
+    "republican": {
+      "name": "S. Johnson (i)",
+      "votes": "193,063",
+      "percentage": "61.3%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 4,
+    "democrat": null,
+    "republican": {
+      "name": "J. Ratcliffe (i)",
+      "votes": "215,705",
+      "percentage": "88.0%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 5,
+    "democrat": null,
+    "republican": {
+      "name": "J. Hensarling (i)",
+      "votes": "155,149",
+      "percentage": "80.6%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 6,
+    "democrat": {
+      "name": "R. Woolridge",
+      "votes": "106,510",
+      "percentage": "39.0%"
+    },
+    "republican": {
+      "name": "J. Barton (i)",
+      "votes": "159,213",
+      "percentage": "58.3%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 7,
+    "democrat": {
+      "name": "J. Cargas",
+      "votes": "111,774",
+      "percentage": "43.8%"
+    },
+    "republican": {
+      "name": "J. Culberson (i)",
+      "votes": "143,369",
+      "percentage": "56.2%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 8,
+    "democrat": null,
+    "republican": {
+      "name": "K. Brady (i)",
+      "votes": null,
+      "percentage": null
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 9,
+    "democrat": {
+      "name": "A. Green (i)",
+      "votes": "151,884",
+      "percentage": "80.6%"
+    },
+    "republican": {
+      "name": "J. Martin",
+      "votes": "36,454",
+      "percentage": "19.4%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 10,
+    "democrat": {
+      "name": "T. Cadien",
+      "votes": "119,728",
+      "percentage": "38.4%"
+    },
+    "republican": {
+      "name": "M. McCaul (i)",
+      "votes": "178,926",
+      "percentage": "57.4%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 11,
+    "democrat": null,
+    "republican": {
+      "name": "M. Conaway (i)",
+      "votes": "201,476",
+      "percentage": "89.5%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 12,
+    "democrat": {
+      "name": "B. Bradshaw",
+      "votes": "75,938",
+      "percentage": "26.8%"
+    },
+    "republican": {
+      "name": "K. Granger (i)",
+      "votes": "196,331",
+      "percentage": "69.4%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 13,
+    "democrat": null,
+    "republican": {
+      "name": "M. Thornberry (i)",
+      "votes": "198,730",
+      "percentage": "90.0%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 14,
+    "democrat": {
+      "name": "M. Cole",
+      "votes": "98,815",
+      "percentage": "38.1%"
+    },
+    "republican": {
+      "name": "R. Weber (i)",
+      "votes": "160,340",
+      "percentage": "61.9%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 15,
+    "democrat": {
+      "name": "V. Gonzalez",
+      "votes": "101,592",
+      "percentage": "57.3%"
+    },
+    "republican": {
+      "name": "T. Westley",
+      "votes": "66,732",
+      "percentage": "37.7%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 16,
+    "democrat": {
+      "name": "B. O'Rourke (i)",
+      "votes": "148,027",
+      "percentage": "85.8%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "texas",
+    "district": 17,
+    "democrat": {
+      "name": "W. Matta",
+      "votes": "86,352",
+      "percentage": "35.2%"
+    },
+    "republican": {
+      "name": "B. Flores (i)",
+      "votes": "149,157",
+      "percentage": "60.8%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 18,
+    "democrat": {
+      "name": "S. Jackson Lee (i)",
+      "votes": "149,928",
+      "percentage": "73.5%"
+    },
+    "republican": {
+      "name": "L. Bartley",
+      "votes": "48,248",
+      "percentage": "23.6%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 19,
+    "democrat": null,
+    "republican": {
+      "name": "J. Arrington",
+      "votes": "175,980",
+      "percentage": "86.7%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 20,
+    "democrat": {
+      "name": "J. Castro (i)",
+      "votes": "149,522",
+      "percentage": "79.7%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "texas",
+    "district": 21,
+    "democrat": {
+      "name": "T. Wakely",
+      "votes": "129,253",
+      "percentage": "36.4%"
+    },
+    "republican": {
+      "name": "L. Smith (i)",
+      "votes": "202,523",
+      "percentage": "57.0%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 22,
+    "democrat": {
+      "name": "M. Gibson",
+      "votes": "123,462",
+      "percentage": "40.5%"
+    },
+    "republican": {
+      "name": "P. Olson (i)",
+      "votes": "181,663",
+      "percentage": "59.5%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 23,
+    "democrat": {
+      "name": "P. Gallego",
+      "votes": "106,049",
+      "percentage": "46.8%"
+    },
+    "republican": {
+      "name": "W. Hurd (i)",
+      "votes": "109,816",
+      "percentage": "48.5%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 24,
+    "democrat": {
+      "name": "J. McDowell",
+      "votes": "107,845",
+      "percentage": "39.3%"
+    },
+    "republican": {
+      "name": "K. Marchant (i)",
+      "votes": "154,364",
+      "percentage": "56.2%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 25,
+    "democrat": {
+      "name": "K. Thomas",
+      "votes": "116,552",
+      "percentage": "37.7%"
+    },
+    "republican": {
+      "name": "R. Williams (i)",
+      "votes": "180,579",
+      "percentage": "58.4%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 26,
+    "democrat": {
+      "name": "E. Mauck",
+      "votes": "93,954",
+      "percentage": "29.6%"
+    },
+    "republican": {
+      "name": "M. Burgess (i)",
+      "votes": "210,313",
+      "percentage": "66.3%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 27,
+    "democrat": {
+      "name": "R. Barrera",
+      "votes": "87,931",
+      "percentage": "38.3%"
+    },
+    "republican": {
+      "name": "B. Farenthold (i)",
+      "votes": "141,722",
+      "percentage": "61.7%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 28,
+    "democrat": {
+      "name": "H. Cuellar (i)",
+      "votes": "121,980",
+      "percentage": "66.2%"
+    },
+    "republican": {
+      "name": "Z. Hardin",
+      "votes": "57,683",
+      "percentage": "31.3%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 29,
+    "democrat": {
+      "name": "G. Green (i)",
+      "votes": "95,508",
+      "percentage": "72.5%"
+    },
+    "republican": {
+      "name": "J. Garza",
+      "votes": "31,619",
+      "percentage": "24.0%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 30,
+    "democrat": {
+      "name": "E. Johnson (i)",
+      "votes": "169,905",
+      "percentage": "77.9%"
+    },
+    "republican": {
+      "name": "C. Lingerfelt",
+      "votes": "41,365",
+      "percentage": "19.0%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 31,
+    "democrat": {
+      "name": "M. Clark",
+      "votes": "103,543",
+      "percentage": "36.5%"
+    },
+    "republican": {
+      "name": "J. Carter (i)",
+      "votes": "165,678",
+      "percentage": "58.4%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 32,
+    "democrat": null,
+    "republican": {
+      "name": "P. Sessions (i)",
+      "votes": "162,212",
+      "percentage": "71.1%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 33,
+    "democrat": {
+      "name": "M. Veasey (i)",
+      "votes": "92,914",
+      "percentage": "73.7%"
+    },
+    "republican": {
+      "name": "M. Mitchell",
+      "votes": "33,156",
+      "percentage": "26.3%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 34,
+    "democrat": {
+      "name": "F. Vela (i)",
+      "votes": "104,513",
+      "percentage": "62.7%"
+    },
+    "republican": {
+      "name": "R. Gonzalez",
+      "votes": "62,240",
+      "percentage": "37.3%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 35,
+    "democrat": {
+      "name": "L. Doggett (i)",
+      "votes": "124,161",
+      "percentage": "63.1%"
+    },
+    "republican": {
+      "name": "S. Narvaiz",
+      "votes": "62,212",
+      "percentage": "31.6%"
+    }
+  },
+  {
+    "state_name": "texas",
+    "district": 36,
+    "democrat": null,
+    "republican": {
+      "name": "B. Babin (i)",
+      "votes": "203,779",
+      "percentage": "88.7%"
+    }
+  },
+  {
+    "state_name": "utah",
+    "district": 1,
+    "democrat": {
+      "name": "P. Clemens",
+      "votes": "65,403",
+      "percentage": "27.2%"
+    },
+    "republican": {
+      "name": "R. Bishop (i)",
+      "votes": "157,106",
+      "percentage": "65.4%"
+    }
+  },
+  {
+    "state_name": "utah",
+    "district": 2,
+    "democrat": {
+      "name": "C. Albarran",
+      "votes": "83,131",
+      "percentage": "34.1%"
+    },
+    "republican": {
+      "name": "C. Stewart (i)",
+      "votes": "149,838",
+      "percentage": "61.5%"
+    }
+  },
+  {
+    "state_name": "utah",
+    "district": 3,
+    "democrat": {
+      "name": "S. Tryon",
+      "votes": "68,104",
+      "percentage": "26.7%"
+    },
+    "republican": {
+      "name": "J. Chaffetz (i)",
+      "votes": "186,743",
+      "percentage": "73.3%"
+    }
+  },
+  {
+    "state_name": "utah",
+    "district": 4,
+    "democrat": {
+      "name": "D. Owens",
+      "votes": "96,284",
+      "percentage": "41.7%"
+    },
+    "republican": {
+      "name": "M. Love (i)",
+      "votes": "123,459",
+      "percentage": "53.5%"
+    }
+  },
+  {
+    "state_name": "vermont",
+    "district": 1,
+    "democrat": {
+      "name": "P. Welch (i)",
+      "votes": "263,400",
+      "percentage": "90.0%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "virginia",
+    "district": 1,
+    "democrat": {
+      "name": "M. Rowe",
+      "votes": "130,320",
+      "percentage": "35.8%"
+    },
+    "republican": {
+      "name": "R. Wittman (i)",
+      "votes": "221,826",
+      "percentage": "60.9%"
+    }
+  },
+  {
+    "state_name": "virginia",
+    "district": 2,
+    "democrat": {
+      "name": "S. Brown",
+      "votes": "106,979",
+      "percentage": "38.3%"
+    },
+    "republican": {
+      "name": "S. Taylor",
+      "votes": "172,586",
+      "percentage": "61.7%"
+    }
+  },
+  {
+    "state_name": "virginia",
+    "district": 3,
+    "democrat": {
+      "name": "R. Scott (i)",
+      "votes": "199,748",
+      "percentage": "66.9%"
+    },
+    "republican": {
+      "name": "M. Williams",
+      "votes": "99,047",
+      "percentage": "33.1%"
+    }
+  },
+  {
+    "state_name": "virginia",
+    "district": 4,
+    "democrat": {
+      "name": "D. McEachin",
+      "votes": "191,939",
+      "percentage": "57.3%"
+    },
+    "republican": {
+      "name": "M. Wade",
+      "votes": "143,261",
+      "percentage": "42.7%"
+    }
+  },
+  {
+    "state_name": "virginia",
+    "district": 5,
+    "democrat": {
+      "name": "J. Dittmar",
+      "votes": "147,656",
+      "percentage": "41.7%"
+    },
+    "republican": {
+      "name": "T. Garrett",
+      "votes": "206,577",
+      "percentage": "58.3%"
+    }
+  },
+  {
+    "state_name": "virginia",
+    "district": 6,
+    "democrat": {
+      "name": "K. Degner",
+      "votes": "111,699",
+      "percentage": "33.3%"
+    },
+    "republican": {
+      "name": "R. Goodlatte (i)",
+      "votes": "223,915",
+      "percentage": "66.7%"
+    }
+  },
+  {
+    "state_name": "virginia",
+    "district": 7,
+    "democrat": {
+      "name": "E. Bedell",
+      "votes": "158,692",
+      "percentage": "42.1%"
+    },
+    "republican": {
+      "name": "D. Brat (i)",
+      "votes": "217,968",
+      "percentage": "57.9%"
+    }
+  },
+  {
+    "state_name": "virginia",
+    "district": 8,
+    "democrat": {
+      "name": "D. Beyer (i)",
+      "votes": "245,775",
+      "percentage": "68.6%"
+    },
+    "republican": {
+      "name": "C. Hernick",
+      "votes": "98,123",
+      "percentage": "27.4%"
+    }
+  },
+  {
+    "state_name": "virginia",
+    "district": 9,
+    "democrat": {
+      "name": "D. Kitts",
+      "votes": "87,822",
+      "percentage": "28.4%"
+    },
+    "republican": {
+      "name": "M. Griffith (i)",
+      "votes": "212,666",
+      "percentage": "68.7%"
+    }
+  },
+  {
+    "state_name": "virginia",
+    "district": 10,
+    "democrat": {
+      "name": "L. Bennett",
+      "votes": "181,977",
+      "percentage": "47.1%"
+    },
+    "republican": {
+      "name": "B. Comstock (i)",
+      "votes": "204,019",
+      "percentage": "52.9%"
+    }
+  },
+  {
+    "state_name": "virginia",
+    "district": 11,
+    "democrat": {
+      "name": "G. Connolly (i)",
+      "votes": null,
+      "percentage": null
+    },
+    "republican": null
+  },
+  {
+    "state_name": "washington",
+    "district": 1,
+    "democrat": {
+      "name": "S. DelBene (i)",
+      "votes": "179,521",
+      "percentage": "55.5%"
+    },
+    "republican": {
+      "name": "R. Sutherland",
+      "votes": "144,212",
+      "percentage": "44.5%"
+    }
+  },
+  {
+    "state_name": "washington",
+    "district": 2,
+    "democrat": {
+      "name": "R. Larsen (i)",
+      "votes": "195,661",
+      "percentage": "64.0%"
+    },
+    "republican": {
+      "name": "M. Hennemann",
+      "votes": "109,838",
+      "percentage": "36.0%"
+    }
+  },
+  {
+    "state_name": "washington",
+    "district": 3,
+    "democrat": {
+      "name": "J. Moeller",
+      "votes": "115,277",
+      "percentage": "38.6%"
+    },
+    "republican": {
+      "name": "J. Herrera Beutler (i)",
+      "votes": "183,375",
+      "percentage": "61.4%"
+    }
+  },
+  {
+    "state_name": "washington",
+    "district": 4,
+    "democrat": null,
+    "republican": {
+      "name": "C. Didier",
+      "votes": "90,091",
+      "percentage": "42.6%"
+    }
+  },
+  {
+    "state_name": "washington",
+    "district": 5,
+    "democrat": {
+      "name": "J. Pakootas",
+      "votes": "116,110",
+      "percentage": "40.5%"
+    },
+    "republican": {
+      "name": "C. McMorris Rodgers (i)",
+      "votes": "170,711",
+      "percentage": "59.5%"
+    }
+  },
+  {
+    "state_name": "washington",
+    "district": 6,
+    "democrat": {
+      "name": "D. Kilmer (i)",
+      "votes": "189,168",
+      "percentage": "61.7%"
+    },
+    "republican": {
+      "name": "T. Bloom",
+      "votes": "117,388",
+      "percentage": "38.3%"
+    }
+  },
+  {
+    "state_name": "washington",
+    "district": 7,
+    "democrat": {
+      "name": "B. Walkinshaw",
+      "votes": "150,803",
+      "percentage": "43.9%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "washington",
+    "district": 8,
+    "democrat": {
+      "name": "T. Ventrella",
+      "votes": "116,268",
+      "percentage": "40.0%"
+    },
+    "republican": {
+      "name": "D. Reichert (i)",
+      "votes": "174,729",
+      "percentage": "60.0%"
+    }
+  },
+  {
+    "state_name": "washington",
+    "district": 9,
+    "democrat": {
+      "name": "A. Smith (i)",
+      "votes": "186,787",
+      "percentage": "73.0%"
+    },
+    "republican": {
+      "name": "D. Basler",
+      "votes": "68,998",
+      "percentage": "27.0%"
+    }
+  },
+  {
+    "state_name": "washington",
+    "district": 10,
+    "democrat": {
+      "name": "D. Heck (i)",
+      "votes": "159,208",
+      "percentage": "58.7%"
+    },
+    "republican": {
+      "name": "J. Postma",
+      "votes": "112,164",
+      "percentage": "41.3%"
+    }
+  },
+  {
+    "state_name": "west-virginia",
+    "district": 1,
+    "democrat": {
+      "name": "M. Manypenny",
+      "votes": "73,025",
+      "percentage": "31.0%"
+    },
+    "republican": {
+      "name": "D. McKinley (i)",
+      "votes": "162,339",
+      "percentage": "69.0%"
+    }
+  },
+  {
+    "state_name": "west-virginia",
+    "district": 2,
+    "democrat": {
+      "name": "M. Hunt",
+      "votes": "100,551",
+      "percentage": "41.8%"
+    },
+    "republican": {
+      "name": "A. Mooney (i)",
+      "votes": "140,153",
+      "percentage": "58.2%"
+    }
+  },
+  {
+    "state_name": "west-virginia",
+    "district": 3,
+    "democrat": {
+      "name": "M. Detch",
+      "votes": "49,309",
+      "percentage": "24.0%"
+    },
+    "republican": {
+      "name": "E. Jenkins (i)",
+      "votes": "139,700",
+      "percentage": "67.9%"
+    }
+  },
+  {
+    "state_name": "wyoming",
+    "district": 1,
+    "democrat": {
+      "name": "R. Greene",
+      "votes": "75,419",
+      "percentage": "30.1%"
+    },
+    "republican": {
+      "name": "L. Cheney",
+      "votes": "156,040",
+      "percentage": "62.2%"
+    }
+  },
+  {
+    "state_name": "wisconsin",
+    "district": 1,
+    "democrat": {
+      "name": "R. Solen",
+      "votes": "106,857",
+      "percentage": "30.2%"
+    },
+    "republican": {
+      "name": "P. Ryan (i)",
+      "votes": "230,063",
+      "percentage": "65.0%"
+    }
+  },
+  {
+    "state_name": "wisconsin",
+    "district": 2,
+    "democrat": {
+      "name": "M. Pocan (i)",
+      "votes": "275,016",
+      "percentage": "68.7%"
+    },
+    "republican": {
+      "name": "P. Theron",
+      "votes": "125,033",
+      "percentage": "31.3%"
+    }
+  },
+  {
+    "state_name": "wisconsin",
+    "district": 3,
+    "democrat": {
+      "name": "R. Kind (i)",
+      "votes": null,
+      "percentage": null
+    },
+    "republican": null
+  },
+  {
+    "state_name": "wisconsin",
+    "district": 4,
+    "democrat": {
+      "name": "G. Moore (i)",
+      "votes": "220,389",
+      "percentage": "77.0%"
+    },
+    "republican": null
+  },
+  {
+    "state_name": "wisconsin",
+    "district": 5,
+    "democrat": {
+      "name": "K. Penebaker",
+      "votes": "114,469",
+      "percentage": "29.3%"
+    },
+    "republican": {
+      "name": "J. Sensenbrenner (i)",
+      "votes": "260,703",
+      "percentage": "66.8%"
+    }
+  },
+  {
+    "state_name": "wisconsin",
+    "district": 6,
+    "democrat": {
+      "name": "S. Lloyd",
+      "votes": "132,908",
+      "percentage": "37.3%"
+    },
+    "republican": {
+      "name": "G. Grothman (i)",
+      "votes": "203,920",
+      "percentage": "57.2%"
+    }
+  },
+  {
+    "state_name": "wisconsin",
+    "district": 7,
+    "democrat": {
+      "name": "M. Hoeft",
+      "votes": "137,910",
+      "percentage": "38.2%"
+    },
+    "republican": {
+      "name": "S. Duffy (i)",
+      "votes": "222,834",
+      "percentage": "61.8%"
+    }
+  },
+  {
+    "state_name": "wisconsin",
+    "district": 8,
+    "democrat": {
+      "name": "T. Nelson",
+      "votes": "135,648",
+      "percentage": "37.3%"
+    },
+    "republican": {
+      "name": "M. Gallagher",
+      "votes": "227,732",
+      "percentage": "62.7%"
+    }
+  }
+]

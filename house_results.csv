@@ -1,0 +1,427 @@
+,contested,democrat_name,democrat_percent,democrat_votes,democrat_winner,district,other_candidates,republican_name,republican_percent,republican_votes,republican_winner,state_name
+0,False,,,,False,1,[],B. Byrne (i),,,True,Alabama
+1,True,N. Mathis,0.454,111640.0,False,2,[],M. Roby (i),0.546,134450.0,True,Alabama
+2,True,J. Smith,0.329,93567.0,False,3,[],M. Rogers (i),0.671,190724.0,True,Alabama
+3,False,,,,False,4,[],R. Aderholt (i),,,True,Alabama
+4,True,W. Boyd,0.332,101577.0,False,5,[],M. Brooks (i),0.668,204791.0,True,Alabama
+5,True,D. Putman,0.252,81296.0,False,6,[],G. Palmer (i),0.748,240897.0,True,Alabama
+6,False,T. Sewell (i),,,True,7,[],,,,False,Alabama
+7,True,D. DeGette (i),0.678,189837.0,True,1,"[{'name': 'D. Dinges', 'winner': False, 'votes': 10549, 'percent': 0.038}]",C. Stockham,0.28400000000000003,79561.0,False,Colorado
+8,True,J. Polis (i),0.5680000000000001,251988.0,True,2,"[{'name': 'R. Longstreth', 'winner': False, 'votes': 25858, 'percent': 0.058}]",N. Morse,0.374,166020.0,False,Colorado
+9,True,G. Schwartz,0.406,142794.0,False,3,"[{'name': 'G. Kent', 'winner': False, 'votes': 16996, 'percent': 0.048}]",S. Tipton (i),0.546,191917.0,True,Colorado
+10,True,B. Seay,0.315,119249.0,False,4,"[{'name': 'B. Griffith', 'winner': False, 'votes': 17925, 'percent': 0.047}]",K. Buck (i),0.638,241424.0,True,Colorado
+11,True,M. Plowright,0.308,109573.0,False,5,"[{'name': 'M. McRedmond', 'winner': False, 'votes': 24320, 'percent': 0.068}]",D. Lamborn (i),0.624,222169.0,True,Colorado
+12,True,M. Carroll,0.424,149417.0,False,6,"[{'name': 'N. Olsen', 'winner': False, 'votes': 17102, 'percent': 0.049}, {'name': 'R. Worthey', 'winner': False, 'votes': 5038, 'percent': 0.014}]",M. Coffman (i),0.513,180727.0,True,Colorado
+13,True,E. Perlmutter (i),0.552,185208.0,True,7,"[{'name': 'M. Buchanan', 'winner': False, 'votes': 15831, 'percent': 0.047}]",G. Athanasopoulos,0.4,134244.0,False,Colorado
+14,False,,,,False,1,"[{'name': 'M. West', 'winner': False, 'votes': 56200, 'percent': 0.23500000000000001}]",R. Crawford (i),0.765,183068.0,True,Arkansas
+15,True,D. Curry,0.368,111049.0,False,2,"[{'name': 'C. Hayes', 'winner': False, 'votes': 14287, 'percent': 0.047}]",F. Hill (i),0.584,176100.0,True,Arkansas
+16,False,,,,False,3,"[{'name': 'S. Isaacson', 'winner': False, 'votes': 62793, 'percent': 0.227}]",S. Womack (i),0.773,214268.0,True,Arkansas
+17,False,,,,False,4,"[{'name': 'K. Hicks', 'winner': False, 'votes': 60969, 'percent': 0.251}]",B. Westerman (i),0.749,181921.0,True,Arkansas
+18,True,J. Larson (i),0.636,193040.0,True,1,"[{'name': 'M. DeRosa', 'winner': False, 'votes': 6283, 'percent': 0.021}]",M. Corey,0.343,104214.0,False,Connecticut
+19,True,J. Courtney (i),0.63,207584.0,True,2,"[{'name': 'J. Pelto', 'winner': False, 'votes': 5332, 'percent': 0.016}, {'name': 'D. Reale', 'winner': False, 'votes': 5016, 'percent': 0.015}]",D. Novak,0.339,111587.0,False,Connecticut
+20,True,R. DeLauro (i),0.687,208900.0,True,3,[],A. Cadena,0.313,95370.0,False,Connecticut
+21,True,J. Himes (i),0.601,185928.0,True,4,[],J. Shaban,0.399,123630.0,False,Connecticut
+22,True,E. Esty (i),0.579,174788.0,True,5,[],C. Cope,0.421,126842.0,False,Connecticut
+23,True,J. Reed,0.405,112183.0,False,1,[],D. La Malfa (i),0.595,164907.0,True,California
+24,True,J. Huffman (i),0.771,177724.0,True,2,[],D. Mensing,0.229,52818.0,False,California
+25,True,J. Garamendi (i),0.582,127623.0,True,3,[],E. Cleek,0.418,91544.0,False,California
+26,True,R. Derlet,0.372,116541.0,False,4,[],T. McClintock (i),0.628,196613.0,True,California
+27,True,M. Thompson (i),0.772,172810.0,True,5,[],C. Santamaria,0.228,51098.0,False,California
+28,True,D. Matsui (i),0.752,145704.0,True,6,[],R. Evans,0.248,47926.0,False,California
+29,True,A. Bera (i),0.512,129064.0,True,7,[],S. Jones,0.488,123056.0,False,California
+30,True,R. Ramirez,0.373,76999.0,False,8,[],P. Cook (i),0.627,129690.0,True,California
+31,True,J. McNerney (i),0.5760000000000001,106256.0,True,9,[],T. Amador,0.424,78121.0,False,California
+32,True,M. Eggman,0.47600000000000003,100646.0,False,10,[],J. Denham (i),0.524,110659.0,True,California
+33,True,M. DeSaulnier (i),0.718,194345.0,True,11,[],R. Petersen,0.28200000000000003,76473.0,False,California
+34,False,N. Pelosi (i),0.81,250378.0,True,12,"[{'name': 'P. Picus', 'winner': False, 'votes': 58577, 'percent': 0.19}]",,,,False,California
+35,True,B. Lee (i),0.907,277390.0,True,13,[],S. Caro,0.093,28413.0,False,California
+36,True,J. Speier (i),0.809,213612.0,True,14,[],A. Cardenas,0.191,50485.0,False,California
+37,True,E. Swalwell (i),0.738,188179.0,True,15,[],D. Turner,0.262,66959.0,False,California
+38,True,J. Costa (i),0.578,72111.0,True,16,[],J. Tacherra,0.422,52570.0,False,California
+39,False,M. Honda (i),0.389,86505.0,False,17,[],,,,False,California
+40,True,A. Eshoo (i),0.712,220139.0,True,18,[],R. Fox,0.28800000000000003,88907.0,False,California
+41,True,Z. Lofgren (i),0.74,171688.0,True,19,[],B. Lancaster,0.26,60420.0,False,California
+42,True,J. Panetta,0.706,144870.0,True,20,[],C. Lucius,0.294,60324.0,False,California
+43,True,E. Huerta,0.42,49643.0,False,21,[],D. Valadao (i),0.58,68481.0,True,California
+44,True,L. Campos,0.318,66802.0,False,22,[],D. Nunes (i),0.682,143333.0,True,California
+45,True,W. Reed,0.30000000000000004,64842.0,False,23,[],K. McCarthy (i),0.7000000000000001,151346.0,True,California
+46,True,S. Carbajal,0.532,155492.0,True,24,[],J. Fareed,0.468,136532.0,False,California
+47,True,B. Caforio,0.458,95296.0,False,25,[],S. Knight (i),0.542,112768.0,True,California
+48,True,J. Brownley (i),0.599,148550.0,True,26,[],R. Dagnesses,0.401,99597.0,False,California
+49,True,J. Chu (i),0.665,133766.0,True,27,[],J. Orswell,0.335,67421.0,False,California
+50,True,A. Schiff (i),0.779,168082.0,True,28,[],L. Solis,0.221,47619.0,False,California
+51,False,R. Alarcon,0.248,32656.0,False,29,[],,,,False,California
+52,True,B. Sherman (i),0.724,159974.0,True,30,[],M. Reed,0.276,60865.0,False,California
+53,True,P. Aguilar (i),0.557,111870.0,True,31,[],P. Chabot,0.443,89070.0,False,California
+54,False,R. Hernandez,0.376,56050.0,False,32,[],,,,False,California
+55,True,T. Lieu (i),0.663,173778.0,True,33,[],K. Wright,0.337,88507.0,False,California
+56,False,A. Edwards,0.218,27091.0,False,34,[],,,,False,California
+57,True,N. Torres (i),0.718,109767.0,True,35,[],T. Fischella,0.28200000000000003,43189.0,False,California
+58,True,R. Ruiz (i),0.614,132252.0,True,36,[],J. Stone,0.386,83049.0,False,California
+59,False,C. Wiggins,0.18,33082.0,False,37,[],,,,False,California
+60,True,L. Sanchez (i),0.6970000000000001,131099.0,True,38,[],R. Downing,0.303,56883.0,False,California
+61,True,B. Murdock,0.423,101651.0,False,39,[],E. Royce (i),0.577,138907.0,True,California
+62,False,L. Roybal-Allard (i),0.719,82789.0,True,40,"[{'name': 'R. Gonzalez', 'winner': False, 'votes': 32404, 'percent': 0.281}]",,,,False,California
+63,True,M. Takano (i),0.644,115859.0,True,41,[],D. Shepherd,0.356,64153.0,False,California
+64,True,T. Sheridan,0.41000000000000003,97123.0,False,42,[],K. Calvert (i),0.59,139915.0,True,California
+65,True,M. Waters (i),0.756,128551.0,True,43,[],O. Navarro,0.244,41507.0,False,California
+66,False,I. Hall,0.489,67177.0,False,44,[],,,,False,California
+67,True,R. Varasteh,0.41000000000000003,119521.0,False,45,[],M. Walters (i),0.59,171736.0,True,California
+68,False,B. Nguyen,0.301,44652.0,False,46,[],,,,False,California
+69,True,A. Lowenthal (i),0.625,127832.0,True,47,[],A. Whallon,0.375,76670.0,False,California
+70,True,S. Savary,0.41500000000000004,117716.0,False,48,[],D. Rohrabacher (i),0.585,165987.0,True,California
+71,True,D. Applegate,0.49,129100.0,False,49,[],D. Issa (i),0.51,134428.0,False,California
+72,True,P. Malloy,0.361,84142.0,False,50,[],D. Hunter (i),0.639,148880.0,True,California
+73,True,J. Vargas (i),0.719,108932.0,True,51,[],J. Hidalgo,0.281,42676.0,False,California
+74,True,S. Peters (i),0.5640000000000001,148651.0,True,52,[],D. Gitsham,0.436,115013.0,False,California
+75,True,S. Davis (i),0.661,151269.0,True,53,[],J. Veltmeyer,0.339,77436.0,False,California
+76,True,L. Rochester,0.555,233542.0,True,1,"[{'name': 'M. Perri', 'winner': False, 'votes': 8325, 'percent': 0.02}, {'name': 'S. Gesty', 'winner': False, 'votes': 6436, 'percent': 0.015}]",H. Reigle,0.41000000000000003,172290.0,False,Delaware
+77,True,T. O'Halleran,0.508,117048.0,True,1,"[{'name': 'R. Parrish', 'winner': False, 'votes': 13122, 'percent': 0.057}]",P. Babeu,0.435,100236.0,False,Arizona
+78,True,M. Heinz,0.433,120572.0,False,2,[],M. McSally (i),0.5670000000000001,157677.0,True,Arizona
+79,False,R. Grijalva (i),,,True,3,[],,,,False,Arizona
+80,True,M. Weisser,0.28500000000000003,68460.0,False,4,[],P. Gosar (i),0.715,171901.0,True,Arizona
+81,True,T. Fuentes,0.369,92225.0,False,5,[],A. Biggs,0.631,157980.0,True,Arizona
+82,True,J. Williamson,0.384,99008.0,False,6,[],D. Schweikert (i),0.616,158978.0,True,Arizona
+83,True,R. Gallego (i),0.746,88219.0,True,7,[],E. Nunez,0.254,30040.0,False,Arizona
+84,False,,,,False,8,"[{'name': 'M. Salazar', 'winner': False, 'votes': 75963, 'percent': 0.314}]",T. Franks (i),0.686,165593.0,True,Arizona
+85,True,K. Sinema (i),0.611,132281.0,True,9,[],D. Giles,0.389,84137.0,False,Arizona
+86,True,S. Lindbeck,0.365,90784.0,False,1,"[{'name': 'J. McDermott', 'winner': False, 'votes': 25104, 'percent': 0.101}, {'name': 'B. Souphanavong', 'winner': False, 'votes': 7158, 'percent': 0.029}]",D. Young (i),0.505,125729.0,True,Alaska
+87,True,S. Specht,0.309,113586.0,False,1,[],M. Gaetz,0.6910000000000001,254280.0,True,Florida
+88,True,W. Dartland,0.299,102596.0,False,2,"[{'name': 'R. Lapham', 'winner': False, 'votes': 9384, 'percent': 0.027}]",N. Dunn,0.673,230838.0,True,Florida
+89,True,K. McGurn,0.397,135688.0,False,3,"[{'name': 'T. Wells', 'winner': False, 'votes': 12438, 'percent': 0.036000000000000004}]",T. Yoho (i),0.5660000000000001,193261.0,True,Florida
+90,True,D. Bruderly,0.276,112253.0,False,4,"[{'name': 'G. Koniz', 'winner': False, 'votes': 8990, 'percent': 0.022}]",J. Rutherford,0.7020000000000001,286018.0,True,Florida
+91,True,A. Lawson,0.642,193430.0,True,5,[],G. Smith,0.358,107784.0,False,Florida
+92,True,B. McCullough,0.41400000000000003,150677.0,False,6,[],R. DeSantis (i),0.586,213180.0,True,Florida
+93,True,S. Murphy,0.515,181758.0,True,7,[],J. Mica (i),0.485,171412.0,False,Florida
+94,True,C. Westbrook,0.325,126962.0,False,8,"[{'name': 'B. Stinson', 'winner': False, 'votes': 16924, 'percent': 0.043000000000000003}]",B. Posey (i),0.631,246257.0,True,Florida
+95,True,D. Soto,0.5750000000000001,194963.0,True,9,[],W. Liebnitzky,0.425,144281.0,False,Florida
+96,True,V. Demings,0.649,198309.0,True,10,[],T. Lowe,0.35100000000000003,107423.0,False,Florida
+97,True,D. Koller,0.316,124599.0,False,11,"[{'name': 'B. Riggs', 'winner': False, 'votes': 11961, 'percent': 0.03}]",D. Webster (i),0.654,257881.0,True,Florida
+98,True,R. Tager,0.314,115909.0,False,12,[],G. Bilirakis (i),0.686,253347.0,True,Florida
+99,True,C. Crist,0.519,184371.0,True,13,[],D. Jolly (i),0.481,170964.0,False,Florida
+100,True,K. Castor (i),0.618,194851.0,True,14,[],C. Quinn,0.382,120584.0,False,Florida
+101,True,J. Lange,0.425,134945.0,False,15,[],D. Ross (i),0.5750000000000001,182498.0,True,Florida
+102,True,J. Schneider,0.402,154854.0,False,16,[],V. Buchanan (i),0.598,230187.0,True,Florida
+103,True,A. Freeman,0.342,115801.0,False,17,"[{'name': 'J. Sawyer', 'winner': False, 'votes': 13336, 'percent': 0.039}]",T. Rooney (i),0.618,209135.0,True,Florida
+104,True,R. Perkins,0.43,161328.0,False,18,"[{'name': 'C. Spalding', 'winner': False, 'votes': 12451, 'percent': 0.033}]",B. Mast,0.536,201011.0,True,Florida
+105,True,R. Neeld,0.341,123625.0,False,19,[],F. Rooney,0.659,238975.0,True,Florida
+106,True,A. Hastings (i),0.803,220452.0,True,20,[],G. Stein,0.197,54079.0,False,Florida
+107,True,L. Frankel (i),0.627,208999.0,True,21,"[{'name': 'M. Trout', 'winner': False, 'votes': 7148, 'percent': 0.021}]",P. Spain,0.352,117273.0,False,Florida
+108,True,T. Deutch (i),0.589,197396.0,True,22,[],A. McGee,0.41100000000000003,137691.0,False,Florida
+109,True,D. Wasserman Schultz (i),0.5670000000000001,180979.0,True,23,"[{'name': 'D. Endriss', 'winner': False, 'votes': 5100, 'percent': 0.016}, {'name': 'L. Milstein', 'winner': False, 'votes': 3835, 'percent': 0.012}]",J. Kaufman,0.405,129400.0,False,Florida
+110,False,F. Wilson (i),,,True,24,[],,,,False,Florida
+111,True,A. Valdes,0.376,95008.0,False,25,[],M. Diaz-Balart (i),0.624,157748.0,True,Florida
+112,True,J. Garcia,0.41200000000000003,115348.0,False,26,"[{'name': 'J. Peixoto', 'winner': False, 'votes': 16491, 'percent': 0.059000000000000004}]",C. Curbelo (i),0.53,148445.0,True,Florida
+113,True,S. Fuhrman,0.451,129548.0,False,27,[],I. Ros-Lehtinen (i),0.549,157763.0,True,Florida
+114,False,,,,False,1,[],B. Carter (i),,,True,Georgia
+115,True,S. Bishop (i),0.61,146284.0,True,2,[],G. Duke,0.39,93392.0,False,Georgia
+116,True,A. Pendley,0.316,95736.0,False,3,[],D. Ferguson,0.684,206930.0,True,Georgia
+117,True,H. Johnson (i),0.756,214278.0,True,4,[],V. Armendariz,0.244,69075.0,False,Georgia
+118,True,J. Lewis (i),0.846,241773.0,True,5,[],D. Bell,0.154,44032.0,False,Georgia
+119,True,R. Stooksbury,0.384,119536.0,False,6,[],T. Price (i),0.616,191792.0,True,Georgia
+120,True,R. Malik,0.395,113593.0,False,7,[],R. Woodall (i),0.605,173638.0,True,Georgia
+121,True,J. Harris,0.323,81903.0,False,8,[],A. Scott (i),0.677,171529.0,True,Georgia
+122,False,,,,False,9,[],D. Collins (i),,,True,Georgia
+123,False,,,,False,10,[],J. Hice (i),,,True,Georgia
+124,True,D. Wilson,0.325,104401.0,False,11,[],B. Loudermilk (i),0.675,216772.0,True,Georgia
+125,True,T. McCracken,0.384,98870.0,False,12,[],R. Allen (i),0.616,158705.0,True,Georgia
+126,False,D. Scott (i),,,True,13,[],,,,False,Georgia
+127,False,,,,False,14,[],T. Graves (i),,,True,Georgia
+128,True,B. Rush (i),0.734,221551.0,True,1,[],A. Deuser,0.266,80161.0,False,Illinois
+129,True,R. Kelly (i),0.796,229184.0,True,2,[],J. Morrow,0.20400000000000001,58788.0,False,Illinois
+130,False,D. Lipinski (i),,,True,3,[],,,,False,Illinois
+131,False,L. Gutierrez (i),,,True,4,[],,,,False,Illinois
+132,True,M. Quigley (i),0.676,201983.0,True,5,"[{'name': 'R. Sherman', 'winner': False, 'votes': 13867, 'percent': 0.046}]",V. Kolber,0.278,82931.0,False,Illinois
+133,True,A. Howland,0.405,140023.0,False,6,[],P. Roskam (i),0.595,205746.0,True,Illinois
+134,True,D. Davis (i),0.84,232322.0,True,7,[],J. Leef,0.16,44242.0,False,Illinois
+135,True,R. Krishnamoorthi,0.581,141138.0,True,8,[],P. DiCianni,0.419,101893.0,False,Illinois
+136,True,J. Schakowsky (i),0.658,203834.0,True,9,[],J. McCarthy Lasonde,0.342,105920.0,False,Illinois
+137,True,B. Schneider,0.525,147299.0,True,10,[],R. Dold (i),0.47500000000000003,133383.0,False,Illinois
+138,True,B. Foster (i),0.599,157659.0,True,11,[],T. Khouri,0.401,105762.0,False,Illinois
+139,True,C. Baricevic,0.397,123754.0,False,12,"[{'name': 'P. Bradshaw', 'winner': False, 'votes': 18713, 'percent': 0.06}]",M. Bost (i),0.543,169233.0,True,Illinois
+140,True,M. Wicklund,0.403,125932.0,False,13,[],R. Davis (i),0.597,186791.0,True,Illinois
+141,True,J. Walz,0.404,134362.0,False,14,[],R. Hultgren (i),0.596,197962.0,True,Illinois
+142,False,,,,False,15,[],J. Shimkus (i),,,True,Illinois
+143,False,,,,False,16,[],A. Kinzinger (i),,,True,Illinois
+144,True,C. Bustos (i),0.601,170746.0,True,17,[],P. Harlan,0.399,113141.0,False,Illinois
+145,True,J. Rodriguez,0.278,95741.0,False,18,[],D. LaHood (i),0.722,248701.0,True,Illinois
+146,True,C. Hanabusa,0.719,135069.0,True,1,"[{'name': 'A. Yim', 'winner': False, 'votes': 6127, 'percent': 0.033}, {'name': 'C. Griffin', 'winner': False, 'votes': 4040, 'percent': 0.022}]",S. Ostrov,0.227,42569.0,False,Hawaii
+147,True,T. Gabbard (i),0.811,163484.0,True,2,[],A. Kaaihue,0.189,38098.0,False,Hawaii
+148,False,P. Visclosky (i),0.8150000000000001,207299.0,True,1,"[{'name': 'D. Dunn', 'winner': False, 'votes': 47009, 'percent': 0.185}]",,,,False,Indiana
+149,True,L. Coleman,0.369,102332.0,False,2,"[{'name': 'R. Cenkush', 'winner': False, 'votes': 10594, 'percent': 0.038}]",J. Walorski (i),0.593,164276.0,True,Indiana
+150,True,T. Schrader,0.23,65908.0,False,3,"[{'name': 'P. Snyder', 'winner': False, 'votes': 19782, 'percent': 0.069}]",J. Banks,0.7010000000000001,201216.0,True,Indiana
+151,True,J. Dale,0.305,91153.0,False,4,"[{'name': 'S. Mayoras', 'winner': False, 'votes': 14758, 'percent': 0.049}]",T. Rokita (i),0.646,193272.0,True,Indiana
+152,True,A. Demaree,0.343,123791.0,False,5,"[{'name': 'M. Wittlief', 'winner': False, 'votes': 15324, 'percent': 0.042}]",S. Brooks (i),0.615,221785.0,True,Indiana
+153,True,B. Welsh,0.267,79075.0,False,6,"[{'name': 'R. Turvey', 'winner': False, 'votes': 12325, 'percent': 0.042}]",L. Messer (i),0.6910000000000001,204844.0,True,Indiana
+154,True,A. Carson (i),0.6000000000000001,158606.0,True,7,"[{'name': 'D. Thompson', 'winner': False, 'votes': 11470, 'percent': 0.043000000000000003}]",C. Ping,0.357,94396.0,False,Indiana
+155,True,R. Drake,0.316,93130.0,False,8,"[{'name': 'A. Horning', 'winner': False, 'votes': 13630, 'percent': 0.046}]",L. Bucshon (i),0.637,187569.0,True,Indiana
+156,True,S. Yoder,0.405,130539.0,False,9,"[{'name': 'R. Brooksbank', 'winner': False, 'votes': 17417, 'percent': 0.054}]",T. Hollingsworth,0.541,174698.0,True,Indiana
+157,True,M. Vernon,0.461,176447.0,False,1,[],R. Blum (i),0.539,206273.0,True,Iowa
+158,True,D. Loebsack (i),0.537,197802.0,True,2,[],C. Peters,0.463,170529.0,False,Iowa
+159,True,J. Mowrer,0.398,154780.0,False,3,"[{'name': 'B. Holder', 'winner': False, 'votes': 15337, 'percent': 0.039}, {'name': 'C. Addy', 'winner': False, 'votes': 6335, 'percent': 0.016}, {'name': 'J. Grandanette', 'winner': False, 'votes': 4511, 'percent': 0.012}]",D. Young (i),0.535,208264.0,True,Iowa
+160,True,K. Weaver,0.386,142018.0,False,4,[],S. King (i),0.614,225842.0,True,Iowa
+161,True,J. Piotrowski,0.32,111035.0,False,1,[],R. Labrador (i),0.68,236397.0,True,Idaho
+162,True,J. Martinez,0.293,97250.0,False,2,"[{'name': 'A. Tomkins', 'winner': False, 'votes': 25575, 'percent': 0.077}]",M. Simpson (i),0.63,208887.0,True,Idaho
+163,False,,,,False,1,"[{'name': 'A. LaPolice', 'winner': False, 'votes': 66218, 'percent': 0.264}, {'name': 'K. Burt', 'winner': False, 'votes': 18415, 'percent': 0.073}]",R. Marshall,0.662,166051.0,True,Kansas
+164,True,B. Potter,0.325,94561.0,False,2,"[{'name': 'J. Bales', 'winner': False, 'votes': 18700, 'percent': 0.064}]",L. Jenkins (i),0.611,177851.0,True,Kansas
+165,True,J. Sidie,0.406,135778.0,False,3,"[{'name': 'S. Hohe', 'winner': False, 'votes': 26897, 'percent': 0.08}]",K. Yoder (i),0.513,171647.0,True,Kansas
+166,True,D. Giroux,0.294,78822.0,False,4,"[{'name': 'M. Allen', 'winner': False, 'votes': 18358, 'percent': 0.068}, {'name': 'G. Bakken', 'winner': False, 'votes': 7420, 'percent': 0.028}]",M. Pompeo (i),0.61,163406.0,True,Kansas
+167,True,S. Gaskins,0.274,81710.0,False,1,[],J. Comer,0.726,216957.0,True,Kentucky
+168,False,,,,False,2,[],B. Guthrie (i),,,True,Kentucky
+169,True,J. Yarmuth (i),0.635,212388.0,True,3,"[{'name': 'E. Corley', 'winner': False, 'votes': 0, 'percent': 0.0}]",H. Bratcher,0.365,122085.0,False,Kentucky
+170,True,C. Sidle,0.28700000000000003,94064.0,False,4,[],T. Massie (i),0.713,233922.0,True,Kentucky
+171,False,,,,False,5,[],H. Rogers (i),,,True,Kentucky
+172,True,N. Kemper,0.389,128725.0,False,6,[],A. Barr (i),0.611,202094.0,True,Kentucky
+173,True,J. Swider,0.028,9231.0,False,1,"[{'name': 'H. Kearney', 'winner': False, 'votes': 9395, 'percent': 0.029}, {'name': 'E. Barron', 'winner': False, 'votes': 6712, 'percent': 0.021}, {'name': 'C. Yang', 'winner': False, 'votes': 3233, 'percent': 0.01}]",S. Scalise (i),0.746,243575.0,True,Louisiana
+174,False,K. Cutno,0.101,28826.0,False,2,[],,,,False,Louisiana
+175,True,L. Rader,0.08700000000000001,27807.0,False,3,"[{'name': 'G. McLendon', 'winner': False, 'votes': 2934, 'percent': 0.009000000000000001}, {'name': 'K. Scelfo', 'winner': False, 'votes': 2667, 'percent': 0.008}]",H. Vidrine,0.004,1354.0,False,Louisiana
+176,True,* M. Jones,0.28200000000000003,80558.0,True,4,"[{'name': 'M. Halverson', 'winner': False, 'votes': 3145, 'percent': 0.011}, {'name': 'K. Krefft', 'winner': False, 'votes': 2492, 'percent': 0.009000000000000001}]",R. John,0.046,13215.0,False,Louisiana
+177,False,,,,False,5,[],B. Burkette,0.184,47106.0,False,Louisiana
+178,True,J. Sampson,0.09,29809.0,False,6,"[{'name': 'R. Fontanesi', 'winner': False, 'votes': 7598, 'percent': 0.023}, {'name': 'D. Graham', 'winner': False, 'votes': 3215, 'percent': 0.01}]",B. Bell,0.101,33585.0,False,Louisiana
+179,True,C. Pingree (i),0.579,225428.0,True,1,[],M. Holbrook,0.421,164048.0,False,Maine
+180,True,E. Cain,0.451,157862.0,False,2,[],B. Poliquin (i),0.549,192285.0,True,Maine
+181,True,J. Werner,0.28,94776.0,False,1,"[{'name': 'M. Beers', 'winner': False, 'votes': 14207, 'percent': 0.042}]",A. Harris (i),0.678,229135.0,True,Maryland
+182,True,D. Ruppersberger (i),0.622,172324.0,True,2,"[{'name': 'K. Kasprzak', 'winner': False, 'votes': 12530, 'percent': 0.045}]",P. McDonough,0.333,92099.0,False,Maryland
+183,True,J. Sarbanes (i),0.628,194362.0,True,3,"[{'name': 'N. Eze', 'winner': False, 'votes': 8430, 'percent': 0.027}]",M. Plaster,0.34500000000000003,106627.0,False,Maryland
+184,True,A. Brown,0.741,218215.0,True,4,"[{'name': 'K. Clark', 'winner': False, 'votes': 7357, 'percent': 0.025}, {'name': 'B. Krause', 'winner': False, 'votes': 5274, 'percent': 0.018000000000000002}]",G. McDermott,0.216,63674.0,False,Maryland
+185,True,S. Hoyer (i),0.673,223582.0,True,5,"[{'name': 'J. Summers', 'winner': False, 'votes': 10033, 'percent': 0.03}]",M. Arness,0.297,98768.0,False,Maryland
+186,True,J. Delaney (i),0.554,167229.0,True,6,"[{'name': 'D. Howser', 'winner': False, 'votes': 6216, 'percent': 0.021}, {'name': 'G. Gluck', 'winner': False, 'votes': 4997, 'percent': 0.017}]",A. Hoeber,0.40900000000000003,123611.0,False,Maryland
+187,True,E. Cummings (i),0.751,211962.0,True,7,"[{'name': 'M. Hoenig', 'winner': False, 'votes': 8428, 'percent': 0.03}]",C. Vaughn,0.219,61854.0,False,Maryland
+188,True,J. Raskin,0.593,191671.0,True,8,"[{'name': 'N. Wallace', 'winner': False, 'votes': 9761, 'percent': 0.03}, {'name': 'J. Wunder', 'winner': False, 'votes': 6540, 'percent': 0.02}]",D. Cox,0.356,115200.0,False,Maryland
+189,False,R. Neal (i),0.734,233310.0,True,1,"[{'name': 'F. Mayock', 'winner': False, 'votes': 57226, 'percent': 0.18}, {'name': 'T. Simmons', 'winner': False, 'votes': 27427, 'percent': 0.08600000000000001}]",,,,False,Massachusetts
+190,False,J. McGovern (i),,,True,2,[],,,,False,Massachusetts
+191,True,N. Tsongas (i),0.687,234361.0,True,3,[],A. Wofford,0.313,106882.0,False,Massachusetts
+192,True,J. Kennedy (i),0.7000000000000001,261356.0,True,4,[],D. Rosa,0.30000000000000004,111890.0,False,Massachusetts
+193,False,K. Clark (i),,,True,5,[],,,,False,Massachusetts
+194,False,S. Moulton (i),,,True,6,[],,,,False,Massachusetts
+195,False,M. Capuano (i),,,True,7,[],,,,False,Massachusetts
+196,True,S. Lynch (i),0.724,267944.0,True,8,[],W. Burke,0.276,102146.0,False,Massachusetts
+197,True,B. Keating (i),0.557,209911.0,True,9,"[{'name': 'P. Harrington', 'winner': False, 'votes': 26086, 'percent': 0.069}, {'name': 'C. Cataldo', 'winner': False, 'votes': 8266, 'percent': 0.022}, {'name': 'A. Raduc', 'winner': False, 'votes': 5261, 'percent': 0.014}]",M. Alliegro,0.338,127199.0,False,Massachusetts
+198,True,L. Johnson,0.397,144319.0,False,1,"[{'name': 'D. Bostow', 'winner': False, 'votes': 13385, 'percent': 0.037}, {'name': 'E. Boal', 'winner': False, 'votes': 4773, 'percent': 0.013000000000000001}]",J. Bergman,0.553,201153.0,True,Michigan
+199,True,D. Murphy,0.324,110077.0,False,2,"[{'name': 'E. Haas', 'winner': False, 'votes': 8166, 'percent': 0.024}, {'name': 'M. Brady', 'winner': False, 'votes': 5362, 'percent': 0.016}, {'name': 'R. Graeser', 'winner': False, 'votes': 2898, 'percent': 0.009000000000000001}]",B. Huizenga (i),0.627,213095.0,True,Michigan
+200,True,D. Smith,0.375,128159.0,False,3,"[{'name': 'T. Gerrard', 'winner': False, 'votes': 10374, 'percent': 0.03}]",J. Amash (i),0.594,203069.0,True,Michigan
+201,True,D. Wirth,0.321,101275.0,False,4,"[{'name': 'L. Schwartz', 'winner': False, 'votes': 8514, 'percent': 0.027}, {'name': 'G. Zimmer', 'winner': False, 'votes': 5595, 'percent': 0.018000000000000002}, {'name': 'J. Salvi', 'winner': False, 'votes': 3953, 'percent': 0.013000000000000001}, {'name': 'K. Butkovich', 'winner': False, 'votes': 1838, 'percent': 0.006}]",J. Moolenaar (i),0.616,194569.0,True,Michigan
+202,True,D. Kildee (i),0.612,195076.0,True,5,"[{'name': 'S. Sluka', 'winner': False, 'votes': 6999, 'percent': 0.022}, {'name': 'H. Mikkelson', 'winner': False, 'votes': 4894, 'percent': 0.015}]",A. Hardwick,0.35100000000000003,111908.0,False,Michigan
+203,True,P. Clements,0.364,119871.0,False,6,"[{'name': 'L. Wenke', 'winner': False, 'votes': 16239, 'percent': 0.049}]",F. Upton (i),0.586,192862.0,True,Michigan
+204,True,G. Driskell,0.401,133697.0,False,7,"[{'name': 'K. Proctor', 'winner': False, 'votes': 16402, 'percent': 0.049}]",T. Walberg (i),0.55,183549.0,True,Michigan
+205,True,S. Shkreli,0.392,143775.0,False,8,"[{'name': 'J. Wood', 'winner': False, 'votes': 9615, 'percent': 0.026000000000000002}, {'name': 'M. Green', 'winner': False, 'votes': 5677, 'percent': 0.015}, {'name': 'J. Burgess', 'winner': False, 'votes': 2250, 'percent': 0.006}]",M. Bishop (i),0.56,205617.0,True,Michigan
+206,True,S. Levin (i),0.579,199620.0,True,9,"[{'name': 'M. Orlando', 'winner': False, 'votes': 9562, 'percent': 0.028}, {'name': 'J. McDermott', 'winner': False, 'votes': 6612, 'percent': 0.019}]",C. Morse,0.374,128907.0,False,Michigan
+207,True,F. Accavitti,0.323,109875.0,False,10,"[{'name': 'L. Gioia', 'winner': False, 'votes': 10582, 'percent': 0.031}, {'name': 'B. Nofs', 'winner': False, 'votes': 5113, 'percent': 0.015}]",P. Mitchell,0.63,214164.0,True,Michigan
+208,True,A. Kumar,0.402,152359.0,False,11,"[{'name': 'K. Bentivolio', 'winner': False, 'votes': 16597, 'percent': 0.044}, {'name': 'J. Osment', 'winner': False, 'votes': 9535, 'percent': 0.025}]",D. Trott (i),0.529,200787.0,True,Michigan
+209,True,D. Dingell (i),0.644,210922.0,True,12,"[{'name': 'G. Walkowicz', 'winner': False, 'votes': 9177, 'percent': 0.028}, {'name': 'T. Bagwell', 'winner': False, 'votes': 7478, 'percent': 0.023}, {'name': 'D. Calewarts', 'winner': False, 'votes': 4370, 'percent': 0.013000000000000001}]",J. Jones,0.292,95823.0,False,Michigan
+210,True,J. Conyers (i),0.77,197173.0,True,13,"[{'name': 'T. Hayden', 'winner': False, 'votes': 9600, 'percent': 0.037}, {'name': 'S. Johnson', 'winner': False, 'votes': 8778, 'percent': 0.034}]",J. Gorman,0.158,40483.0,False,Michigan
+211,True,B. Lawrence (i),0.785,244220.0,True,14,"[{'name': 'G. Creswell', 'winner': False, 'votes': 4898, 'percent': 0.016}, {'name': 'M. Squier', 'winner': False, 'votes': 3851, 'percent': 0.012}]",H. Klausner,0.187,58111.0,False,Michigan
+212,True,T. Walz (i),0.504,169076.0,True,1,[],J. Hagedorn,0.496,166527.0,False,Minnesota
+213,True,A. Craig,0.452,167071.0,False,2,"[{'name': 'P. Overby', 'winner': False, 'votes': 28845, 'percent': 0.078}]",J. Lewis,0.47000000000000003,174030.0,True,Minnesota
+214,True,T. Bonoff,0.431,169238.0,False,3,[],E. Paulsen (i),0.5690000000000001,223075.0,True,Minnesota
+215,True,B. McCollum (i),0.578,202558.0,True,4,"[{'name': 'S. Pendergast Sindt', 'winner': False, 'votes': 27109, 'percent': 0.077}]",G. Ryan,0.34500000000000003,120871.0,False,Minnesota
+216,True,K. Ellison (i),0.6920000000000001,249957.0,True,5,"[{'name': 'D. Schuller', 'winner': False, 'votes': 30759, 'percent': 0.085}]",F. Drake,0.223,80660.0,False,Minnesota
+217,True,D. Snyder,0.343,123012.0,False,6,[],T. Emmer (i),0.657,235384.0,True,Minnesota
+218,True,C. Peterson (i),0.525,173571.0,True,7,[],D. Hughes,0.47500000000000003,156950.0,False,Minnesota
+219,True,R. Nolan (i),0.503,179106.0,True,8,[],S. Mills,0.497,177095.0,False,Minnesota
+220,True,J. Owens,0.278,82133.0,False,1,"[{'name': 'C. Wilson', 'winner': False, 'votes': 6070, 'percent': 0.021}, {'name': 'C. Toole', 'winner': False, 'votes': 3742, 'percent': 0.013000000000000001}]",T. Kelly (i),0.6880000000000001,203142.0,True,Mississippi
+221,True,B. Thompson (i),0.668,181108.0,True,2,"[{'name': 'T. Ray', 'winner': False, 'votes': 6622, 'percent': 0.024}, {'name': 'J. McLeod', 'winner': False, 'votes': 3623, 'percent': 0.013000000000000001}]",J. Bouie,0.294,79773.0,False,Mississippi
+222,True,D. Quinn,0.303,91992.0,False,3,"[{'name': 'R. Gerrard', 'winner': False, 'votes': 8434, 'percent': 0.028}, {'name': 'L. Sheets', 'winner': False, 'votes': 2020, 'percent': 0.007}]",G. Harper (i),0.663,201280.0,True,Mississippi
+223,True,M. Gladney,0.277,74176.0,False,4,"[{'name': 'R. McCluskey', 'winner': False, 'votes': 14212, 'percent': 0.053}, {'name': ""S. O'Hara"", 'winner': False, 'votes': 5063, 'percent': 0.019}]",S. Palazzo (i),0.652,174783.0,True,Mississippi
+224,True,L. Clay (i),0.755,231604.0,True,1,"[{'name': 'R. Cunningham', 'winner': False, 'votes': 13954, 'percent': 0.045}]",S. Bailey,0.2,61252.0,False,Missouri
+225,True,B. Otto,0.376,153331.0,False,2,"[{'name': 'J. Higgins', 'winner': False, 'votes': 11621, 'percent': 0.029}, {'name': 'D. Arnold', 'winner': False, 'votes': 3839, 'percent': 0.009000000000000001}]",A. Wagner (i),0.586,238826.0,True,Missouri
+226,True,K. Miller,0.279,102484.0,False,3,"[{'name': 'D. Hogan', 'winner': False, 'votes': 11906, 'percent': 0.032}, {'name': 'D. Simmons', 'winner': False, 'votes': 3586, 'percent': 0.01}]",B. Luetkemeyer (i),0.678,248880.0,True,Missouri
+227,True,G. Christensen,0.278,92385.0,False,4,"[{'name': 'M. Bliss', 'winner': False, 'votes': 14355, 'percent': 0.043000000000000003}]",V. Hartzler (i),0.678,225034.0,True,Missouri
+228,True,E. Cleaver (i),0.584,185494.0,True,5,"[{'name': 'R. Welborn', 'winner': False, 'votes': 9594, 'percent': 0.03}]",J. Turk,0.385,122367.0,False,Missouri
+229,True,D. Blackwell,0.28300000000000003,98588.0,False,6,"[{'name': 'R. Monchil', 'winner': False, 'votes': 8051, 'percent': 0.023}, {'name': 'M. Diel', 'winner': False, 'votes': 4202, 'percent': 0.012}]",S. Graves (i),0.681,236938.0,True,Missouri
+230,True,G. Williams,0.274,92390.0,False,7,"[{'name': 'B. Brixey', 'winner': False, 'votes': 17076, 'percent': 0.051000000000000004}]",B. Long (i),0.676,228001.0,True,Missouri
+231,True,D. Cowell,0.227,69949.0,False,8,"[{'name': 'J. Shell', 'winner': False, 'votes': 9059, 'percent': 0.029}]",J. Smith (i),0.744,229648.0,True,Missouri
+232,True,D. Juneau,0.405,201758.0,False,1,"[{'name': 'R. Breckenridge', 'winner': False, 'votes': 15949, 'percent': 0.032}]",R. Zinke (i),0.5630000000000001,280472.0,True,Montana
+233,True,D. Wik,0.304,81939.0,False,1,[],J. Fortenberry (i),0.6960000000000001,187258.0,True,Nebraska
+234,True,B. Ashford (i),0.47300000000000003,128739.0,False,2,"[{'name': 'S. Laird', 'winner': False, 'votes': 9057, 'percent': 0.033}]",D. Bacon,0.494,134291.0,True,Nebraska
+235,False,,,,False,3,[],A. Smith (i),,,True,Nebraska
+236,True,D. Titus (i),0.618,116045.0,True,1,"[{'name': ""R. D'Silva"", 'winner': False, 'votes': 13806, 'percent': 0.074}, {'name': 'K. Bakari', 'winner': False, 'votes': 3722, 'percent': 0.02}]",M. Perry,0.28800000000000003,54053.0,False,Nevada
+237,True,C. Evans,0.369,115395.0,False,2,"[{'name': 'J. Everhart', 'winner': False, 'votes': 8660, 'percent': 0.028}, {'name': 'D. Knight', 'winner': False, 'votes': 6204, 'percent': 0.02}]",M. Amodei (i),0.583,182452.0,True,Nevada
+238,True,J. Rosen,0.47200000000000003,146653.0,True,3,"[{'name': 'W. Markowitz', 'winner': False, 'votes': 11580, 'percent': 0.037}, {'name': 'D. Goossen', 'winner': False, 'votes': 9551, 'percent': 0.031}]",D. Tarkanian,0.46,142726.0,False,Nevada
+239,True,R. Kihuen,0.485,128680.0,True,4,"[{'name': 'S. Brown', 'winner': False, 'votes': 10184, 'percent': 0.038}, {'name': 'M. Little', 'winner': False, 'votes': 8307, 'percent': 0.031}]",C. Hardy (i),0.445,118220.0,False,Nevada
+240,True,C. Shea-Porter,0.442,161828.0,True,1,"[{'name': ""S. O'Connor"", 'winner': False, 'votes': 34612, 'percent': 0.094}, {'name': 'R. Lombardo', 'winner': False, 'votes': 6842, 'percent': 0.019}, {'name': 'B. Kelly', 'winner': False, 'votes': 6046, 'percent': 0.017}]",F. Guinta (i),0.429,157011.0,False,New Hampshire
+241,True,A. Kuster (i),0.498,174386.0,True,2,"[{'name': 'J. Babiarz', 'winner': False, 'votes': 16843, 'percent': 0.048}]",J. Lawrence,0.454,158960.0,False,New Hampshire
+242,True,M. Young,0.404,139279.0,False,1,[],S. Chabot (i),0.596,205283.0,True,Ohio
+243,True,W. Smith,0.334,107859.0,False,2,[],B. Wenstrup (i),0.666,215265.0,True,Ohio
+244,True,J. Beatty (i),0.683,189536.0,True,3,[],J. Adams,0.317,88040.0,False,Ohio
+245,True,J. Garrett,0.319,96334.0,False,4,[],J. Jordan (i),0.681,205669.0,True,Ohio
+246,True,J. Neu,0.29,98045.0,False,5,[],B. Latta (i),0.71,240036.0,True,Ohio
+247,True,M. Lorentz,0.294,86938.0,False,6,[],B. Johnson (i),0.706,209177.0,True,Ohio
+248,True,R. Rich,0.289,87602.0,False,7,"[{'name': 'D. Phillip', 'winner': False, 'votes': 21062, 'percent': 0.07}]",B. Gibbs (i),0.641,194146.0,True,Ohio
+249,True,S. Fought,0.268,85313.0,False,8,"[{'name': 'D. Hendricks', 'winner': False, 'votes': 13371, 'percent': 0.042}]",W. Davidson (i),0.6900000000000001,219453.0,True,Ohio
+250,True,M. Kaptur (i),0.685,187926.0,True,9,[],D. Larson,0.315,86311.0,False,Ohio
+251,True,R. Klepinger,0.324,105947.0,False,10,"[{'name': 'T. McMasters', 'winner': False, 'votes': 10463, 'percent': 0.032}]",M. Turner (i),0.644,210256.0,True,Ohio
+252,True,M. Fudge (i),0.801,233285.0,True,11,[],B. Goldstein,0.199,58066.0,False,Ohio
+253,True,E. Albertson,0.299,109455.0,False,12,"[{'name': 'J. Manchik', 'winner': False, 'votes': 12848, 'percent': 0.035}]",P. Tiberi (i),0.666,243970.0,True,Ohio
+254,True,T. Ryan (i),0.676,203430.0,True,13,[],R. Morckel,0.324,97312.0,False,Ohio
+255,True,M. Wager,0.373,127547.0,False,14,[],D. Joyce (i),0.627,214618.0,True,Ohio
+256,True,S. Wharton,0.338,110272.0,False,15,[],S. Stivers (i),0.662,216186.0,True,Ohio
+257,True,K. Mundy,0.34600000000000003,117296.0,False,16,[],J. Renacci (i),0.654,221495.0,True,Ohio
+258,True,C. Iron Eyes,0.23800000000000002,80186.0,False,1,"[{'name': 'J. Seaman', 'winner': False, 'votes': 23454, 'percent': 0.07}]",K. Cramer (i),0.6920000000000001,233245.0,True,North Dakota
+259,False,,,,False,1,[],J. Bridenstine (i),,,True,Oklahoma
+260,True,J. Harris-Till,0.232,62307.0,False,2,"[{'name': 'J. McCarthy', 'winner': False, 'votes': 16618, 'percent': 0.062}]",M. Mullin (i),0.706,189612.0,True,Oklahoma
+261,True,F. Robbins,0.217,63008.0,False,3,[],F. Lucas (i),0.783,227276.0,True,Oklahoma
+262,True,C. Owen,0.261,76380.0,False,4,"[{'name': 'S. White', 'winner': False, 'votes': 12548, 'percent': 0.043000000000000003}]",T. Cole (i),0.6960000000000001,203942.0,True,Oklahoma
+263,True,A. McAffrey,0.368,103122.0,False,5,"[{'name': 'Z. Knight', 'winner': False, 'votes': 17084, 'percent': 0.061}]",S. Russell (i),0.5710000000000001,160012.0,True,Oklahoma
+264,True,S. Bonamici (i),0.596,207190.0,True,1,"[{'name': 'K. Sheahan', 'winner': False, 'votes': 10894, 'percent': 0.031}]",B. Heinrich,0.373,129495.0,False,Oregon
+265,True,J. Crary,0.279,103383.0,False,2,[],G. Walden (i),0.721,267179.0,True,Oregon
+266,False,E. Blumenauer (i),0.726,256159.0,True,3,"[{'name': 'D. Walker', 'winner': False, 'votes': 71758, 'percent': 0.203}, {'name': 'D. Delk', 'winner': False, 'votes': 25059, 'percent': 0.07100000000000001}]",,,,False,Oregon
+267,True,P. DeFazio (i),0.555,216442.0,True,4,"[{'name': 'M. Beilstein', 'winner': False, 'votes': 11807, 'percent': 0.03}, {'name': 'G. Guthrie', 'winner': False, 'votes': 6349, 'percent': 0.016}]",A. Robinson,0.398,155271.0,False,Oregon
+268,True,K. Schrader (i),0.536,178405.0,True,5,"[{'name': 'M. Sandnes', 'winner': False, 'votes': 10583, 'percent': 0.032}]",C. Willis,0.432,143839.0,False,Oregon
+269,True,D. Norcross (i),0.598,178655.0,True,1,"[{'name': 'S. Tomaszewski', 'winner': False, 'votes': 5365, 'percent': 0.018000000000000002}, {'name': 'W. Sihr', 'winner': False, 'votes': 2352, 'percent': 0.008}, {'name': 'M. Berman', 'winner': False, 'votes': 1916, 'percent': 0.006}]",B. Patterson,0.369,110235.0,False,New Jersey
+270,True,D. Cole,0.371,104726.0,False,2,"[{'name': 'J. Ordille', 'winner': False, 'votes': 3562, 'percent': 0.013000000000000001}, {'name': 'J. Keenan', 'winner': False, 'votes': 2490, 'percent': 0.009000000000000001}, {'name': 'E. Beechwood', 'winner': False, 'votes': 1322, 'percent': 0.005}, {'name': 'S. Fenichel', 'winner': False, 'votes': 1460, 'percent': 0.005}, {'name': 'G. Franco', 'winner': False, 'votes': 1159, 'percent': 0.004}]",F. LoBiondo (i),0.594,167816.0,True,New Jersey
+271,True,F. LaVergne,0.386,115212.0,False,3,"[{'name': 'L. Berlinski', 'winner': False, 'votes': 5541, 'percent': 0.019}]",T. MacArthur (i),0.595,177522.0,True,New Jersey
+272,True,L. Phillipson,0.335,108373.0,False,4,"[{'name': 'H. Schroeder', 'winner': False, 'votes': 5684, 'percent': 0.018000000000000002}, {'name': 'J. Marcus', 'winner': False, 'votes': 3168, 'percent': 0.01}]",C. Smith (i),0.637,206137.0,True,New Jersey
+273,True,J. Gottheimer,0.505,156863.0,True,5,"[{'name': 'C. Belusic', 'winner': False, 'votes': 6890, 'percent': 0.022}]",S. Garrett (i),0.47200000000000003,146643.0,False,New Jersey
+274,True,F. Pallone (i),0.63,150971.0,True,6,"[{'name': 'R. Malliah', 'winner': False, 'votes': 1695, 'percent': 0.007}, {'name': 'J. Shamy', 'winner': False, 'votes': 1536, 'percent': 0.006}]",B. Sonnek-Schmelz,0.357,85613.0,False,New Jersey
+275,True,P. Jacob,0.43,146350.0,False,7,"[{'name': ""D. O'Neill"", 'winner': False, 'votes': 5252, 'percent': 0.015}, {'name': 'A. Haussmann', 'winner': False, 'votes': 4208, 'percent': 0.012}]",L. Lance (i),0.542,184309.0,True,New Jersey
+276,True,A. Sires (i),0.769,124381.0,True,8,"[{'name': 'P. Olivera', 'winner': False, 'votes': 4102, 'percent': 0.025}, {'name': 'D. Delaney', 'winner': False, 'votes': 3114, 'percent': 0.019}]",A. Khan,0.186,30085.0,False,New Jersey
+277,True,B. Pascrell (i),0.6960000000000001,151823.0,True,9,"[{'name': 'D. Rivera', 'winner': False, 'votes': 3082, 'percent': 0.014}, {'name': 'J. Boss', 'winner': False, 'votes': 1819, 'percent': 0.008}]",H. Castillo,0.281,61384.0,False,New Jersey
+278,True,D. Payne Jr. (i),0.856,181591.0,True,10,"[{'name': 'J. Miller', 'winner': False, 'votes': 3448, 'percent': 0.016}, {'name': 'A. Fraser', 'winner': False, 'votes': 1636, 'percent': 0.008}]",D. Pinckney,0.12,25452.0,False,New Jersey
+279,True,J. Wenzel,0.387,128232.0,False,11,"[{'name': 'T. Depasquale', 'winner': False, 'votes': 6914, 'percent': 0.021}, {'name': 'J. Hetrick', 'winner': False, 'votes': 3420, 'percent': 0.01}]",R. Frelinghuysen (i),0.582,192538.0,True,New Jersey
+280,True,B. Watson Coleman (i),0.626,162383.0,True,12,"[{'name': 'E. Forchion', 'winner': False, 'votes': 5437, 'percent': 0.021}, {'name': 'R. Shapiro', 'winner': False, 'votes': 2501, 'percent': 0.01}, {'name': 'T. Fitzpatrick', 'winner': False, 'votes': 2215, 'percent': 0.009000000000000001}, {'name': 'S. Welzer', 'winner': False, 'votes': 1873, 'percent': 0.007}, {'name': 'M. Bollentin', 'winner': False, 'votes': 1154, 'percent': 0.004}]",S. Uccio,0.323,83633.0,False,New Jersey
+281,True,M. Lujan Grisham (i),0.651,179380.0,True,1,[],R. Priem,0.34900000000000003,96061.0,False,New Mexico
+282,True,M. Soules,0.372,84514.0,False,2,[],S. Pearce (i),0.628,142499.0,True,New Mexico
+283,True,B. Lujan (i),0.625,167848.0,True,3,[],M. Romero,0.375,100529.0,False,New Mexico
+284,True,A. Throne-Holst,0.41000000000000003,121640.0,False,1,[],L. Zeldin (i),0.59,174682.0,True,New York
+285,True,D. Gregory,0.376,103643.0,False,2,[],P. King (i),0.624,171915.0,True,New York
+286,True,T. Suozzi,0.524,156315.0,True,3,[],J. Martins,0.47600000000000003,142023.0,False,New York
+287,True,K. Rice (i),0.594,173796.0,True,4,[],D. Gurfein,0.406,118821.0,False,New York
+288,True,G. Meeks (i),0.855,184179.0,True,5,"[{'name': 'F. Francois', 'winner': False, 'votes': 3269, 'percent': 0.015}]",M. O'Reilly,0.13,28030.0,False,New York
+289,True,G. Meng (i),0.719,126018.0,True,6,"[{'name': 'H. Bhatti', 'winner': False, 'votes': 1979, 'percent': 0.011}]",D. Maio,0.27,47278.0,False,New York
+290,True,N. Velazquez (i),0.907,158972.0,True,7,[],A. Romaguera,0.093,16255.0,False,New York
+291,False,H. Jeffries (i),0.932,199747.0,True,8,"[{'name': 'D. Cavanagh', 'winner': False, 'votes': 14468, 'percent': 0.068}]",,,,False,New York
+292,False,Y. Clarke (i),0.923,200266.0,True,9,"[{'name': 'A. Bellone', 'winner': False, 'votes': 16617, 'percent': 0.077}]",,,,False,New York
+293,True,J. Nadler (i),0.775,170286.0,True,10,[],P. Rosenthal,0.225,49530.0,False,New York
+294,True,R. Reichard,0.361,78066.0,False,11,"[{'name': 'H. Bardel', 'winner': False, 'votes': 3607, 'percent': 0.017}]",D. Donovan (i),0.622,134366.0,True,New York
+295,True,C. Maloney (i),0.8300000000000001,219165.0,True,12,[],R. Ardini,0.17,44981.0,False,New York
+296,True,A. Espaillat,0.888,187382.0,True,13,"[{'name': 'D. Vila Rivera', 'winner': False, 'votes': 7448, 'percent': 0.035}, {'name': 'S. Fenstermaker', 'winner': False, 'votes': 1714, 'percent': 0.008}]",T. Evans,0.069,14501.0,False,New York
+297,True,J. Crowley (i),0.8260000000000001,134603.0,True,14,[],F. Spotorno,0.17400000000000002,28332.0,False,New York
+298,True,J. Serrano (i),0.9520000000000001,150058.0,True,15,"[{'name': 'E. Ramirez', 'winner': False, 'votes': 1899, 'percent': 0.012}]",A. Vega,0.036000000000000004,5606.0,False,New York
+299,False,E. Engel (i),0.9470000000000001,192671.0,True,16,"[{'name': 'D. Lawrence', 'winner': False, 'votes': 10840, 'percent': 0.053}]",,,,False,New York
+300,False,N. Lowey (i),,,True,17,[],,,,False,New York
+301,True,S. Maloney (i),0.552,149056.0,True,18,[],P. Oliva,0.448,120967.0,False,New York
+302,True,Z. Teachout,0.453,126641.0,False,19,[],J. Faso,0.547,153143.0,True,New York
+303,True,P. Tonko (i),0.676,195005.0,True,20,[],J. Vitollo,0.324,93407.0,False,New York
+304,True,M. Derrick,0.293,72637.0,False,21,"[{'name': 'M. Funiciello', 'winner': False, 'votes': 11394, 'percent': 0.046}]",E. Stefanik (i),0.661,164212.0,True,New York
+305,True,K. Myers,0.404,103955.0,False,22,"[{'name': 'M. Babinec', 'winner': False, 'votes': 32303, 'percent': 0.126}]",C. Tenney,0.47000000000000003,120777.0,True,New York
+306,True,J. Plumb,0.419,107822.0,False,23,[],T. Reed (i),0.581,149779.0,True,New York
+307,True,C. Deacon,0.39,108928.0,False,24,[],J. Katko (i),0.61,170532.0,True,New York
+308,True,L. Slaughter (i),0.558,169199.0,True,25,[],M. Assini,0.442,134285.0,False,New York
+309,True,B. Higgins (i),0.744,193518.0,True,26,[],S. Schratz,0.256,66688.0,False,New York
+310,True,D. Kastenbaum,0.323,99222.0,False,27,[],C. Collins (i),0.677,207510.0,True,New York
+311,True,G. Butterfield (i),0.686,237938.0,True,1,"[{'name': 'J. Summerell', 'winner': False, 'votes': 8259, 'percent': 0.024}]",H. Dew,0.29,100633.0,False,North Carolina
+312,True,J. McNeil,0.433,167299.0,False,2,[],G. Holding (i),0.5670000000000001,219342.0,True,North Carolina
+313,True,E. Reeves,0.326,104007.0,False,3,[],W. Jones (i),0.674,214850.0,True,North Carolina
+314,True,D. Price (i),0.682,275501.0,True,4,[],S. Googe,0.318,128331.0,False,North Carolina
+315,True,J. Brannon,0.41500000000000004,145597.0,False,5,[],V. Foxx (i),0.585,204943.0,True,North Carolina
+316,True,P. Glidewell,0.40700000000000003,141480.0,False,6,[],M. Walker (i),0.593,205973.0,True,North Carolina
+317,True,J. Casteen,0.39,134344.0,False,7,[],D. Rouzer (i),0.61,209933.0,True,North Carolina
+318,True,T. Mills,0.41200000000000003,131428.0,False,8,[],R. Hudson (i),0.588,187909.0,True,North Carolina
+319,True,C. Cano,0.417,137335.0,False,9,[],R. Pittenger (i),0.583,191660.0,True,North Carolina
+320,True,A. Millard,0.368,128114.0,False,10,[],P. McHenry (i),0.632,219589.0,True,North Carolina
+321,True,R. Bryson,0.358,127972.0,False,11,[],M. Meadows (i),0.642,229130.0,True,North Carolina
+322,True,A. Adams (i),0.67,232451.0,True,12,[],L. Threatt,0.33,114242.0,False,North Carolina
+323,True,B. Davis,0.439,153691.0,False,13,[],T. Budd,0.561,196736.0,True,North Carolina
+324,True,R. Brady (i),0.8220000000000001,237882.0,True,1,[],D. Williams,0.178,51516.0,False,Pennsylvania
+325,True,D. Evans,0.902,310770.0,True,2,[],J. Jones,0.098,33911.0,False,Pennsylvania
+326,False,,,,False,3,[],M. Kelly (i),,,True,Pennsylvania
+327,True,J. Burkholder,0.339,111158.0,False,4,[],S. Perry (i),0.661,216772.0,True,Pennsylvania
+328,True,K. Strano Taylor,0.327,97686.0,False,5,[],G. Thompson (i),0.673,200627.0,True,Pennsylvania
+329,True,M. Parrish,0.427,151800.0,False,6,[],R. Costello (i),0.5730000000000001,203671.0,True,Pennsylvania
+330,True,M. Balchunis,0.403,147808.0,False,7,[],P. Meehan (i),0.597,219314.0,True,Pennsylvania
+331,True,S. Santarsiero,0.455,172571.0,False,8,[],B. Fitzpatrick,0.545,206607.0,True,Pennsylvania
+332,True,A. Halvorson,0.366,105958.0,False,9,[],B. Shuster (i),0.634,183798.0,True,Pennsylvania
+333,True,M. Molesevich,0.297,87956.0,False,10,[],T. Marino (i),0.7030000000000001,208106.0,True,Pennsylvania
+334,True,M. Marsicano,0.363,111025.0,False,11,[],L. Barletta (i),0.637,194889.0,True,Pennsylvania
+335,True,E. McClelland,0.381,133607.0,False,12,[],K. Rothfus (i),0.619,217449.0,True,Pennsylvania
+336,False,B. Boyle (i),,,True,13,[],,,,False,Pennsylvania
+337,True,M. Doyle (i),0.743,252709.0,True,14,[],L. McAllister,0.257,87334.0,False,Pennsylvania
+338,True,R. Daugherty,0.38,120233.0,False,15,"[{'name': 'P. Rizzo', 'winner': False, 'votes': 11310, 'percent': 0.036000000000000004}]",C. Dent (i),0.584,184562.0,True,Pennsylvania
+339,True,C. Hartman,0.427,132969.0,False,16,"[{'name': 'S. House', 'winner': False, 'votes': 10408, 'percent': 0.033}]",L. Smucker,0.539,167698.0,True,Pennsylvania
+340,True,M. Cartwright (i),0.538,155766.0,True,17,[],M. Connolly,0.462,133719.0,False,Pennsylvania
+341,False,,,,False,18,[],T. Murphy (i),,,True,Pennsylvania
+342,True,D. Cicilline (i),0.647,129272.0,True,1,[],R. Taub,0.353,70608.0,False,Rhode Island
+343,True,J. Langevin (i),0.582,131968.0,True,2,"[{'name': 'J. Johnson', 'winner': False, 'votes': 16116, 'percent': 0.07100000000000001}, {'name': 'S. Caiozzo', 'winner': False, 'votes': 8867, 'percent': 0.039}]",R. Reis,0.308,69918.0,False,Rhode Island
+344,True,D. Cherny,0.369,117487.0,False,1,"[{'name': 'M. Grier', 'winner': False, 'votes': 11451, 'percent': 0.036000000000000004}, {'name': 'A. Travison', 'winner': False, 'votes': 2730, 'percent': 0.009000000000000001}]",M. Sanford (i),0.586,186735.0,True,South Carolina
+345,True,A. Bjorn,0.359,109488.0,False,2,"[{'name': 'E. McCain', 'winner': False, 'votes': 11436, 'percent': 0.038}]",J. Wilson (i),0.603,183766.0,True,South Carolina
+346,True,H. Cleveland,0.271,72993.0,False,3,[],J. Duncan (i),0.729,196793.0,True,South Carolina
+347,True,C. Fedalei,0.311,91106.0,False,4,"[{'name': 'M. Chandler', 'winner': False, 'votes': 5045, 'percent': 0.017}]",T. Gowdy (i),0.672,197235.0,True,South Carolina
+348,True,F. Person,0.388,114936.0,False,5,"[{'name': 'R. Barnes', 'winner': False, 'votes': 6190, 'percent': 0.021}]",M. Mulvaney (i),0.591,175139.0,True,South Carolina
+349,True,J. Clyburn (i),0.7020000000000001,179351.0,True,6,"[{'name': 'R. Piotrowski', 'winner': False, 'votes': 3135, 'percent': 0.012}, {'name': 'P. Mallory', 'winner': False, 'votes': 2518, 'percent': 0.01}]",L. Sterling,0.276,70636.0,False,South Carolina
+350,True,M. Hyman,0.393,110378.0,False,7,[],T. Rice (i),0.607,170826.0,True,South Carolina
+351,True,P. Hawks,0.359,132792.0,False,1,[],K. Noem (i),0.641,237141.0,True,South Dakota
+352,True,S. McKellar,0.241,62635.0,False,1,"[{'name': 'P. Gray', 'winner': False, 'votes': 5044, 'percent': 0.019}]",L. Gohmert (i),0.739,192066.0,True,Texas
+353,True,P. Bryan,0.36,100077.0,False,2,"[{'name': 'J. Veasaw', 'winner': False, 'votes': 6418, 'percent': 0.023}, {'name': 'J. Darr', 'winner': False, 'votes': 2872, 'percent': 0.01}]",T. Poe (i),0.606,168524.0,True,Texas
+354,True,A. Bell,0.34500000000000003,108780.0,False,3,"[{'name': 'S. Jameson', 'winner': False, 'votes': 10408, 'percent': 0.033}, {'name': 'P. Blair', 'winner': False, 'votes': 2893, 'percent': 0.009000000000000001}]",S. Johnson (i),0.613,193063.0,True,Texas
+355,False,,,,False,4,"[{'name': 'C. Wommack', 'winner': False, 'votes': 29437, 'percent': 0.12}]",J. Ratcliffe (i),0.88,215705.0,True,Texas
+356,False,,,,False,5,"[{'name': 'K. Ashby', 'winner': False, 'votes': 37311, 'percent': 0.194}]",J. Hensarling (i),0.806,155149.0,True,Texas
+357,True,R. Woolridge,0.39,106510.0,False,6,"[{'name': 'D. Smith', 'winner': False, 'votes': 7172, 'percent': 0.026000000000000002}]",J. Barton (i),0.583,159213.0,True,Texas
+358,True,J. Cargas,0.438,111774.0,False,7,[],J. Culberson (i),0.562,143369.0,True,Texas
+359,False,,,,False,8,[],K. Brady (i),,,True,Texas
+360,True,A. Green (i),0.806,151884.0,True,9,[],J. Martin,0.194,36454.0,False,Texas
+361,True,T. Cadien,0.384,119728.0,False,10,"[{'name': 'B. Kelsey', 'winner': False, 'votes': 13174, 'percent': 0.042}]",M. McCaul (i),0.5740000000000001,178926.0,True,Texas
+362,False,,,,False,11,"[{'name': 'N. Landholt', 'winner': False, 'votes': 23613, 'percent': 0.105}]",M. Conaway (i),0.895,201476.0,True,Texas
+363,True,B. Bradshaw,0.268,75938.0,False,12,"[{'name': 'E. Colliver', 'winner': False, 'votes': 10586, 'percent': 0.037}]",K. Granger (i),0.6940000000000001,196331.0,True,Texas
+364,False,,,,False,13,"[{'name': 'C. DeWeese', 'winner': False, 'votes': 14687, 'percent': 0.067}, {'name': 'R. Tomlinson', 'winner': False, 'votes': 7437, 'percent': 0.034}]",M. Thornberry (i),0.9,198730.0,True,Texas
+365,True,M. Cole,0.381,98815.0,False,14,[],R. Weber (i),0.619,160340.0,True,Texas
+366,True,V. Gonzalez,0.5730000000000001,101592.0,True,15,"[{'name': 'V. Tijerina', 'winner': False, 'votes': 5439, 'percent': 0.031}, {'name': 'R. Leone', 'winner': False, 'votes': 3435, 'percent': 0.019}]",T. Westley,0.377,66732.0,False,Texas
+367,False,B. O'Rourke (i),0.858,148027.0,True,16,"[{'name': 'J. Perez', 'winner': False, 'votes': 17144, 'percent': 0.099}, {'name': 'M. Gourdoux', 'winner': False, 'votes': 7413, 'percent': 0.043000000000000003}]",,,,False,Texas
+368,True,W. Matta,0.352,86352.0,False,17,"[{'name': 'C. Patterson', 'winner': False, 'votes': 9685, 'percent': 0.039}]",B. Flores (i),0.608,149157.0,True,Texas
+369,True,S. Jackson Lee (i),0.735,149928.0,True,18,"[{'name': 'T. Kleven', 'winner': False, 'votes': 5838, 'percent': 0.029}]",L. Bartley,0.23600000000000002,48248.0,False,Texas
+370,False,,,,False,19,"[{'name': 'T. Bonar', 'winner': False, 'votes': 17339, 'percent': 0.085}, {'name': 'M. Lawson', 'winner': False, 'votes': 9761, 'percent': 0.048}]",J. Arrington,0.867,175980.0,True,Texas
+371,False,J. Castro (i),0.797,149522.0,True,20,"[{'name': 'J. Blunt', 'winner': False, 'votes': 29023, 'percent': 0.155}, {'name': 'P. Pipkin', 'winner': False, 'votes': 8969, 'percent': 0.048}]",,,,False,Texas
+372,True,T. Wakely,0.364,129253.0,False,21,"[{'name': 'M. Loewe', 'winner': False, 'votes': 14698, 'percent': 0.041}, {'name': 'T. Diaz', 'winner': False, 'votes': 8520, 'percent': 0.024}]",L. Smith (i),0.5700000000000001,202523.0,True,Texas
+373,True,M. Gibson,0.405,123462.0,False,22,[],P. Olson (i),0.595,181663.0,True,Texas
+374,True,P. Gallego,0.468,106049.0,False,23,"[{'name': 'R. Corvalan', 'winner': False, 'votes': 10717, 'percent': 0.047}]",W. Hurd (i),0.485,109816.0,True,Texas
+375,True,J. McDowell,0.393,107845.0,False,24,"[{'name': 'M. Kolls', 'winner': False, 'votes': 8574, 'percent': 0.031}, {'name': 'K. McCormick', 'winner': False, 'votes': 3742, 'percent': 0.014}]",K. Marchant (i),0.562,154364.0,True,Texas
+376,True,K. Thomas,0.377,116552.0,False,25,"[{'name': 'L. Schneiderman', 'winner': False, 'votes': 12092, 'percent': 0.039}]",R. Williams (i),0.584,180579.0,True,Texas
+377,True,E. Mauck,0.296,93954.0,False,26,"[{'name': 'M. Boler', 'winner': False, 'votes': 12734, 'percent': 0.04}]",M. Burgess (i),0.663,210313.0,True,Texas
+378,True,R. Barrera,0.383,87931.0,False,27,[],B. Farenthold (i),0.617,141722.0,True,Texas
+379,True,H. Cuellar (i),0.662,121980.0,True,28,"[{'name': 'M. Cary', 'winner': False, 'votes': 4607, 'percent': 0.025}]",Z. Hardin,0.313,57683.0,False,Texas
+380,True,G. Green (i),0.725,95508.0,True,29,"[{'name': 'R. Perez', 'winner': False, 'votes': 3229, 'percent': 0.024}, {'name': 'J. Partsch-Galvan', 'winner': False, 'votes': 1453, 'percent': 0.011}]",J. Garza,0.24,31619.0,False,Texas
+381,True,E. Johnson (i),0.779,169905.0,True,30,"[{'name': 'J. Woods', 'winner': False, 'votes': 4740, 'percent': 0.022}, {'name': 'T. Prentice', 'winner': False, 'votes': 2051, 'percent': 0.009000000000000001}]",C. Lingerfelt,0.19,41365.0,False,Texas
+382,True,M. Clark,0.365,103543.0,False,31,"[{'name': 'S. Ballard', 'winner': False, 'votes': 14638, 'percent': 0.052000000000000005}]",J. Carter (i),0.584,165678.0,True,Texas
+383,False,,,,False,32,"[{'name': 'E. Rankin', 'winner': False, 'votes': 43297, 'percent': 0.19}, {'name': 'G. Stuard', 'winner': False, 'votes': 22692, 'percent': 0.099}]",P. Sessions (i),0.711,162212.0,True,Texas
+384,True,M. Veasey (i),0.737,92914.0,True,33,[],M. Mitchell,0.263,33156.0,False,Texas
+385,True,F. Vela (i),0.627,104513.0,True,34,[],R. Gonzalez,0.373,62240.0,False,Texas
+386,True,L. Doggett (i),0.631,124161.0,True,35,"[{'name': 'R. Smith', 'winner': False, 'votes': 6484, 'percent': 0.033}, {'name': 'S. Trimble', 'winner': False, 'votes': 4064, 'percent': 0.021}]",S. Narvaiz,0.316,62212.0,False,Texas
+387,False,,,,False,36,"[{'name': 'H. Ridley', 'winner': False, 'votes': 25911, 'percent': 0.113}]",B. Babin (i),0.887,203779.0,True,Texas
+388,True,P. Clemens,0.272,65403.0,False,1,"[{'name': 'C. Bowden', 'winner': False, 'votes': 13734, 'percent': 0.057}, {'name': 'C. Fairbanks', 'winner': False, 'votes': 4068, 'percent': 0.017}]",R. Bishop (i),0.654,157106.0,True,Utah
+389,True,C. Albarran,0.341,83131.0,False,2,"[{'name': 'P. McCollaum', 'winner': False, 'votes': 10724, 'percent': 0.044}]",C. Stewart (i),0.615,149838.0,True,Utah
+390,True,S. Tryon,0.267,68104.0,False,3,[],J. Chaffetz (i),0.733,186743.0,True,Utah
+391,True,D. Owens,0.417,96284.0,False,4,"[{'name': 'C. Simonsen', 'winner': False, 'votes': 10959, 'percent': 0.048}]",M. Love (i),0.535,123459.0,True,Utah
+392,False,P. Welch (i),0.9,263400.0,True,1,"[{'name': 'E. Clawson', 'winner': False, 'votes': 29326, 'percent': 0.1}]",,,,False,Vermont
+393,True,M. Rowe,0.358,130320.0,False,1,"[{'name': 'G. Parker', 'winner': False, 'votes': 12150, 'percent': 0.033}]",R. Wittman (i),0.609,221826.0,True,Virginia
+394,True,S. Brown,0.383,106979.0,False,2,[],S. Taylor,0.617,172586.0,True,Virginia
+395,True,R. Scott (i),0.669,199748.0,True,3,[],M. Williams,0.331,99047.0,False,Virginia
+396,True,D. McEachin,0.5730000000000001,191939.0,True,4,[],M. Wade,0.427,143261.0,False,Virginia
+397,True,J. Dittmar,0.417,147656.0,False,5,[],T. Garrett,0.583,206577.0,True,Virginia
+398,True,K. Degner,0.333,111699.0,False,6,[],R. Goodlatte (i),0.667,223915.0,True,Virginia
+399,True,E. Bedell,0.421,158692.0,False,7,[],D. Brat (i),0.579,217968.0,True,Virginia
+400,True,D. Beyer (i),0.686,245775.0,True,8,"[{'name': 'J. Gracia', 'winner': False, 'votes': 14617, 'percent': 0.041}]",C. Hernick,0.274,98123.0,False,Virginia
+401,True,D. Kitts,0.28400000000000003,87822.0,False,9,"[{'name': 'J. Boyd', 'winner': False, 'votes': 9098, 'percent': 0.029}]",M. Griffith (i),0.687,212666.0,True,Virginia
+402,True,L. Bennett,0.47100000000000003,181977.0,False,10,[],B. Comstock (i),0.529,204019.0,True,Virginia
+403,False,G. Connolly (i),,,True,11,[],,,,False,Virginia
+404,True,M. Manypenny,0.31,73025.0,False,1,[],D. McKinley (i),0.6900000000000001,162339.0,True,West Virginia
+405,True,M. Hunt,0.418,100551.0,False,2,[],A. Mooney (i),0.582,140153.0,True,West Virginia
+406,True,M. Detch,0.24,49309.0,False,3,"[{'name': 'Z. Lawhorn', 'winner': False, 'votes': 16777, 'percent': 0.082}]",E. Jenkins (i),0.679,139700.0,True,West Virginia
+407,True,S. DelBene (i),0.555,179521.0,True,1,[],R. Sutherland,0.445,144212.0,False,Washington
+408,True,R. Larsen (i),0.64,195661.0,True,2,[],M. Hennemann,0.36,109838.0,False,Washington
+409,True,J. Moeller,0.386,115277.0,False,3,[],J. Herrera Beutler (i),0.614,183375.0,True,Washington
+410,False,,,,False,4,[],C. Didier,0.426,90091.0,False,Washington
+411,True,J. Pakootas,0.405,116110.0,False,5,[],C. McMorris Rodgers (i),0.595,170711.0,True,Washington
+412,True,D. Kilmer (i),0.617,189168.0,True,6,[],T. Bloom,0.383,117388.0,False,Washington
+413,False,B. Walkinshaw,0.439,150803.0,False,7,[],,,,False,Washington
+414,True,T. Ventrella,0.4,116268.0,False,8,[],D. Reichert (i),0.6000000000000001,174729.0,True,Washington
+415,True,A. Smith (i),0.73,186787.0,True,9,[],D. Basler,0.27,68998.0,False,Washington
+416,True,D. Heck (i),0.587,159208.0,True,10,[],J. Postma,0.41300000000000003,112164.0,False,Washington
+417,True,R. Solen,0.302,106857.0,False,1,"[{'name': 'S. Zimmerman', 'winner': False, 'votes': 9435, 'percent': 0.027}, {'name': 'J. Lebeck', 'winner': False, 'votes': 7493, 'percent': 0.021}]",P. Ryan (i),0.65,230063.0,True,Wisconsin
+418,True,M. Pocan (i),0.687,275016.0,True,2,[],P. Theron,0.313,125033.0,False,Wisconsin
+419,False,R. Kind (i),,,True,3,[],,,,False,Wisconsin
+420,False,G. Moore (i),0.77,220389.0,True,4,"[{'name': 'R. Raymond', 'winner': False, 'votes': 33496, 'percent': 0.117}, {'name': 'A. Craig', 'winner': False, 'votes': 32184, 'percent': 0.113}]",,,,False,Wisconsin
+421,True,K. Penebaker,0.293,114469.0,False,5,"[{'name': 'J. Arndt', 'winner': False, 'votes': 15324, 'percent': 0.039}]",J. Sensenbrenner (i),0.668,260703.0,True,Wisconsin
+422,True,S. Lloyd,0.373,132908.0,False,6,"[{'name': 'J. Dahlke', 'winner': False, 'votes': 19690, 'percent': 0.055}]",G. Grothman (i),0.5720000000000001,203920.0,True,Wisconsin
+423,True,M. Hoeft,0.382,137910.0,False,7,[],S. Duffy (i),0.618,222834.0,True,Wisconsin
+424,True,T. Nelson,0.373,135648.0,False,8,[],M. Gallagher,0.627,227732.0,True,Wisconsin
+425,True,R. Greene,0.301,75419.0,False,1,"[{'name': 'D. Cummings', 'winner': False, 'votes': 10381, 'percent': 0.041}, {'name': 'L. Struempf', 'winner': False, 'votes': 9028, 'percent': 0.036000000000000004}]",L. Cheney,0.622,156040.0,True,Wyoming
