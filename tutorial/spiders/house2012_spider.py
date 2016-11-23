@@ -2,21 +2,8 @@ import scrapy, json, os, re
 from collections import OrderedDict
 from contextlib import suppress
 
-class HouseSpider(scrapy.Spider):
-    name         = 'house'
-
-    __outputPath = '/Users/zMac/Desktop/tutorial/house_results.json'
-    __baseUrl    = 'http://www.politico.com/2016-election/results/map/house'
-    __states     = ('alabama','alaska','arizona','arkansas','california',
-                   'colorado','connecticut','delaware','florida','georgia',
-                   'hawaii','idaho','illinois','indiana','iowa','kansas',
-                   'kentucky','louisiana','maine','maryland','massachusetts',
-                   'michigan','minnesota','mississippi','missouri','montana',
-                   'nebraska','nevada','new-hampshire','new-jersey','new-mexico',
-                   'new-york','north-carolina','north-dakota','ohio','oklahoma',
-                   'oregon','pennsylvania','rhode-island','south-carolina',
-                   'south-dakota','tennessee','texas','utah','vermont','virginia',
-                   'washington','west-virginia','wisconsin','wyoming')
+class HouseSpider2012(scrapy.Spider):
+    name         = 'house2012'
 
     def start_requests(self):
         self.__clearPickledFile()
@@ -34,10 +21,27 @@ class HouseSpider(scrapy.Spider):
             new_results     = self.__concatDistrictData(state_name, district_number, pure_results)
             self.__appendPickledFile(new_results)
 
+    ################################################
+    #              PRIVATE METHODS                 #
+    ################################################
+
+    __outputPath = '2012_house_results.json'
+    __baseUrl    = 'http://www.politico.com/2012-election/results/map/house'
+    __states     = ('alabama','alaska','arizona','arkansas','california',
+                   'colorado','connecticut','delaware','florida','georgia',
+                   'hawaii','idaho','illinois','indiana','iowa','kansas',
+                   'kentucky','louisiana','maine','maryland','massachusetts',
+                   'michigan','minnesota','mississippi','missouri','montana',
+                   'nebraska','nevada','new-hampshire','new-jersey','new-mexico',
+                   'new-york','north-carolina','north-dakota','ohio','oklahoma',
+                   'oregon','pennsylvania','rhode-island','south-carolina',
+                   'south-dakota','tennessee','texas','utah','vermont','virginia',
+                   'washington','west-virginia','wisconsin','wyoming')
+
     @staticmethod
     def __humanize(state_name):
-        words = state_name.split('-')
-        capitalized = ['%s%s' % (word[0].upper(), word[1:].lower()) for word in words]
+        words       = state_name.split('-')
+        capitalized = ['%s%s' % (w[0].upper(), w[1:].lower()) for w in words]
         return ' '.join(capitalized)
 
     def __concatDistrictData(self, state_name, district, pure_results):
@@ -79,27 +83,18 @@ class HouseSpider(scrapy.Spider):
         republican = handle(self.__getRepublicans, district)
         other      = handle(self.__getIndependents, district)
 
-        data['contested']          = not not (democrat and republican)
-
+        data['contested']          = bool(democrat and republican)
         data['democrat_name']      = democrat   and democrat.get('name')
         data['republican_name']    = republican and republican.get('name')
-
         data['democrat_votes']     = democrat   and democrat.get('votes')
         data['republican_votes']   = republican and republican.get('votes')
-
         data['democrat_percent']   = democrat   and democrat.get('percent')
         data['republican_percent'] = republican and republican.get('percent')
-
-        data['democrat_winner']    = democrat.get('winner')   if democrat   else False
+        data['democrat_winner']    = democrat.get('winner') if democrat else False
         data['republican_winner']  = republican.get('winner') if republican else False
-
         data['other_candidates']   = other
 
         return data
-
-    def __getTitle(self, district):
-        pass
-        pass
 
     def __getDemocrats(self, district):
         with suppress(IndexError):
@@ -143,9 +138,10 @@ class HouseSpider(scrapy.Spider):
 
     def __handler(self):
         errorOccurred = False
-        def handle(callback, *args):
+        def handle(*varargs, **kw):
+            callback, *args = varargs
             try:
-                data = callback(*args)
+                data = callback(*args, **kw)
             except Exception as e:
                 data = {'error': '%s: %s' % (type(e).__name__, str(e))}
                 errorOccurred = True
