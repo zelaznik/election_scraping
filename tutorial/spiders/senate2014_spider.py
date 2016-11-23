@@ -17,9 +17,9 @@ def catch_errors(func):
 def staticmethod_catch_errors(func):
     return staticmethod(catch_errors(func))
 
-class HouseSpider2016(scrapy.Spider):
-    year       = '2016'
-    name       = 'house2016'
+class SenateSpider2014(scrapy.Spider):
+    year       = '2014'
+    name       = 'senate2014'
 
     def start_requests(self):
         self.__clearPickledFile()
@@ -28,8 +28,9 @@ class HouseSpider2016(scrapy.Spider):
 
     def parse(self, response):
         data               = OrderedDict()
+
         data['state_name'] = self.__getStateFromUrl(response.url)
-        data['districts']  = self.__parseDistricts(response)
+        data['results']    = self.__parseState(response)
 
         self.__appendPickledFile(data)
 
@@ -48,11 +49,11 @@ class HouseSpider2016(scrapy.Spider):
 
     @property
     def __outputPath(self):
-        return '%s_house_results.json' % (self.year,)
+        return '%s_senate_results.json' % (self.year,)
 
     @property
     def __baseUrl(self):
-        return 'http://www.politico.com/%s-election/results/map/house' % (self.year,)
+        return 'http://www.politico.com/%s-election/results/map/senate' % (self.year,)
 
     @property
     def __urls(self):
@@ -64,31 +65,13 @@ class HouseSpider2016(scrapy.Spider):
     ################################################
 
     @catch_errors
-    def __parseDistricts(self, response):
-        election_results  = response.css('section.content-group.election-results')
-        districts         = election_results.css('div.results-dataset')
-        unordered_data    = [self.__parseDistrict(d) for d in districts]
-        data              = sorted(unordered_data, key=itemgetter('district_id'))
-
-        return data
+    def __parseState(self, response):
+        state  = response.css('.overall .results-dataset')
+        return {'candidates': self.__extractCandidates(state)}
 
     @catch_errors
-    def __parseDistrict(self, district):
-        data                = OrderedDict()
-        data['district_id'] = self.__extractDistrictID(district)
-        data['candidates']  = self.__extractCandidates(district)
-
-        return data
-
-    @catch_errors
-    def __extractDistrictID(self, district):
-        as_text = district.xpath('@id').extract_first()
-        as_num  = int(as_text.split('district')[-1])
-        return as_num
-
-    @catch_errors
-    def __extractCandidates(self, district):
-        candidates = district.css('table.results-table > tbody > tr')
+    def __extractCandidates(self, state):
+        candidates = state.css('table.results-table > tbody > tr')
         return [self.__extractCandidate(c) for c in candidates]
 
     @catch_errors
