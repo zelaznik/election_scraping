@@ -60,7 +60,7 @@ class SenateSpider2016(scrapy.Spider):
 
     def __statesWithUrls(self):
         for state in self.__states:
-            url = '%s/%s' % (self.__baseUrl, state)
+            url = '%s/%s/' % (self.__baseUrl, state)
             yield (state, url)
 
     ################################################
