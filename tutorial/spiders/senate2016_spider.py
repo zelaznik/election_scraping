@@ -2,7 +2,7 @@ import scrapy, json, os, re
 from collections import OrderedDict
 from contextlib import suppress
 from operator import itemgetter
-from functools import wraps
+from functools import wraps, partial
 
 def catch_errors(func):
     @wraps(func)
@@ -23,16 +23,17 @@ class SenateSpider2016(scrapy.Spider):
 
     def start_requests(self):
         self.__clearPickledFile()
-        for url in self.__urls:
-            yield scrapy.Request(url=url, callback=self.parse)
+        for state_name, url in self.__statesWithUrls():
+            cb = partial(self.parse, state_name)
+            yield scrapy.Request(url=url, callback=cb)
 
-    def parse(self, response):
+    def parse(self, state_name, response):
         data               = OrderedDict()
-
-        data['state_name'] = self.__getStateFromUrl(response.url)
+        data['state_name'] = self.__humanize(state_name)
         data['results']    = self.__parseState(response)
 
         self.__appendPickledFile(data)
+        self.__saveCachedPage(state_name, response)
 
     ################################################
     #              PRIVATE CONSTANTS               #
@@ -47,6 +48,8 @@ class SenateSpider2016(scrapy.Spider):
                 'tennessee', 'texas', 'utah', 'vermont', 'virginia', 'washington', 'west-virginia',
                 'wisconsin', 'wyoming')
 
+    __websiteCacheFolder = 'cached_websites/senate/2016'
+
     @property
     def __outputPath(self):
         return '%s_senate_results.json' % (self.year,)
@@ -55,10 +58,10 @@ class SenateSpider2016(scrapy.Spider):
     def __baseUrl(self):
         return 'http://www.politico.com/%s-election/results/map/senate' % (self.year,)
 
-    @property
-    def __urls(self):
-        for s in self.__states:
-            yield '%s/%s/' % (self.__baseUrl, s)
+    def __statesWithUrls(self):
+        for state in self.__states:
+            url = '%s/%s' % (self.__baseUrl, state)
+            yield (state, url)
 
     ################################################
     #              PRIVATE PARSERS                 #
@@ -134,6 +137,13 @@ class SenateSpider2016(scrapy.Spider):
     ################################################
     #           FILE InOut INTERFACE               #
     ################################################
+
+    def __getCachePath(self, state_name):
+        return '%s/%s.htm' % (self.__websiteCacheFolder, state_name)
+
+    def __saveCachedPage(self, state_name, response):
+        with open(self.__getCachePath(state_name), 'wb') as f:
+            f.write(response.body)
 
     def __readPickledFile(self):
         with open(self.__outputPath, 'r') as f:
