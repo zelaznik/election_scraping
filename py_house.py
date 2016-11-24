@@ -13,12 +13,12 @@ def get_totals(df):
     totals_columns = ['contested','democrat_votes','democrat_winner','republican_votes','republican_winner']
     totals         = pd.DataFrame(df, columns=totals_columns).sum().map(int)
 
-def main(base_path = '2016_house_results'):
+def main(base_path):
     try:
-        json_path           = '%s.json' % (base_path,)
-        excel_path          = '%s.xlsx' % (base_path,)
-        json_path_national  = '%s_national.json' % (base_path,)
-        excel_path_national = '%s_national.xlsx' % (base_path,)
+        json_path           = 'output/%s.json'                   % (base_path,)
+        excel_path          = 'post_processing/%s.xlsx'          % (base_path,)
+        json_path_national  = 'post_processing/%s_national.json' % (base_path,)
+        excel_path_national = 'post_processing/%s_national.xlsx' % (base_path,)
 
         with open(json_path, 'r') as f:
             raw_data = json.loads(f.read(), object_pairs_hook=OrderedDict)
@@ -57,11 +57,6 @@ def main(base_path = '2016_house_results'):
         globals().update(locals())
 
 if __name__ == '__main__':
-    try:
-        year = sys.argv[1]
-    except IndexError:
-        year = 2016
-    finally:
-        base_path = '%s_house_results' % (year,)
-
+    year      = int(sys.argv[1])
+    base_path = '%s_house_results' % (year,)    
     main(base_path)

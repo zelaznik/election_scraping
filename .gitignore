@@ -1,8 +1,2 @@
-*.pyc
-*results*.json
-*results*.csv
-*results*.pickle
-*results*.xlsx
-
 __pychache__
 *.pyc

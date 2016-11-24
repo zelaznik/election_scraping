@@ -2,7 +2,7 @@ import scrapy, json, os, re
 from collections import OrderedDict
 from contextlib import suppress
 from operator import itemgetter
-from functools import wraps
+from functools import partial, wraps
 
 def catch_errors(func):
     @wraps(func)
@@ -23,12 +23,13 @@ class HouseSpider2014(scrapy.Spider):
 
     def start_requests(self):
         self.__clearPickledFile()
-        for url in self.__urls:
-            yield scrapy.Request(url=url, callback=self.parse)
+        for state_name, url in self.__statesWithUrls():
+            cb = partial(self.parse, state_name)
+            yield scrapy.Request(url=url, callback=cb)
 
-    def parse(self, response):
+    def parse(self, state_name, response):
         data               = OrderedDict()
-        data['state_name'] = self.__getStateFromUrl(response.url)
+        data['state_name'] = self.__humanize(state_name)
         data['districts']  = self.__parseDistricts(response)
 
         self.__appendPickledFile(data)
@@ -48,16 +49,16 @@ class HouseSpider2014(scrapy.Spider):
 
     @property
     def __outputPath(self):
-        return '%s_house_results.json' % (self.year,)
+        return 'output/%s_house_results.json' % (self.year,)
 
     @property
     def __baseUrl(self):
-        return 'http://localhost:8000/cache/house/%s' % (self.year,)
+        return 'http://localhost:8000/cached_websites/house/%s' % (self.year,)
 
-    @property
-    def __urls(self):
-        for s in self.__states:
-            yield '%s/%s.htm' % (self.__baseUrl, s)
+    def __statesWithUrls(self):
+        for state in self.__states:
+            url = '%s/%s.htm' % (self.__baseUrl, state)
+            yield (state, url)
 
     ################################################
     #              PRIVATE PARSERS                 #
@@ -110,8 +111,10 @@ class HouseSpider2014(scrapy.Spider):
     @staticmethod_catch_errors
     def __humanize(state_name):
         words       = state_name.split('-')
-        capitalized = ['%s%s' % (w[0].upper(), w[1:].lower()) for w in words]
-        return ' '.join(capitalized)
+        capitalized = [w.capitalize() for w in words]
+        humanized   = ' '.join(capitalized)
+
+        return humanized
 
     @staticmethod_catch_errors
     def __getStateFromUrl(url):

@@ -2,7 +2,7 @@ import scrapy, json, os, re
 from collections import OrderedDict
 from contextlib import suppress
 from operator import itemgetter
-from functools import wraps
+from functools import wraps, partial
 
 def catch_errors(func):
     @wraps(func)
@@ -23,15 +23,17 @@ class HouseSpider2016(scrapy.Spider):
 
     def start_requests(self):
         self.__clearPickledFile()
-        for url in self.__urls:
-            yield scrapy.Request(url=url, callback=self.parse)
+        for state_name, url in self.__statesWithUrls():
+            cb = partial(self.parse, state_name)
+            yield scrapy.Request(url=url, callback=cb)
 
-    def parse(self, response):
+    def parse(self, state_name, response):
         data               = OrderedDict()
-        data['state_name'] = self.__getStateFromUrl(response.url)
+        data['state_name'] = self.__humanize(state_name)
         data['districts']  = self.__parseDistricts(response)
 
         self.__appendPickledFile(data)
+        self.__saveCachedPage(state_name, response)
 
     ################################################
     #              PRIVATE CONSTANTS               #
@@ -46,18 +48,21 @@ class HouseSpider2016(scrapy.Spider):
                 'tennessee', 'texas', 'utah', 'vermont', 'virginia', 'washington', 'west-virginia',
                 'wisconsin', 'wyoming')
 
+    __websiteCacheFolder = 'cached_websites/house/2016'
+
     @property
     def __outputPath(self):
-        return '%s_house_results.json' % (self.year,)
+        return 'output/%s_house_results.json' % (self.year,)
+
 
     @property
     def __baseUrl(self):
         return 'http://www.politico.com/%s-election/results/map/house' % (self.year,)
 
-    @property
-    def __urls(self):
-        for s in self.__states:
-            yield '%s/%s/' % (self.__baseUrl, s)
+    def __statesWithUrls(self):
+        for state in self.__states:
+            url = '%s/%s' % (self.__baseUrl, state)
+            yield (state, url)
 
     ################################################
     #              PRIVATE PARSERS                 #
@@ -67,8 +72,8 @@ class HouseSpider2016(scrapy.Spider):
     def __parseDistricts(self, response):
         election_results  = response.css('section.content-group.election-results')
         districts         = election_results.css('div.results-dataset')
-        unordered_data    = [self.__parseDistrict(d) for d in districts]
-        data              = sorted(unordered_data, key=itemgetter('district_id'))
+        data              = [self.__parseDistrict(d) for d in districts]
+        #data              = sorted(unordered_data, key=itemgetter('district_id'))
 
         return data
 
@@ -79,12 +84,6 @@ class HouseSpider2016(scrapy.Spider):
         data['candidates']  = self.__extractCandidates(district)
 
         return data
-
-    @catch_errors
-    def __extractDistrictID(self, district):
-        as_text = district.xpath('@id').extract_first()
-        as_num  = int(as_text.split('district')[-1])
-        return as_num
 
     @catch_errors
     def __extractCandidates(self, district):
@@ -113,14 +112,13 @@ class HouseSpider2016(scrapy.Spider):
         capitalized = ['%s%s' % (w[0].upper(), w[1:].lower()) for w in words]
         return ' '.join(capitalized)
 
-    @staticmethod_catch_errors
-    def __getStateFromUrl(url):
-        return url.rstrip('/').split('/')[-1]
 
     @staticmethod_catch_errors
-    def __extractStateID(state):
-        as_text = state.xpath('@id').extract_first()
-        as_num  = int(as_text.split('state')[-1])
+    def __extractDistrictID(district):
+        full_text = district.xpath('@id').extract_first()
+        (as_str,) = re.findall('([0-9]{1,2})', full_text)
+        as_num    = int(as_str)
+
         return as_num
 
     @staticmethod_catch_errors
@@ -151,6 +149,13 @@ class HouseSpider2016(scrapy.Spider):
     ################################################
     #           FILE InOut INTERFACE               #
     ################################################
+
+    def __getCachePath(self, state_name):
+        return '%s/%s.htm' % (self.__websiteCacheFolder, state_name)
+
+    def __saveCachedPage(self, state_name, response):
+        with open(self.__getCachePath(state_name), 'wb') as f:
+            f.write(response.body)
 
     def __readPickledFile(self):
         with open(self.__outputPath, 'r') as f:
