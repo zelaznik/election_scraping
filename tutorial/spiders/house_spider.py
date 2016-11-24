@@ -2,7 +2,9 @@ import scrapy, json, os, re
 from collections import OrderedDict
 from contextlib import suppress
 from operator import itemgetter
-from functools import partial, wraps
+from functools import wraps, partial
+from six import with_metaclass
+from abc import ABCMeta, abstractproperty
 
 def catch_errors(func):
     @wraps(func)
@@ -17,9 +19,10 @@ def catch_errors(func):
 def staticmethod_catch_errors(func):
     return staticmethod(catch_errors(func))
 
-class HouseSpider2014(scrapy.Spider):
-    year       = '2014'
-    name       = 'house2014'
+class HouseSpider(with_metaclass(ABCMeta)):
+    name   = abstractproperty(lambda self: None)
+    year   = abstractproperty(lambda self: None)
+    cached = abstractproperty(lambda self: None)
 
     def start_requests(self):
         self.__clearPickledFile()
@@ -33,6 +36,8 @@ class HouseSpider2014(scrapy.Spider):
         data['districts']  = self.__parseDistricts(response)
 
         self.__appendPickledFile(data)
+        if not self.cached:
+            self.__saveCachedPage(state_name, response)
 
     ################################################
     #              PRIVATE CONSTANTS               #
@@ -48,16 +53,25 @@ class HouseSpider2014(scrapy.Spider):
                 'wisconsin', 'wyoming')
 
     @property
+    def __websiteCacheFolder(self):
+         return 'cached_websites/house/%s' % (self.year,)
+
+    @property
     def __outputPath(self):
         return 'output/%s_house_results.json' % (self.year,)
 
+
     @property
     def __baseUrl(self):
-        return 'http://localhost:8000/cached_websites/house/%s' % (self.year,)
+        if self.cached:
+            return 'http://localhost:8000/cached_websites/house/%s' % (self.year,)
+        else:
+            return 'http://www.politico.com/%s-election/results/map/house' % (self.year,)
 
     def __statesWithUrls(self):
+        htm = 'htm' if self.cached else ''  
         for state in self.__states:
-            url = '%s/%s.htm' % (self.__baseUrl, state)
+            url = '%s/%s%s' % (self.__baseUrl, state, htm)
             yield (state, url)
 
     ################################################
@@ -155,6 +169,13 @@ class HouseSpider2014(scrapy.Spider):
     #           FILE InOut INTERFACE               #
     ################################################
 
+    def __getCachePath(self, state_name):
+        return '%s/%s.htm' % (self.__websiteCacheFolder, state_name)
+
+    def __saveCachedPage(self, state_name, response):
+        with open(self.__getCachePath(state_name), 'wb') as f:
+            f.write(response.body)
+
     def __readPickledFile(self):
         with open(self.__outputPath, 'r') as f:
             return json.loads(f.read(), object_pairs_hook=OrderedDict)
@@ -178,3 +199,13 @@ class HouseSpider2014(scrapy.Spider):
         unwrapped_data = self.__readPickledFile()
         data = {'states': unwrapped_data}
         self.__overwritePickledFile(data)
+
+class HouseSpider2014(HouseSpider, scrapy.Spider):
+    name   = 'house2014'
+    year   = '2014'
+    cached = True
+
+class HouseSpider2016(HouseSpider, scrapy.Spider):
+    name   = 'house2016'
+    year   = '2016'
+    cached = False
