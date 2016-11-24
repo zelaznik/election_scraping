@@ -13,13 +13,16 @@ def get_totals(df):
     totals_columns = ['contested','democrat_votes','democrat_winner','republican_votes','republican_winner']
     totals         = pd.DataFrame(df, columns=totals_columns).sum().map(int)
 
-def main(base_path):
-    try:
-        json_path           = 'output/%s.json'                   % (base_path,)
-        excel_path          = 'post_processing/%s.xlsx'          % (base_path,)
-        json_path_national  = 'post_processing/%s_national.json' % (base_path,)
-        excel_path_national = 'post_processing/%s_national.xlsx' % (base_path,)
+def default_args(chamber, year):
+    base_path           = '%(year)s_%(chamber)s_results' % locals()
+    json_path           = 'output/%(base_path)s.json' % locals()
+    json_path_national  = 'post_processing/%(chamber)s/%(year)s/%(base_path)s_national.json' % locals()
+    excel_path_national = 'post_processing/%(chamber)s/%(year)s/%(base_path)s_national.xlsx' % locals()
+    
+    return locals().copy()
 
+def main(base_path, json_path, json_path_national, excel_path_national, **kwargs):
+    try:
         with open(json_path, 'r') as f:
             raw_data = json.loads(f.read(), object_pairs_hook=OrderedDict)
 
@@ -58,5 +61,5 @@ def main(base_path):
 
 if __name__ == '__main__':
     year      = int(sys.argv[1])
-    base_path = '%s_house_results' % (year,)    
-    main(base_path)
+    kwargs    = default_args('house', year)
+    main(**kwargs)

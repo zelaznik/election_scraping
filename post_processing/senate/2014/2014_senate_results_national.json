@@ -1,0 +1,216 @@
+[
+  {
+    "state_name": "Alabama",
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Alaska",
+    "republican_votes": 119579,
+    "democratic_votes": 111668,
+    "libertarian_votes": 9026,
+    "no party affiliation_votes": 4725
+  },
+  {
+    "state_name": "Arkansas",
+    "republican_votes": 476309,
+    "democratic_votes": 332669,
+    "libertarian_votes": 17103,
+    "green_votes": 16717
+  },
+  {
+    "state_name": "Colorado",
+    "republican_votes": 965974,
+    "democratic_votes": 916245,
+    "unaffiliated_votes": 51946,
+    "libertarian_votes": 51225,
+    "other_votes": 6217
+  },
+  {
+    "state_name": "Delaware",
+    "democratic_votes": 130645,
+    "republican_votes": 98819,
+    "green_votes": 4560
+  },
+  {
+    "state_name": "Georgia",
+    "republican_votes": 1355392,
+    "democratic_votes": 1154388,
+    "libertarian_votes": 48930
+  },
+  {
+    "state_name": "Hawaii"
+  },
+  {
+    "state_name": "Idaho",
+    "republican_votes": 285322,
+    "democratic_votes": 151697
+  },
+  {
+    "state_name": "Illinois",
+    "democratic_votes": 1850862,
+    "republican_votes": 1503942,
+    "libertarian_votes": 130762
+  },
+  {
+    "state_name": "Iowa",
+    "republican_votes": 586921,
+    "democratic_votes": 491708,
+    "independent_votes": 31373,
+    "libertarian_votes": 8315,
+    "other_votes": 5928
+  },
+  {
+    "state_name": "Kansas",
+    "republican_votes": 449974,
+    "independent_votes": 358898,
+    "libertarian_votes": 36002
+  },
+  {
+    "state_name": "Kentucky",
+    "republican_votes": 806795,
+    "democratic_votes": 584699,
+    "libertarian_votes": 44240
+  },
+  {
+    "state_name": "Louisiana",
+    "republican_votes": 819010,
+    "democratic_votes": 638658,
+    "libertarian_votes": 13024
+  },
+  {
+    "state_name": "Maine",
+    "republican_votes": 411211,
+    "democratic_votes": 189653
+  },
+  {
+    "state_name": "Massachusetts",
+    "democratic_votes": 1285736,
+    "republican_votes": 789378
+  },
+  {
+    "state_name": "Michigan",
+    "democratic_votes": 1693781,
+    "republican_votes": 1283850,
+    "libertarian_votes": 62504,
+    "u.s. taxpayers_votes": 37155,
+    "green_votes": 26040
+  },
+  {
+    "state_name": "Minnesota",
+    "democratic_votes": 1052794,
+    "republican_votes": 849932,
+    "independence_votes": 47604,
+    "libertarian_votes": 29686
+  },
+  {
+    "state_name": "Mississippi",
+    "republican_votes": 370208,
+    "democratic_votes": 228974,
+    "reform party_votes": 13660
+  },
+  {
+    "state_name": "Montana",
+    "republican_votes": 210863,
+    "democratic_votes": 145601,
+    "libertarian_votes": 7712
+  },
+  {
+    "state_name": "Nebraska",
+    "republican_votes": 339868,
+    "democratic_votes": 162874,
+    "petitioning candidate_votes": 21627
+  },
+  {
+    "state_name": "New Hampshire",
+    "democratic_votes": 250722,
+    "republican_votes": 234846
+  },
+  {
+    "state_name": "New Jersey",
+    "democratic_votes": 1016204,
+    "republican_votes": 772991,
+    "independent_votes": 33440
+  },
+  {
+    "state_name": "New Mexico",
+    "democratic_votes": 280074,
+    "republican_votes": 225706
+  },
+  {
+    "state_name": "North Carolina",
+    "republican_votes": 1413269,
+    "democratic_votes": 1364758,
+    "libertarian_votes": 108183
+  },
+  {
+    "state_name": "Ohio"
+  },
+  {
+    "state_name": "Oklahoma",
+    "republican_votes": 557537,
+    "democratic_votes": 233932,
+    "independent_votes": 28210
+  },
+  {
+    "state_name": "Oregon",
+    "democratic_votes": 744516,
+    "republican_votes": 498191,
+    "libertarian_votes": 40649,
+    "pacific green_votes": 28897,
+    "constitution_votes": 22205
+  },
+  {
+    "state_name": "Rhode Island",
+    "democratic_votes": 222776,
+    "republican_votes": 92389
+  },
+  {
+    "state_name": "South Carolina",
+    "republican_votes": 665605,
+    "democratic_votes": 475532,
+    "petitioning candidate_votes": 47205,
+    "libertarian_votes": 33481
+  },
+  {
+    "state_name": "South Dakota",
+    "republican_votes": 140721,
+    "democratic_votes": 82408,
+    "independent_votes": 56197
+  },
+  {
+    "state_name": "Tennessee",
+    "republican_votes": 849748,
+    "democratic_votes": 437175,
+    "independent_votes": 37419,
+    "constitution_votes": 36056,
+    "green_votes": 12530
+  },
+  {
+    "state_name": "Texas",
+    "republican_votes": 2855068,
+    "democratic_votes": 1594252,
+    "libertarian_votes": 133467,
+    "green_votes": 54587
+  },
+  {
+    "state_name": "Virginia",
+    "democratic_votes": 1071283,
+    "republican_votes": 1054556,
+    "libertarian_votes": 53396
+  },
+  {
+    "state_name": "West Virginia",
+    "republican_votes": 280123,
+    "democratic_votes": 155456,
+    "libertarian_votes": 7360,
+    "mountain party_votes": 5448,
+    "constitution_votes": 2544
+  },
+  {
+    "state_name": "Wyoming",
+    "republican_votes": 119534,
+    "democratic_votes": 29043,
+    "independent_votes": 13175,
+    "libertarian_votes": 3602
+  }
+]

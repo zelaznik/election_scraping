@@ -2,6 +2,7 @@ from collections import OrderedDict, defaultdict
 from operator import itemgetter
 import pandas as pd
 import json
+import sys
 
 EPSILON = 10**-6
 
@@ -12,21 +13,22 @@ def get_totals(df):
     totals_columns = ['contested','democrat_votes','democrat_winner','republican_votes','republican_winner']
     totals         = pd.DataFrame(df, columns=totals_columns).sum().map(int)
 
-def main(base_path = '2016_senate_results'):
+def default_args(chamber, year):
+    base_path           = '%(year)s_%(chamber)s_results' % locals()
+    json_path           = 'output/%(base_path)s.json' % locals()
+    json_path_national  = 'post_processing/%(chamber)s/%(year)s/%(base_path)s_national.json' % locals()
+    excel_path_national = 'post_processing/%(chamber)s/%(year)s/%(base_path)s_national.xlsx' % locals()
+    
+    return locals().copy()
+
+def main(base_path, json_path, json_path_national, excel_path_national, **kwargs):
     try:
-        json_path           = '%s.json' % (base_path,)
-        excel_path          = '%s.xlsx' % (base_path,)
-
-        json_path_national  = '%s_national.json' % (base_path,)
-        excel_path_national = '%s_national.xlsx' % (base_path,)
-
         with open(json_path, 'r') as f:
             raw_data = json.loads(f.read(), object_pairs_hook=OrderedDict)
 
-        ct = 0
+
         national_results = []
         for state in raw_data:
-            ct += 1
 
             results                   = state['results']
             new_results               = OrderedDict()
@@ -41,8 +43,7 @@ def main(base_path = '2016_senate_results'):
 
             national_results.append(new_results)
 
-        if (ct != 34):
-            print("expected 34, got %s" % (ct,))
+
 
         with open(json_path_national, 'w') as f:
             f.write(json.dumps(national_results, indent=2))
@@ -58,4 +59,6 @@ def main(base_path = '2016_senate_results'):
         globals().update(locals())
 
 if __name__ == '__main__':
-    main()
+    year      = int(sys.argv[1])
+    kwargs    = default_args('senate', year)
+    main(**kwargs)
