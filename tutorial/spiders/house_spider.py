@@ -12,7 +12,7 @@ def catch_errors(func):
         try:
             return func(*args, **kw)
         except Exception as e:
-            return {'error': '%s: %s' % (type(e).__name__, str(e)), 'function': func.__name__}
+            return {'error': '%s: %s' % (type(e).__name__, e), 'function': func.__name__}
 
     return handle
 
