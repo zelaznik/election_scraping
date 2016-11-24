@@ -5,7 +5,7 @@ def clear_folder(folder):
         shutil.rmtree(folder)
 
 def main(year, *chambers):
-    sections = ['post_processing','output','cached_websites']
+    sections = ['post_processing','output']
     for section in sections:
         for chamber in chambers:
             clear_folder(os.path.join(section, chamber, year))
