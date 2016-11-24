@@ -190,12 +190,17 @@ class HouseSpider(with_metaclass(ABCMeta)):
         data = {'states': unwrapped_data}
         self._overwritePickledFile(data)
 
+class HouseSpider2016(HouseSpider, scrapy.Spider):
+    name   = 'house2016'
+    year   = '2016'
+    cached = True
+
 class HouseSpider2014(HouseSpider, scrapy.Spider):
     name   = 'house2014'
     year   = '2014'
     cached = True
 
-class HouseSpider2016(HouseSpider, scrapy.Spider):
-    name   = 'house2016'
-    year   = '2016'
-    cached = False
+class HouseSpider2012(HouseSpider, scrapy.Spider):
+    name   = 'house2012'
+    year   = '2012'
+    cached = True
