@@ -1,0 +1,2298 @@
+[
+  {
+    "state_name": "Alabama",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1252453,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 793620,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "G. Johnson",
+          "votes": 12283,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "J. Stein",
+          "votes": 3382,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "V. Goode",
+          "votes": 2961,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Alaska",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 136848,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 102138,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 6131,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 2366,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Arizona",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1143051,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 930669,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 28609,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 7057,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Arkansas",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 638467,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 389699,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 16021,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 9204,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "P. Lindsay",
+          "votes": 1721,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "California",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 6493924,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 4202127,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 116960,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 69195,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Progressive Federal Party",
+          "name": "R. Barr",
+          "votes": 43665,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "American Independent Party",
+          "name": "T. Hoefling",
+          "votes": 31933,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Colorado",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 1238490,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1125391,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 32262,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 6894,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "American Constitution",
+          "name": "V. Goode",
+          "votes": 5807,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Progressive Federal Party",
+          "name": "R. Barr",
+          "votes": 4537,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "J. Reed",
+          "votes": 2394,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Justice Party",
+          "name": "R. Anderson",
+          "votes": 1180,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "We The People",
+          "name": "S. Tittle",
+          "votes": 742,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "T. Hoefling",
+          "votes": 632,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "G. La Riva",
+          "votes": 284,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "S. Alexander",
+          "votes": 276,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "American Third Position",
+          "name": "M. Miller",
+          "votes": 248,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Objectivist",
+          "name": "T. Stevens",
+          "votes": 211,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialist Workers",
+          "name": "J. Harris",
+          "votes": 177,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialist Equality",
+          "name": "J. White",
+          "votes": 173,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Connecticut",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 912531,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 631432,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 12628,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "R. Anderson",
+          "votes": 5596,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Delaware",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 242547,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 165476,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 3882,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 1939,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Florida",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 4235270,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 4162081,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 44681,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 8933,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Progressive Federal Party",
+          "name": "R. Barr",
+          "votes": 8147,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Objectivist",
+          "name": "T. Stevens",
+          "votes": 3855,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 2603,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Justice Party",
+          "name": "R. Anderson",
+          "votes": 1753,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "American Independent Party",
+          "name": "T. Hoefling",
+          "votes": 944,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Reform Party",
+          "name": "A. Barnett",
+          "votes": 819,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialist",
+          "name": "S. Alexander",
+          "votes": 797,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "P. Lindsay",
+          "votes": 322,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Georgia",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 2070221,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 1761761,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 45056,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Hawaii",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 303090,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 119494,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 3789,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 3121,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Idaho",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 420750,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 212560,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 9448,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "J. Stein",
+          "votes": 4400,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "R. Anderson",
+          "votes": 2495,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 2218,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Illinois",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 2916811,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 2090116,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 54798,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 29336,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Indiana",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1412620,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 1140425,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 49838,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Iowa",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 816429,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 727928,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 12825,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 3739,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 3022,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "J. Litzel",
+          "votes": 1196,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialist Workers",
+          "name": "J. Harris",
+          "votes": 465,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "G. La Riva",
+          "votes": 364,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Kansas",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 678719,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 427918,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 19870,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Reform Party",
+          "name": "C. Baldwin",
+          "votes": 4737,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Kentucky",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1087127,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 679340,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 17047,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "R. Terry",
+          "votes": 6872,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 6350,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Louisiana",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1152460,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 808496,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 18135,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 6981,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 2504,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "We The People",
+          "name": "S. Tittle",
+          "votes": 1762,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Justice Party",
+          "name": "R. Anderson",
+          "votes": 1362,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "P. Lindsay",
+          "votes": 592,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Prohibition",
+          "name": "J. Fellure",
+          "votes": 519,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialist Workers",
+          "name": "J. Harris",
+          "votes": 388,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialist Equality",
+          "name": "J. White",
+          "votes": 356,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Maine",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 397754,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 290437,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 13446,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 9101,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Maryland",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 1527686,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 904970,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 27729,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 15571,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Massachusetts",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 1900575,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1177370,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 30526,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 19663,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Michigan",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 2561911,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 2112673,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 21204,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "U.S. Taxpayers",
+          "name": "V. Goode",
+          "votes": 16792,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Natural Law",
+          "name": "R. Anderson",
+          "votes": 5148,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Minnesota",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 1547668,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1321575,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 35158,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 13045,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 3727,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Grass Roots Party",
+          "name": "J. Carlson",
+          "votes": 3172,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Justice Party",
+          "name": "R. Anderson",
+          "votes": 2013,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitutional",
+          "name": "D. Morstad",
+          "votes": 1106,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialist Workers",
+          "name": "J. Harris",
+          "votes": 1062,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "P. Lindsay",
+          "votes": 416,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Mississippi",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 674302,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 528260,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 6408,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 2531,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 1534,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Reform Party",
+          "name": "B. Washer",
+          "votes": 969,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Missouri",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1478961,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 1215031,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 43029,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 7914,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Montana",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 264974,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 200489,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 13923,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Nebraska",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 462972,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 289154,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 10610,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Petitioning Candidate",
+          "name": "R. Terry",
+          "votes": 2347,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Nevada",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 528801,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 462422,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 10895,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "No Party Designation",
+          "name": "None of these candidates",
+          "votes": 5753,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent American",
+          "name": "V. Goode",
+          "votes": 3234,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "New Hampshire",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 368529,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 327870,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 8319,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 1156,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "New Jersey",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 1960744,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1383233,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 19483,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 9036,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 1911,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Justice Party",
+          "name": "R. Anderson",
+          "votes": 1571,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "J. Boss",
+          "votes": 907,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "American Third Position",
+          "name": "M. Miller",
+          "votes": 838,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialist Workers",
+          "name": "J. Harris",
+          "votes": 658,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "P. Lindsay",
+          "votes": 445,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "New Mexico",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 408312,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 331915,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 27337,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 2641,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "New Mexico Independent",
+          "name": "R. Anderson",
+          "votes": 1151,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 973,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "New York",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 3875826,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 2226637,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 42452,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 35595,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 6354,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "P. Lindsay",
+          "votes": 2118,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "North Carolina",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 2275853,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 2178388,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 44798,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "North Dakota",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 187586,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 124490,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 5213,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 1357,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 1179,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Ohio",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 2697260,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 2593779,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 47287,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 17860,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "R. Duncan",
+          "votes": 12148,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 7883,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialist",
+          "name": "S. Alexander",
+          "votes": 2873,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Oklahoma",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 889372,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 442647,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Oregon",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 937321,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 733743,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 23015,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Pacific Green",
+          "name": "J. Stein",
+          "votes": 18668,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "W. Christensen",
+          "votes": 4283,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Progressive",
+          "name": "R. Anderson",
+          "votes": 3253,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Pennsylvania",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 2907448,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 2619583,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 48758,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 20710,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Rhode Island",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 274342,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 155355,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 4334,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 2370,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 452,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Justice Party",
+          "name": "R. Anderson",
+          "votes": 403,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "P. Lindsay",
+          "votes": 124,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "South Carolina",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1049507,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 845756,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 16060,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 5331,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 4709,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "South Dakota",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 210541,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 144988,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 5795,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 2371,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Tennessee",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1453097,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 953043,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "G. Johnson",
+          "votes": 18536,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 7305,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 6450,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "R. Anderson",
+          "votes": 2626,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "M. Miller",
+          "votes": 1747,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Texas",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 4555799,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 3294440,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 88110,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 24450,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Utah",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 671747,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 229463,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 11071,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Justice Party",
+          "name": "R. Anderson",
+          "votes": 4725,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 3378,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 2572,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "G. La Riva",
+          "votes": 345,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Vermont",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 199259,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 92700,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 3482,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Justice Party",
+          "name": "R. Anderson",
+          "votes": 1139,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "P. Lindsay",
+          "votes": 694,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Virginia",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 1905528,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1789618,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 30570,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 13677,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 8465,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Washington",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 1620432,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1210369,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 37732,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 18316,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 8071,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Justice Party",
+          "name": "R. Anderson",
+          "votes": 4332,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "P. Lindsay",
+          "votes": 1148,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialist Workers",
+          "name": "J. Harris",
+          "votes": 1099,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "West Virginia",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 412406,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 234925,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 6204,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Mountain Party",
+          "name": "J. Stein",
+          "votes": 4341,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "No Party Affiliation",
+          "name": "R. Terry",
+          "votes": 3767,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Wisconsin",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 1613950,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 1408746,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 20279,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 7601,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 4908,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialist Equality",
+          "name": "J. White",
+          "votes": 601,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "G. La Riva",
+          "votes": 528,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Wyoming",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "M. Romney",
+          "votes": 170265,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Obama (i)",
+          "votes": 68780,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 5302,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "V. Goode",
+          "votes": 1438,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  }
+]

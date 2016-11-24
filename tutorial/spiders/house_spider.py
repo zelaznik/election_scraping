@@ -89,3 +89,7 @@ class HouseSpider2012(HouseSpider):
     @staticmethod_catch_errors
     def _extractWinner(candidate):
         return not not candidate.css('span.winner-check')
+
+class HouseSpider2010(HouseSpider2012):
+    name   = 'house2010'
+    year   = '2010'

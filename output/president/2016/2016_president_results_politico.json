@@ -1,0 +1,2438 @@
+[
+  {
+    "state_name": "Alabama",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1306925,
+          "percent": 0.629,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 718084,
+          "percent": 0.346,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "G. Johnson",
+          "votes": 43869,
+          "percent": 0.021,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "J. Stein",
+          "votes": 9287,
+          "percent": 0.004,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Alaska",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 130415,
+          "percent": 0.529,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 93007,
+          "percent": 0.377,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 14593,
+          "percent": 0.059,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 4445,
+          "percent": 0.018,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 3156,
+          "percent": 0.013,
+          "winner": false
+        },
+        {
+          "party": "No Party Affiliation",
+          "name": "R. De La Fuente",
+          "votes": 972,
+          "percent": 0.004,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Arizona",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1021154,
+          "percent": 0.495,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 936250,
+          "percent": 0.454,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 80151,
+          "percent": 0.039,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 25255,
+          "percent": 0.012,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Arkansas",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 677904,
+          "percent": 0.604,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 378729,
+          "percent": 0.338,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 29518,
+          "percent": 0.026,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "E. McMullin",
+          "votes": 13069,
+          "percent": 0.012,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 9837,
+          "percent": 0.009,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 4567,
+          "percent": 0.004,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "J. Hedges",
+          "votes": 4676,
+          "percent": 0.004,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "L. Kahn",
+          "votes": 3384,
+          "percent": 0.003,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "California",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 7362490,
+          "percent": 0.616,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 3916209,
+          "percent": 0.328,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 402406,
+          "percent": 0.034,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 220312,
+          "percent": 0.018,
+          "winner": false
+        },
+        {
+          "party": "Progressive Federal Party",
+          "name": "G. La Riva",
+          "votes": 52900,
+          "percent": 0.004,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Colorado",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 1208095,
+          "percent": 0.472,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1136354,
+          "percent": 0.444,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 129128,
+          "percent": 0.05,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 33009,
+          "percent": 0.013,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "E. McMullin",
+          "votes": 26715,
+          "percent": 0.01,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 10883,
+          "percent": 0.004,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "C. Keniston",
+          "votes": 4732,
+          "percent": 0.002,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "M. Smith",
+          "votes": 1661,
+          "percent": 0.001,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "F. Atwood",
+          "votes": 309,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "R. De La Fuente",
+          "votes": 1061,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Prohibition",
+          "name": "J. Hedges",
+          "votes": 163,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "T. Hoefling",
+          "votes": 639,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Socialist Workers",
+          "name": "A. Kennedy",
+          "votes": 409,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Independent American",
+          "name": "K. Kopitke",
+          "votes": 1001,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "L. Kotlikoff",
+          "votes": 359,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "G. La Riva",
+          "votes": 445,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "B. Lyttle",
+          "votes": 336,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "J. Maldonado",
+          "votes": 780,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "M. Maturen",
+          "votes": 752,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "R. Scott",
+          "votes": 687,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "R. Silva",
+          "votes": 652,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "E. Soltysik",
+          "votes": 235,
+          "percent": 0.0,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Connecticut",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 884432,
+          "percent": 0.545,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 668266,
+          "percent": 0.412,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 48051,
+          "percent": 0.03,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 22793,
+          "percent": 0.014,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Delaware",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 235581,
+          "percent": 0.534,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 185103,
+          "percent": 0.419,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 14751,
+          "percent": 0.033,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 6100,
+          "percent": 0.014,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Florida",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 4605515,
+          "percent": 0.491,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 4485745,
+          "percent": 0.478,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 206007,
+          "percent": 0.022,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 64019,
+          "percent": 0.007,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 16393,
+          "percent": 0.002,
+          "winner": false
+        },
+        {
+          "party": "Reform Party",
+          "name": "R. De La Fuente",
+          "votes": 9071,
+          "percent": 0.001,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Georgia",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 2068623,
+          "percent": 0.513,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 1837300,
+          "percent": 0.456,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 123641,
+          "percent": 0.031,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Hawaii",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 251853,
+          "percent": 0.623,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 121648,
+          "percent": 0.301,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 14854,
+          "percent": 0.037,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 11608,
+          "percent": 0.029,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 4191,
+          "percent": 0.01,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Idaho",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 407199,
+          "percent": 0.592,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 189677,
+          "percent": 0.276,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "E. McMullin",
+          "votes": 46538,
+          "percent": 0.068,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 28256,
+          "percent": 0.041,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "J. Stein",
+          "votes": 8464,
+          "percent": 0.012,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "D. Castle",
+          "votes": 4378,
+          "percent": 0.006,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "S. Copeland",
+          "votes": 2347,
+          "percent": 0.003,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "R. De La Fuente",
+          "votes": 1376,
+          "percent": 0.002,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Illinois",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 2977498,
+          "percent": 0.554,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 2118179,
+          "percent": 0.394,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 204491,
+          "percent": 0.038,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 74112,
+          "percent": 0.014,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Indiana",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1556220,
+          "percent": 0.572,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 1031953,
+          "percent": 0.379,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 133856,
+          "percent": 0.049,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Iowa",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 798923,
+          "percent": 0.518,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 650790,
+          "percent": 0.422,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 57322,
+          "percent": 0.037,
+          "winner": false
+        },
+        {
+          "party": "Petitioning Candidate",
+          "name": "E. McMullin",
+          "votes": 12267,
+          "percent": 0.008,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 11119,
+          "percent": 0.007,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 7252,
+          "percent": 0.005,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "L. Kahn",
+          "votes": 2181,
+          "percent": 0.001,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "D. Vacek",
+          "votes": 2256,
+          "percent": 0.001,
+          "winner": false
+        },
+        {
+          "party": "Petitioning Candidate",
+          "name": "R. De La Fuente",
+          "votes": 450,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "G. La Riva",
+          "votes": 320,
+          "percent": 0.0,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Kansas",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 656009,
+          "percent": 0.572,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 414788,
+          "percent": 0.362,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 53648,
+          "percent": 0.047,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "J. Stein",
+          "votes": 22698,
+          "percent": 0.02,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Kentucky",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1202942,
+          "percent": 0.625,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 628834,
+          "percent": 0.327,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 53749,
+          "percent": 0.028,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "E. McMullin",
+          "votes": 22780,
+          "percent": 0.012,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 13913,
+          "percent": 0.007,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "R. De La Fuente",
+          "votes": 1128,
+          "percent": 0.001,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Louisiana",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1178004,
+          "percent": 0.581,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 779535,
+          "percent": 0.384,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 37950,
+          "percent": 0.019,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 14018,
+          "percent": 0.007,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "E. McMullin",
+          "votes": 8546,
+          "percent": 0.004,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "D. Castle",
+          "votes": 3128,
+          "percent": 0.002,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "L. Kotlikoff",
+          "votes": 1046,
+          "percent": 0.001,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "T. Hoefling",
+          "votes": 1581,
+          "percent": 0.001,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "C. Keniston",
+          "votes": 1880,
+          "percent": 0.001,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "A. Kennedy",
+          "votes": 480,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "G. La Riva",
+          "votes": 446,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "J. White",
+          "votes": 369,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "P. Jacob",
+          "votes": 748,
+          "percent": 0.0,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Maine",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 354873,
+          "percent": 0.479,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 334838,
+          "percent": 0.452,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 37764,
+          "percent": 0.051,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 14075,
+          "percent": 0.019,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Maryland",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 1497951,
+          "percent": 0.605,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 873646,
+          "percent": 0.353,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 71107,
+          "percent": 0.029,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 31839,
+          "percent": 0.013,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Massachusetts",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 1964768,
+          "percent": 0.608,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1083069,
+          "percent": 0.335,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 136784,
+          "percent": 0.042,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 46910,
+          "percent": 0.015,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Michigan",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 2279805,
+          "percent": 0.476,
+          "winner": false
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 2268193,
+          "percent": 0.473,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 173057,
+          "percent": 0.036,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 50700,
+          "percent": 0.011,
+          "winner": false
+        },
+        {
+          "party": "U.S. Taxpayers",
+          "name": "D. Castle",
+          "votes": 16926,
+          "percent": 0.004,
+          "winner": false
+        },
+        {
+          "party": "Natural Law",
+          "name": "E. Soltysik",
+          "votes": 2236,
+          "percent": 0.0,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Minnesota",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 1366676,
+          "percent": 0.469,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1322891,
+          "percent": 0.454,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 112944,
+          "percent": 0.039,
+          "winner": false
+        },
+        {
+          "party": "Independence",
+          "name": "E. McMullin",
+          "votes": 53080,
+          "percent": 0.018,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 36957,
+          "percent": 0.013,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "D. Vacek",
+          "votes": 11290,
+          "percent": 0.004,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 9466,
+          "percent": 0.003,
+          "winner": false
+        },
+        {
+          "party": "Socialist Workers",
+          "name": "A. Kennedy",
+          "votes": 1670,
+          "percent": 0.001,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "R. De La Fuente",
+          "votes": 1430,
+          "percent": 0.0,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Mississippi",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 678457,
+          "percent": 0.583,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 462001,
+          "percent": 0.397,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 13789,
+          "percent": 0.012,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 3580,
+          "percent": 0.003,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 3878,
+          "percent": 0.003,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "R. De La Fuente",
+          "votes": 596,
+          "percent": 0.001,
+          "winner": false
+        },
+        {
+          "party": "Prohibition",
+          "name": "J. Hedges",
+          "votes": 686,
+          "percent": 0.001,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Missouri",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1585753,
+          "percent": 0.571,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 1054889,
+          "percent": 0.38,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 96404,
+          "percent": 0.035,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 25086,
+          "percent": 0.009,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 12966,
+          "percent": 0.005,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Montana",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 274120,
+          "percent": 0.565,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 174521,
+          "percent": 0.36,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 27264,
+          "percent": 0.056,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 7669,
+          "percent": 0.016,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "R. De La Fuente",
+          "votes": 1535,
+          "percent": 0.003,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Nebraska",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 485819,
+          "percent": 0.603,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 273858,
+          "percent": 0.34,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 37615,
+          "percent": 0.047,
+          "winner": false
+        },
+        {
+          "party": "Petitioning Candidate",
+          "name": "J. Stein",
+          "votes": 8346,
+          "percent": 0.01,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Nevada",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 537753,
+          "percent": 0.479,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 511319,
+          "percent": 0.455,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 37299,
+          "percent": 0.033,
+          "winner": false
+        },
+        {
+          "party": "No Party Designation",
+          "name": "None of these candidates",
+          "votes": 28824,
+          "percent": 0.026,
+          "winner": false
+        },
+        {
+          "party": "Independent American",
+          "name": "D. Castle",
+          "votes": 5254,
+          "percent": 0.005,
+          "winner": false
+        },
+        {
+          "party": "No Party Designation",
+          "name": "R. De La Fuente",
+          "votes": 2541,
+          "percent": 0.002,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "New Hampshire",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 348521,
+          "percent": 0.476,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 345789,
+          "percent": 0.472,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 30827,
+          "percent": 0.042,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 6416,
+          "percent": 0.009,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "R. De La Fuente",
+          "votes": 676,
+          "percent": 0.001,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "New Jersey",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 2021756,
+          "percent": 0.55,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1535513,
+          "percent": 0.418,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 68695,
+          "percent": 0.019,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 35949,
+          "percent": 0.01,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 5830,
+          "percent": 0.002,
+          "winner": false
+        },
+        {
+          "party": "Socialist Workers",
+          "name": "A. Kennedy",
+          "votes": 2090,
+          "percent": 0.001,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "R. De La Fuente",
+          "votes": 1765,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "G. La Riva",
+          "votes": 1613,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "M. Moorehead",
+          "votes": 1682,
+          "percent": 0.0,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "New Mexico",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 380724,
+          "percent": 0.483,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 315875,
+          "percent": 0.4,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 73669,
+          "percent": 0.093,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 9729,
+          "percent": 0.012,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "E. McMullin",
+          "votes": 5714,
+          "percent": 0.007,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 1490,
+          "percent": 0.002,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "G. La Riva",
+          "votes": 1174,
+          "percent": 0.001,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "R. De La Fuente",
+          "votes": 466,
+          "percent": 0.001,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "New York",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 4143874,
+          "percent": 0.588,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 2640570,
+          "percent": 0.375,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 161836,
+          "percent": 0.023,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 99895,
+          "percent": 0.014,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "North Carolina",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 2339603,
+          "percent": 0.505,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 2162074,
+          "percent": 0.467,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 127794,
+          "percent": 0.028,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "North Dakota",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 216133,
+          "percent": 0.641,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 93526,
+          "percent": 0.278,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 21351,
+          "percent": 0.063,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 3769,
+          "percent": 0.011,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 1825,
+          "percent": 0.005,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "R. De La Fuente",
+          "votes": 364,
+          "percent": 0.001,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Ohio",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 2771984,
+          "percent": 0.521,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 2317001,
+          "percent": 0.435,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "G. Johnson",
+          "votes": 168599,
+          "percent": 0.032,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 44310,
+          "percent": 0.008,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "R. Duncan",
+          "votes": 23501,
+          "percent": 0.004,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Oklahoma",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 947934,
+          "percent": 0.653,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 419788,
+          "percent": 0.289,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 83334,
+          "percent": 0.057,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Oregon",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 934631,
+          "percent": 0.517,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 742506,
+          "percent": 0.411,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 86306,
+          "percent": 0.048,
+          "winner": false
+        },
+        {
+          "party": "Pacific Green",
+          "name": "J. Stein",
+          "votes": 45132,
+          "percent": 0.025,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Pennsylvania",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 2912941,
+          "percent": 0.488,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 2844705,
+          "percent": 0.476,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 142653,
+          "percent": 0.024,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 48912,
+          "percent": 0.008,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 20896,
+          "percent": 0.004,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Rhode Island",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 249902,
+          "percent": 0.554,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 179421,
+          "percent": 0.398,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 14643,
+          "percent": 0.032,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 6155,
+          "percent": 0.014,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "R. De La Fuente",
+          "votes": 666,
+          "percent": 0.001,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "South Carolina",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1143611,
+          "percent": 0.549,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 849469,
+          "percent": 0.408,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 48715,
+          "percent": 0.023,
+          "winner": false
+        },
+        {
+          "party": "Independence",
+          "name": "E. McMullin",
+          "votes": 20795,
+          "percent": 0.01,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 12917,
+          "percent": 0.006,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 5716,
+          "percent": 0.003,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "P. Skewes",
+          "votes": 3221,
+          "percent": 0.002,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "South Dakota",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 227701,
+          "percent": 0.615,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 117442,
+          "percent": 0.317,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 20845,
+          "percent": 0.056,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 4059,
+          "percent": 0.011,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Tennessee",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1517402,
+          "percent": 0.611,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 867110,
+          "percent": 0.349,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "G. Johnson",
+          "votes": 70084,
+          "percent": 0.028,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "J. Stein",
+          "votes": 15919,
+          "percent": 0.006,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "M. Smith",
+          "votes": 7244,
+          "percent": 0.003,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "R. De La Fuente",
+          "votes": 4064,
+          "percent": 0.002,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "A. Kennedy",
+          "votes": 2868,
+          "percent": 0.001,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Texas",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 4681590,
+          "percent": 0.526,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 3867816,
+          "percent": 0.434,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 282524,
+          "percent": 0.032,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 71307,
+          "percent": 0.008,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Utah",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 452086,
+          "percent": 0.459,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 274188,
+          "percent": 0.278,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "E. McMullin",
+          "votes": 207288,
+          "percent": 0.21,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 33142,
+          "percent": 0.034,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "J. Stein",
+          "votes": 7695,
+          "percent": 0.008,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 6665,
+          "percent": 0.007,
+          "winner": false
+        },
+        {
+          "party": "Independent American",
+          "name": "R. Giordani",
+          "votes": 2304,
+          "percent": 0.002,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "R. De La Fuente",
+          "votes": 695,
+          "percent": 0.001,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "A. Kennedy",
+          "votes": 443,
+          "percent": 0.0,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "M. Moorehead",
+          "votes": 451,
+          "percent": 0.0,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Vermont",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 178179,
+          "percent": 0.611,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 95053,
+          "percent": 0.326,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 10047,
+          "percent": 0.034,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 6748,
+          "percent": 0.023,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "R. De La Fuente",
+          "votes": 1063,
+          "percent": 0.004,
+          "winner": false
+        },
+        {
+          "party": "Liberty Union",
+          "name": "G. La Riva",
+          "votes": 323,
+          "percent": 0.001,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Virginia",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 1916845,
+          "percent": 0.499,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1731156,
+          "percent": 0.45,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 116600,
+          "percent": 0.03,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "E. McMullin",
+          "votes": 52914,
+          "percent": 0.014,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 27272,
+          "percent": 0.007,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Washington",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 1610524,
+          "percent": 0.544,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1129120,
+          "percent": 0.382,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 144599,
+          "percent": 0.049,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 51066,
+          "percent": 0.017,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 15734,
+          "percent": 0.005,
+          "winner": false
+        },
+        {
+          "party": "Socialist Workers",
+          "name": "A. Kennedy",
+          "votes": 3860,
+          "percent": 0.001,
+          "winner": false
+        },
+        {
+          "party": "Socialism & Liberation",
+          "name": "G. La Riva",
+          "votes": 3039,
+          "percent": 0.001,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "West Virginia",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 486198,
+          "percent": 0.687,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 187457,
+          "percent": 0.265,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 22798,
+          "percent": 0.032,
+          "winner": false
+        },
+        {
+          "party": "Mountain Party",
+          "name": "J. Stein",
+          "votes": 8000,
+          "percent": 0.011,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 3773,
+          "percent": 0.005,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Wisconsin",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 1409467,
+          "percent": 0.479,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 1382210,
+          "percent": 0.469,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 106442,
+          "percent": 0.036,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "J. Stein",
+          "votes": 30980,
+          "percent": 0.011,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 12179,
+          "percent": 0.004,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "R. De La Fuente",
+          "votes": 1561,
+          "percent": 0.001,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "M. Moorehead",
+          "votes": 1781,
+          "percent": 0.001,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Wyoming",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Trump",
+          "votes": 174248,
+          "percent": 0.701,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "H. Clinton",
+          "votes": 55949,
+          "percent": 0.225,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "G. Johnson",
+          "votes": 13285,
+          "percent": 0.053,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "J. Stein",
+          "votes": 2512,
+          "percent": 0.01,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "D. Castle",
+          "votes": 2038,
+          "percent": 0.008,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "R. De La Fuente",
+          "votes": 710,
+          "percent": 0.003,
+          "winner": false
+        }
+      ]
+    }
+  }
+]

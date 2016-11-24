@@ -5,8 +5,8 @@ from functools import partial
 from .congress_spider import CongressSpider
 from tutorial.helpers import catch_errors, staticmethod_catch_errors
 
-class SenateSpider(CongressSpider):
-    chamber = 'senate'
+class PresidentSpider(CongressSpider):
+    chamber = 'president'
     cached  = True
 
     def parse(self, state_name, response):
@@ -17,25 +17,39 @@ class SenateSpider(CongressSpider):
         yield data
 
     @catch_errors
+    def _extractCandidates(self, overall_results):
+        candidates = overall_results.css('tr')
+        return [self._extractCandidate(c) for i,c in enumerate(candidates)]
+
+class PresidentSpider2016(PresidentSpider):
+    name   = 'president2016'
+    year   = '2016'
+    cached = True
+
+    @catch_errors
+    def _parseState(self, response):
+        overall_results = response.css('.overall .results-dataset')
+        return {'candidates': self._extractCandidates(overall_results)}
+
+    @staticmethod_catch_errors
+    def _extractName(party):
+        return party.css('span.name-combo::text').extract()[-1].strip()
+
+class PresidentSpider2012(PresidentSpider):
+    name   = 'president2012'
+    year   = '2012'
+    cached = True
+
+    @catch_errors
     def _parseState(self, response):
         overall_results = response.css('.state-results-table.state-results-macro > table > tbody')
         return {'candidates': self._extractCandidates(overall_results)}
 
+    @catch_errors
+    def _parseDistricts(self, response):
 
-class SenateSpider2016(SenateSpider):
-    name   = 'senate2016'
-    year   = '2016'
-    cached = True
-
-class SenateSpider2014(SenateSpider):
-    name   = 'senate2014'
-    year   = '2014'
-    cached = True
-
-class SenateSpider2012(SenateSpider):
-    name   = 'senate2012'
-    year   = '2012'
-    cached = True
+        candidates      = self._extractCandidates()
+        return [self._parseDistrict(d, i+1) for (i,d) in enumerate(districts)]
 
     @property
     def _baseUrl(self):
@@ -48,10 +62,7 @@ class SenateSpider2012(SenateSpider):
     #              PROTECTED PARSERS               #
     ################################################
 
-    @catch_errors
-    def _extractCandidates(self, overall_results):
-        candidates = overall_results.css('tr')
-        return [self._extractCandidate(c) for i,c in enumerate(candidates)]
+
 
     ################################################
     #            PROTECTED STATIC PARSERS          #
@@ -81,8 +92,3 @@ class SenateSpider2012(SenateSpider):
     @staticmethod_catch_errors
     def _extractWinner(candidate):
         return not not candidate.css('span.winner-check')
-
-class SenateSpider2010(SenateSpider2012):
-    name   = 'senate2010'
-    year   = '2010'
-    cached = False
