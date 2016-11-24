@@ -69,7 +69,7 @@ class HouseSpider(with_metaclass(ABCMeta)):
             return 'http://www.politico.com/%s-election/results/map/house' % (self.year,)
 
     def _statesWithUrls(self):
-        htm = 'htm' if self.cached else ''  
+        htm = '.htm' if self.cached else ''  
         for state in self._states:
             url = '%s/%s%s' % (self._baseUrl, state, htm)
             yield (state, url)
