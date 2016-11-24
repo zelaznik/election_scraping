@@ -1,0 +1,19 @@
+
+var ftGUID_2234013="3250EB8335C990";
+var ftConfID_2234013="0";
+var ftParams_2234013="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_agentEnv=0&ft_referrer=http%3A%2F%2Fwww.politico.com%2F2014-election%2Fresults%2Fmap%2Fhouse%2Fnew-jersey%23.WDY-q6IrI2L&cachebuster=932628.9368760743";
+var ftKeyword_2234013="";
+var ftCustom_2234013="";
+var ftSection_2234013="";
+var ftSegment_2234013="";
+var ftSegmentList_2234013=[];
+var ftRuleMatch_2234013="0";
+var ftTimestamp_2234013="1479950023";
+var ftImp2234013 = {};
+ftImp2234013.privacy = "x";
+ftImp2234013.guidAge = "0";
+ftImp2234013.impID = "325017772B5DFB";
+
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/223/2234013/1631927/js/j-2234013-1631927.js" id="ftscript_m2234013" name="ftscript_m2234013"></scr'+'ipt>');
+                    

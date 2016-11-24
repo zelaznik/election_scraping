@@ -1,0 +1,436 @@
+
+<!-- saved from url=(0056)https://secure.flashtalking.com/68258/1631927/index.html -->
+<html data-ember-extension="1"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style></style>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="ad.size" content="width=300,height=250">
+    <title>D29A_300x250_FW40_BlackFriday_Incremental_LG_ShopNow</title>
+    <!--				Comment in the stuff needed-->
+    <!--TweenLite- low file size-->
+    <script src="./CSSPlugin.min.js"></script>
+    <script src="./EasePack.min.js"></script>
+    <script src="./TweenLite.min.js"></script>
+    <script src="./TimelineLite.min.js"></script>
+
+    <script src="./hammer.js"></script>
+    <!--TweenMax-high file size but more robust-->
+    <!--  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>-->
+
+    <!--				Ad server calls- comment in what you need or leave both commented out for generic/DCM html5-->
+
+    <!--	Sizmek-->
+    <!--     <script src="https://secure-ds.serving-sys.com/BurstingScript/EBLoader.js"></script>-->
+    <!--	DCS-->
+<!--    <script src="https://s0.2mdn.net/ads/studio/Enabler.js"></script>-->
+
+    <style>
+        #container {
+            width: 300px;
+            height: 250px;
+            position: absolute;
+            overflow: hidden;
+            cursor: pointer;
+        }
+        .banner {
+            width: 300px;
+            height: 250px;
+            position: absolute;
+        }
+        #arrows {
+            background-image: url('arrows.png');
+            opacity: 0;
+        }
+        #bg {
+            background-image: url('bg.jpg');
+        }
+        #bg2 {
+            background-image: url('bg2.jpg');
+            opacity: 0;
+        }
+        #border {
+            background-image: url('border.png');
+            z-index:20;
+        }
+        #ctaBtn1 {
+            background-image: url('ctaBtn1.png');
+            opacity: 0;
+        }
+        #ctaBtn2 {
+            background-image: url('ctaBtn2.png');
+            opacity: 0;
+        }
+        #logo {
+            background-image: url('logo.png');
+            opacity: 0;
+        }
+        #lastframe {
+            background-image: url('lastframe.png');
+            opacity: 0;
+        }
+        #product1 {
+            background-image: url('product1.png');
+            opacity: 0;
+        }
+        #product2 {
+            background-image: url('product2.png');
+            opacity: 0;
+        }
+        #productText1 {
+            background-image: url('productText1.png');
+            opacity: 0;
+        }
+        #productText2 {
+            background-image: url('productText2.png');
+            opacity: 0;
+        }
+        #hills_back img {
+            position:absolute;
+            bottom:-160px;
+            left:-79px;
+            width:550px;
+            height:auto;
+            z-index:7;
+        }
+        #hills_middle img {
+            position:absolute;
+            bottom:-230px;
+            left:-79px;
+            width:600px;
+            height:auto;
+            z-index:8;
+        }
+        #hills_front img {
+            position:absolute;
+            bottom:-280px;
+            left:-79px;
+            width:600px;
+            height:auto;
+            z-index:9;
+        }
+        /*** SNOW  ***/
+        #snow {
+            background: none;
+            background-image: url('s1.png'), url('s2.png'), url('s3.png');
+            height: 100%;
+            left: 0;
+            position: absolute;
+            top: 0;
+            width: 100%;
+            z-index:4;
+            animation: snowing 20s linear;
+        }
+        @keyframes snowing {
+          0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+          50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+          100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+        }
+        #bf_logo img {
+            position:absolute;
+            top:-325px;
+            left:-51px;
+            width:400px;
+            height:auto;
+            z-index:20;
+        }
+        #text2 {
+            background-image: url('text2.png');
+            opacity: 0;
+            z-index:20;
+        }
+        #leftArrow{
+           width: 40px;
+           height: 40px; 
+           left: 0px;
+           top: 117px;
+           border: none;
+           z-index: 1000;
+           background: rgba(255, 0, 0, 0); 
+           position: absolute;
+           display: block;
+           cursor: pointer;
+        }
+        #rightArrow{
+           width: 40px;
+           height: 40px; 
+           left: 260px;
+           top: 117px;
+           border: none;
+           z-index: 1000;
+           background: rgba(255, 0, 0, 0);
+           position: absolute;
+           display: block;
+           cursor: pointer;
+        }
+        #TNC {
+            position: absolute;
+            text-decoration:underline;
+            font-family: Helvetica, Arial, sans-serif;
+            color:#333333;
+            font-size: x-small;
+            cursor: pointer;
+            opacity:0;
+            -webkit-transform: translateZ(0px);
+        }
+        #legalPopUp {
+            position: absolute; 
+            font-family: Helvetica, Arial, sans-serif;
+            color:#333333;
+            font-size: x-small;
+            line-height:12px;
+            background-color: #fff;
+            border-style:solid;
+            border-color:#000;
+            border-width:1px;
+            padding: 3px;
+            margin: 0px;
+            cursor: pointer;
+            display: none;
+            text-align: left;
+            -webkit-transform: translateZ(0px);
+        }
+        #playvideo {
+            position: absolute;
+            top: 40px;
+            left: 200px;
+            width: 100px;
+            height: 30px;
+            z-index: 99;
+        }
+        #thevideo {
+            display: none;
+            position: absolute;
+            top: 22px;
+            left: 0px;
+            width: 300px;
+            height: 168px;
+            z-index: 100;
+        }
+        #videobg {
+            display: none;
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 300px;
+            height: 250px;
+            z-index: 99;
+            background-color: #000;
+            background-image: url("logo.png");
+            background-position: bottom;
+            background-size: contain;
+        }
+        #videoclose {
+            display: none;
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 280px;
+            height: 22px;
+            padding-right: 20px;
+            z-index: 101;
+            font-size: 12px;
+            color: #fff;
+            text-align: right;
+            line-height: 22px;
+            font-family: arial;
+        }
+        #playvideo:hover, #thevideo:hover, #videoclose:hover {
+            cursor: pointer;
+        }
+        
+    </style>
+
+
+<script async="" src="./manifest.js" data-module="manifest.js"></script></head>
+
+<body style="padding:0px;margin:0px;">
+    <div onclick="ftWoo()">
+    <div id="container" style="perspective: 1000px;">
+        <div class="banner" id="bg"></div>
+        <div class="banner" id="bg2"></div>
+        
+        <div id="snow"></div>
+
+        <div id="bf_logo"><img src="./bf_logo.png" style="height: auto; width: 122px; transform: matrix3d(1, 0.000174533, 0, 0, -0.000174533, 1, 0, 0, 0, 0, 1, 0, 130, 355, 0, 1); opacity: 0;"></div>
+
+        <div id="hills_back"><img src="./hills_back.png" style="height: auto; width: 300px; transform: matrix3d(1, 0.000174533, 0, 0, -0.000174533, 1, 0, 0, 0, 0, 1, 0, 79, -100, 0, 1);"></div>
+        <div id="hills_middle"><img src="./hills_middle.png" style="height: auto; width: 300px; transform: matrix3d(1, 0.000174533, 0, 0, -0.000174533, 1, 0, 0, 0, 0, 1, 0, 79, -170, 0, 1);"></div>
+        <div id="hills_front"><img src="./hills_front.png" style="height: auto; width: 300px; transform: matrix3d(1, 0.000174533, 0, 0, -0.000174533, 1, 0, 0, 0, 0, 1, 0, 79, -220, 0, 1);"></div>
+        
+        <div class="banner" id="text2" style="opacity: 0.980119;"></div>
+
+        <div class="banner" id="lastframe"></div>
+
+        <div class="banner" id="logo"></div>
+        <div class="banner" id="border"></div>
+
+    </div>
+    </div>
+
+    <div id="videobg"></div>
+    <div id="playvideo"></div>
+    <div id="thevideo"><ft-video class="ft-video" data-ft-video="video-300x168" poster="poster.jpg" style="width: 300px; height: 168px;" controls="" name="video-300x168"></ft-video></div>
+    <!--<video poster="poster.jpg" id="thevideo" src="video.mp4" width="300" height="168" controls="true"></video>-->
+    <div id="videoclose">Close</div>
+
+    <div id="TNC"></div>
+    <div id="legalPopUp"></div>
+
+    <script type="text/javascript">
+        // VARS
+        var adWidth, adHeight, toggleInMotion, togglesActivated;
+        
+        function onInit() {
+
+            var playvideo = document.getElementById("playvideo");
+            var thevideoContainer = document.getElementById("thevideo");
+            var thevideo = thevideoContainer.getElementsByTagName("video");
+            var videobg = document.getElementById("videobg");
+            var videoclose = document.getElementById("videoclose");
+            playvideo.addEventListener("click", function(){
+                thevideoContainer.style.display = "block";
+                thevideo[0].play();
+                videobg.style.display = "block";
+                videoclose.style.display = "block";
+            });
+            /*thevideo.addEventListener("click", function(){
+                if(thevideo.playing){
+                    thevideo.pause();
+                    console.log("paused");
+                    return
+                }
+                thevideo.play();
+                console.log("played");
+            });*/
+            videoclose.addEventListener("click", function(){
+                thevideoContainer.style.display = "none";
+                thevideo[0].load();
+                videobg.style.display = "none";
+                videoclose.style.display = "none";
+            });
+            
+            toggleInMotion = false;
+            togglesActivated = false;
+            
+            //var border = document.getElementById("border");
+            //var mc = new Hammer(border);
+            
+            //mc.on("tap", clickThrough); 
+            
+            adWidth = 300;
+            adHeight = 250;
+            
+            TweenLite.set("#product2", {alpha:1, x:adWidth});
+            TweenLite.set("#productText2", {alpha:1, x:adWidth}); 
+            TweenLite.set("#text1", {alpha:1, y:-adHeight}); 
+//            TweenLite.set(scene1, { x:-104, y:138});
+            TweenLite.set(container,{perspective:1000});
+            
+            var tl = new TimelineLite();
+            var timing = 2;
+
+            tl.to('#bf_logo img', 2, { y:'355px', x:'130px', width:'122px', height:'auto', rotation:0.01, force3D:true, ease:Power1.easeInOut });
+
+            tl.to('#hills_back img', 3, { y:'-100px', x:'79px', width:'300px', height:'auto', rotation:0.01, force3D:true, ease:Linear.easeNone }, '+=timing');
+            tl.to('#hills_middle img', 3, { y:'-170px', x:'79px', width:'300px', height:'auto', rotation:0.01, force3D:true, ease:Linear.easeNone}, '-=timing');
+            tl.to('#hills_front img', 3, { y:'-220px', x:'79px', width:'300px', height:'auto', rotation:0.01, force3D:true, ease:Linear.easeNone }, '-=timing');
+            
+            tl.to('#bf_logo img', 1, {  opacity:0 }, '+=1.5' );
+            tl.to('#text2', 1, {  opacity:1 } );
+
+            tl.to('#text2, #hills_back img, #hills_middle img, #hills_front img, #snow', 1, {  opacity:0}, '+=1.5' );
+            
+            tl.to('#logo, #bg2, #lastframe, #playvideo', 1, { opacity:1 }, '-=1' );
+            
+//            TweenLite.to("#text1", 3, {x:0, y:-45, scaleX:.5, scaleY:.5, transformOrigin:"148.5px 120px", ease: Power2.easeOut});
+//            TweenLite.to(scene1, 3, {x:-104, y:158, scaleX:.70, scaleY:.70, transformOrigin:"240px 56px", ease: Power2.easeOut});
+//            
+//            TweenLite.to(text1, 1, { delay:4, alpha:0});
+//            
+//            TweenLite.to(text2, 1, { delay:5, alpha:1});
+//            
+//            TweenLite.to(text2, 1, { delay:9, alpha:0, onComplete:startToggleAnimations});
+            
+        }
+        
+        
+
+        //update url for generic clickthrough
+        // CLICKTAGS
+        var clickTag1 = "http://www.homedepot.com/b/Featured-Products-Appliances-LG-Electronics/N-5yc1vZcey4"; 
+        var clickTag2 = "http://www.homedepot.com/b/Featured-Products-Appliances-LG-Electronics/N-5yc1vZcey4"; 
+        var clickTag3 = "http://www.homedepot.com/b/Featured-Products-Appliances-LG-Electronics/N-5yc1vZcey4";
+
+        // Don't change anything below here
+
+        function loadBanner() {
+            //document.getElementById('container').addEventListener('click', clickThrough);
+            onInit();
+        }
+
+        function clickThrough() {
+            if (typeof EB != 'undefined') {
+
+                EB.clickthrough();
+            } else if (typeof Enabler != 'undefined') {
+                Enabler.exit("bg exit");
+
+            } else {
+                if(togglesActivated == false){
+                    window.open(clickTag1, "_blank");
+                }else{
+                    if(currentProductNum == 0){
+                        window.open(clickTag2, "_blank");
+                    }
+                    if(currentProductNum == 1){
+                        window.open(clickTag3, "_blank");
+                    }
+                }
+            }
+        }
+
+
+        if (typeof EB != 'undefined' && !EB.isInitialized()) {
+            EB.addEventListener(EBG.EventName.EB_INITIALIZED, loadBanner);
+        } else if (typeof EB != 'undefined') {
+            //Changing to an 'else if' to prevent firing on 'Vanilla' banners
+            loadBanner();
+        } else if (typeof Enabler != 'undefined' && !Enabler.isInitialized()) {
+            Enabler.addEventListener(studio.events.StudioEvent.INIT, enablerInitialized);
+        } else {
+            enablerInitialized();
+        }
+
+        function enablerInitialized(e) {
+            //Removed 'loadBanner' call as the event listeners below have that covered
+            if (typeof Enabler != 'undefined' && !Enabler.isVisible()) {
+                Enabler.addEventListener(studio.events.StudioEvent.VISIBLE, adVisible);
+            } else {
+                adVisible();
+            }
+        }
+
+        function adVisible() {
+            loadBanner();
+        }
+    </script>
+
+<script src="./html5API.js"></script>
+<script>
+    vidHolder = myFT.$("#thevideo"); 
+
+    // insert video
+    vid = myFT.insertVideo({
+        parent: vidHolder,
+        video: "video-300x168",
+        poster: "poster.jpg",
+        height: 168,
+        width: 300,
+        controls:true
+    });
+    
+    function ftWoo(){
+        myFT.clickTag(1);
+    };
+</script>
+
+</body></html>

@@ -1,0 +1,6 @@
+document.write("<scr"+"ipt type='text/javascript' src='http://ads.pubmatic.com/AdServer/js/defaultAdTag.js'>\n");
+document.write("</scr"+"ipt>\n");
+
+var adcount_3149926_1_=new Image();
+adcount_3149926_1_.src="http://adserver.adtechus.com/adcount/3.0/6479/3149926/0/225/AdId=5457733;BnId=4;ct=2732802673;st=86414;adcid=1;itime=949678771;reqtype=5;;key=key1%2Bkey2%2Bkey3%2Bkey4;";
+document.write('<img src="http://atpixelus.alephd.com/post_adtech?ORpSWof1Qb.qdaPaJIhOOjITseHZ0BmFy1CVLOn22t4iMpdWpwAZ80yVsi6cK-W1D.dWwyVgnDfWIKaquXWJLWHB37iIZVu2oaQYa9IaxTExq2P.N7IPq4upCX4Jid3NUK.9yXSnjvWXew2GKlgOSkEquJcAz314fcxoiljkJhZoNz4l3TaUM40Hf2vrgIgorZTyhtmhZZY8ruy1QxPLKqwI6H6iyIlvNvVk3Tu-C0yqSOjpPho3KnJEIx3j3SZ." width="1" height="1"  style="display:none;">');
