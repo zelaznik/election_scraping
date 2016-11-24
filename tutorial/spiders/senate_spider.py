@@ -3,6 +3,8 @@ from collections import OrderedDict
 from contextlib import suppress
 from operator import itemgetter
 from functools import wraps, partial
+from six import with_metaclass
+from abc import ABCMeta, abstractproperty
 
 def catch_errors(func):
     @wraps(func)
@@ -17,9 +19,9 @@ def catch_errors(func):
 def staticmethod_catch_errors(func):
     return staticmethod(catch_errors(func))
 
-class SenateSpider2016(scrapy.Spider):
-    year       = '2016'
-    name       = 'senate2016'
+class SenateSpider(with_metaclass(ABCMeta)):
+    name = abstractproperty(lambda self: None)
+    year = abstractproperty(lambda self: None)
 
     def start_requests(self):
         self.__clearPickledFile()
@@ -48,7 +50,9 @@ class SenateSpider2016(scrapy.Spider):
                 'tennessee', 'texas', 'utah', 'vermont', 'virginia', 'washington', 'west-virginia',
                 'wisconsin', 'wyoming')
 
-    __websiteCacheFolder = 'cached_websites/senate/2016'
+    @property
+    def __websiteCacheFolder(self):
+        return 'cached_websites/senate/%s' % (self.year,)
 
     @property
     def __outputPath(self):
@@ -168,3 +172,12 @@ class SenateSpider2016(scrapy.Spider):
         unwrapped_data = self.__readPickledFile()
         data = {'states': unwrapped_data}
         self.__overwritePickledFile(data)
+
+
+class SenateSpider2016(SenateSpider, scrapy.Spider):
+    name = 'senate2016'
+    year = '2016'
+
+class SenateSpider2014(SenateSpider, scrapy.Spider):
+    name = 'senate2014'
+    year = '2014'
