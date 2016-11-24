@@ -52,12 +52,12 @@ class HouseSpider2014(scrapy.Spider):
 
     @property
     def __baseUrl(self):
-        return 'http://www.politico.com/%s-election/results/map/house' % (self.year,)
+        return 'http://localhost:8000/cache/house/%s' % (self.year,)
 
     @property
     def __urls(self):
         for s in self.__states:
-            yield '%s/%s/' % (self.__baseUrl, s)
+            yield '%s/%s.htm' % (self.__baseUrl, s)
 
     ################################################
     #              PRIVATE PARSERS                 #
