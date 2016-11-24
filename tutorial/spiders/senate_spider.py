@@ -31,3 +31,8 @@ class SenateSpider2014(SenateSpider):
     name   = 'senate2014'
     year   = '2014'
     cached = True
+
+class SenateSpider2012(SenateSpider):
+    name   = 'senate2014'
+    year   = '2014'
+    cached = True

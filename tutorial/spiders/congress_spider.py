@@ -6,8 +6,8 @@ from abc import ABCMeta, abstractproperty, abstractmethod
 
 from tutorial.helpers import catch_errors, staticmethod_catch_errors
 
-class CongressSpider(scrapy.Spider, metaclass=ABCMeta):
-    name   = abstractproperty(lambda self: None)
+class CongressSpider(scrapy.Spider):
+    name   = 'congress'
     year   = abstractproperty(lambda self: None)
     cached = abstractproperty(lambda self: None)
 
@@ -49,7 +49,6 @@ class CongressSpider(scrapy.Spider, metaclass=ABCMeta):
         base_name = '%s_%s_results_politico.json' % (self.year, self.chamber)
         return 'output/%s/%s/%s' % (self.chamber, self.year, base_name)
 
-
     @property
     def _baseUrl(self):
         if self.cached:
@@ -64,7 +63,7 @@ class CongressSpider(scrapy.Spider, metaclass=ABCMeta):
             yield (state, url)
 
     ################################################
-    #            PROTECTED STATIC PARSERS          #
+    #              PROTECTED HELPERS               #
     ################################################
 
     @staticmethod_catch_errors
@@ -72,6 +71,10 @@ class CongressSpider(scrapy.Spider, metaclass=ABCMeta):
         words       = state_name.split('-')
         capitalized = ['%s%s' % (w[0].upper(), w[1:].lower()) for w in words]
         return ' '.join(capitalized)
+
+    ################################################
+    #              PROTECTED PARSERS               #
+    ################################################
 
     @catch_errors
     def _extractCandidates(self, state):
@@ -89,6 +92,10 @@ class CongressSpider(scrapy.Spider, metaclass=ABCMeta):
         data['winner']  = self._extractWinner(candidate)
 
         return data
+
+    ################################################
+    #            PROTECTED STATIC PARSERS          #
+    ################################################
 
     @staticmethod_catch_errors
     def _extractParty(candidate):
