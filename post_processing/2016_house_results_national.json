@@ -1,0 +1,2814 @@
+[
+  {
+    "state_name": "Alabama",
+    "district_id": 1,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Alabama",
+    "district_id": 2,
+    "republican_votes": 134450,
+    "democratic_votes": 111640
+  },
+  {
+    "state_name": "Alabama",
+    "district_id": 3,
+    "republican_votes": 190724,
+    "democratic_votes": 93567
+  },
+  {
+    "state_name": "Alabama",
+    "district_id": 4,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Alabama",
+    "district_id": 5,
+    "republican_votes": 204791,
+    "democratic_votes": 101577
+  },
+  {
+    "state_name": "Alabama",
+    "district_id": 6,
+    "republican_votes": 240897,
+    "democratic_votes": 81296
+  },
+  {
+    "state_name": "Alabama",
+    "district_id": 7,
+    "democratic_votes": 0
+  },
+  {
+    "state_name": "Alaska",
+    "district_id": 1,
+    "republican_votes": 125729,
+    "democratic_votes": 90784,
+    "libertarian_votes": 25104,
+    "no party affiliation_votes": 7158
+  },
+  {
+    "state_name": "Arizona",
+    "district_id": 1,
+    "democratic_votes": 117048,
+    "republican_votes": 100236,
+    "green_votes": 13122
+  },
+  {
+    "state_name": "Arizona",
+    "district_id": 2,
+    "republican_votes": 157677,
+    "democratic_votes": 120572
+  },
+  {
+    "state_name": "Arizona",
+    "district_id": 3,
+    "democratic_votes": 0
+  },
+  {
+    "state_name": "Arizona",
+    "district_id": 4,
+    "republican_votes": 171901,
+    "democratic_votes": 68460
+  },
+  {
+    "state_name": "Arizona",
+    "district_id": 5,
+    "republican_votes": 157980,
+    "democratic_votes": 92225
+  },
+  {
+    "state_name": "Arizona",
+    "district_id": 6,
+    "republican_votes": 158978,
+    "democratic_votes": 99008
+  },
+  {
+    "state_name": "Arizona",
+    "district_id": 7,
+    "democratic_votes": 88219,
+    "republican_votes": 30040
+  },
+  {
+    "state_name": "Arizona",
+    "district_id": 8,
+    "republican_votes": 165593,
+    "green_votes": 75963
+  },
+  {
+    "state_name": "Arizona",
+    "district_id": 9,
+    "democratic_votes": 132281,
+    "republican_votes": 84137
+  },
+  {
+    "state_name": "Arkansas",
+    "district_id": 1,
+    "republican_votes": 183068,
+    "libertarian_votes": 56200
+  },
+  {
+    "state_name": "Arkansas",
+    "district_id": 2,
+    "republican_votes": 176100,
+    "democratic_votes": 111049,
+    "libertarian_votes": 14287
+  },
+  {
+    "state_name": "Arkansas",
+    "district_id": 3,
+    "republican_votes": 214268,
+    "libertarian_votes": 62793
+  },
+  {
+    "state_name": "Arkansas",
+    "district_id": 4,
+    "republican_votes": 181921,
+    "libertarian_votes": 60969
+  },
+  {
+    "state_name": "California",
+    "district_id": 1,
+    "republican_votes": 164907,
+    "democratic_votes": 112183
+  },
+  {
+    "state_name": "California",
+    "district_id": 2,
+    "democratic_votes": 177724,
+    "republican_votes": 52818
+  },
+  {
+    "state_name": "California",
+    "district_id": 3,
+    "democratic_votes": 127623,
+    "republican_votes": 91544
+  },
+  {
+    "state_name": "California",
+    "district_id": 4,
+    "republican_votes": 196613,
+    "democratic_votes": 116541
+  },
+  {
+    "state_name": "California",
+    "district_id": 5,
+    "democratic_votes": 172810,
+    "republican_votes": 51098
+  },
+  {
+    "state_name": "California",
+    "district_id": 6,
+    "democratic_votes": 145704,
+    "republican_votes": 47926
+  },
+  {
+    "state_name": "California",
+    "district_id": 7,
+    "democratic_votes": 129064,
+    "republican_votes": 123056
+  },
+  {
+    "state_name": "California",
+    "district_id": 8,
+    "republican_votes": 129690,
+    "democratic_votes": 76999
+  },
+  {
+    "state_name": "California",
+    "district_id": 9,
+    "democratic_votes": 106256,
+    "republican_votes": 78121
+  },
+  {
+    "state_name": "California",
+    "district_id": 10,
+    "republican_votes": 110659,
+    "democratic_votes": 100646
+  },
+  {
+    "state_name": "California",
+    "district_id": 11,
+    "democratic_votes": 194345,
+    "republican_votes": 76473
+  },
+  {
+    "state_name": "California",
+    "district_id": 12,
+    "democratic_votes": 250378,
+    "other_votes": 58577
+  },
+  {
+    "state_name": "California",
+    "district_id": 13,
+    "democratic_votes": 277390,
+    "republican_votes": 28413
+  },
+  {
+    "state_name": "California",
+    "district_id": 14,
+    "democratic_votes": 213612,
+    "republican_votes": 50485
+  },
+  {
+    "state_name": "California",
+    "district_id": 15,
+    "democratic_votes": 188179,
+    "republican_votes": 66959
+  },
+  {
+    "state_name": "California",
+    "district_id": 16,
+    "democratic_votes": 72111,
+    "republican_votes": 52570
+  },
+  {
+    "state_name": "California",
+    "district_id": 17,
+    "democratic_votes": 222112
+  },
+  {
+    "state_name": "California",
+    "district_id": 18,
+    "democratic_votes": 220139,
+    "republican_votes": 88907
+  },
+  {
+    "state_name": "California",
+    "district_id": 19,
+    "democratic_votes": 171688,
+    "republican_votes": 60420
+  },
+  {
+    "state_name": "California",
+    "district_id": 20,
+    "democratic_votes": 144870,
+    "republican_votes": 60324
+  },
+  {
+    "state_name": "California",
+    "district_id": 21,
+    "republican_votes": 68481,
+    "democratic_votes": 49643
+  },
+  {
+    "state_name": "California",
+    "district_id": 22,
+    "republican_votes": 143333,
+    "democratic_votes": 66802
+  },
+  {
+    "state_name": "California",
+    "district_id": 23,
+    "republican_votes": 151346,
+    "democratic_votes": 64842
+  },
+  {
+    "state_name": "California",
+    "district_id": 24,
+    "democratic_votes": 155492,
+    "republican_votes": 136532
+  },
+  {
+    "state_name": "California",
+    "district_id": 25,
+    "republican_votes": 112768,
+    "democratic_votes": 95296
+  },
+  {
+    "state_name": "California",
+    "district_id": 26,
+    "democratic_votes": 148550,
+    "republican_votes": 99597
+  },
+  {
+    "state_name": "California",
+    "district_id": 27,
+    "democratic_votes": 133766,
+    "republican_votes": 67421
+  },
+  {
+    "state_name": "California",
+    "district_id": 28,
+    "democratic_votes": 168082,
+    "republican_votes": 47619
+  },
+  {
+    "state_name": "California",
+    "district_id": 29,
+    "democratic_votes": 131535
+  },
+  {
+    "state_name": "California",
+    "district_id": 30,
+    "democratic_votes": 159974,
+    "republican_votes": 60865
+  },
+  {
+    "state_name": "California",
+    "district_id": 31,
+    "democratic_votes": 111870,
+    "republican_votes": 89070
+  },
+  {
+    "state_name": "California",
+    "district_id": 32,
+    "democratic_votes": 149109
+  },
+  {
+    "state_name": "California",
+    "district_id": 33,
+    "democratic_votes": 173778,
+    "republican_votes": 88507
+  },
+  {
+    "state_name": "California",
+    "district_id": 34,
+    "democratic_votes": 124396
+  },
+  {
+    "state_name": "California",
+    "district_id": 35,
+    "democratic_votes": 109767,
+    "republican_votes": 43189
+  },
+  {
+    "state_name": "California",
+    "district_id": 36,
+    "democratic_votes": 132252,
+    "republican_votes": 83049
+  },
+  {
+    "state_name": "California",
+    "district_id": 37,
+    "democratic_votes": 183617
+  },
+  {
+    "state_name": "California",
+    "district_id": 38,
+    "democratic_votes": 131099,
+    "republican_votes": 56883
+  },
+  {
+    "state_name": "California",
+    "district_id": 39,
+    "republican_votes": 138907,
+    "democratic_votes": 101651
+  },
+  {
+    "state_name": "California",
+    "district_id": 40,
+    "democratic_votes": 82789,
+    "other_votes": 32404
+  },
+  {
+    "state_name": "California",
+    "district_id": 41,
+    "democratic_votes": 115859,
+    "republican_votes": 64153
+  },
+  {
+    "state_name": "California",
+    "district_id": 42,
+    "republican_votes": 139915,
+    "democratic_votes": 97123
+  },
+  {
+    "state_name": "California",
+    "district_id": 43,
+    "democratic_votes": 128551,
+    "republican_votes": 41507
+  },
+  {
+    "state_name": "California",
+    "district_id": 44,
+    "democratic_votes": 137480
+  },
+  {
+    "state_name": "California",
+    "district_id": 45,
+    "republican_votes": 171736,
+    "democratic_votes": 119521
+  },
+  {
+    "state_name": "California",
+    "district_id": 46,
+    "democratic_votes": 148127
+  },
+  {
+    "state_name": "California",
+    "district_id": 47,
+    "democratic_votes": 127832,
+    "republican_votes": 76670
+  },
+  {
+    "state_name": "California",
+    "district_id": 48,
+    "republican_votes": 165987,
+    "democratic_votes": 117716
+  },
+  {
+    "state_name": "California",
+    "district_id": 49,
+    "republican_votes": 134428,
+    "democratic_votes": 129100
+  },
+  {
+    "state_name": "California",
+    "district_id": 50,
+    "republican_votes": 148880,
+    "democratic_votes": 84142
+  },
+  {
+    "state_name": "California",
+    "district_id": 51,
+    "democratic_votes": 108932,
+    "republican_votes": 42676
+  },
+  {
+    "state_name": "California",
+    "district_id": 52,
+    "democratic_votes": 148651,
+    "republican_votes": 115013
+  },
+  {
+    "state_name": "California",
+    "district_id": 53,
+    "democratic_votes": 151269,
+    "republican_votes": 77436
+  },
+  {
+    "state_name": "Colorado",
+    "district_id": 1,
+    "democratic_votes": 189837,
+    "republican_votes": 79561,
+    "libertarian_votes": 10549
+  },
+  {
+    "state_name": "Colorado",
+    "district_id": 2,
+    "democratic_votes": 251988,
+    "republican_votes": 166020,
+    "libertarian_votes": 25858
+  },
+  {
+    "state_name": "Colorado",
+    "district_id": 3,
+    "republican_votes": 191917,
+    "democratic_votes": 142794,
+    "libertarian_votes": 16996
+  },
+  {
+    "state_name": "Colorado",
+    "district_id": 4,
+    "republican_votes": 241424,
+    "democratic_votes": 119249,
+    "libertarian_votes": 17925
+  },
+  {
+    "state_name": "Colorado",
+    "district_id": 5,
+    "republican_votes": 222169,
+    "democratic_votes": 109573,
+    "libertarian_votes": 24320
+  },
+  {
+    "state_name": "Colorado",
+    "district_id": 6,
+    "republican_votes": 180727,
+    "democratic_votes": 149417,
+    "libertarian_votes": 17102,
+    "green_votes": 5038
+  },
+  {
+    "state_name": "Colorado",
+    "district_id": 7,
+    "democratic_votes": 185208,
+    "republican_votes": 134244,
+    "libertarian_votes": 15831
+  },
+  {
+    "state_name": "Connecticut",
+    "district_id": 1,
+    "democratic_votes": 193040,
+    "republican_votes": 104214,
+    "green_votes": 6283
+  },
+  {
+    "state_name": "Connecticut",
+    "district_id": 2,
+    "democratic_votes": 207584,
+    "republican_votes": 111587,
+    "green_votes": 5332,
+    "libertarian_votes": 5016
+  },
+  {
+    "state_name": "Connecticut",
+    "district_id": 3,
+    "democratic_votes": 208900,
+    "republican_votes": 95370
+  },
+  {
+    "state_name": "Connecticut",
+    "district_id": 4,
+    "democratic_votes": 185928,
+    "republican_votes": 123630
+  },
+  {
+    "state_name": "Connecticut",
+    "district_id": 5,
+    "democratic_votes": 174788,
+    "republican_votes": 126842
+  },
+  {
+    "state_name": "Delaware",
+    "district_id": 1,
+    "democratic_votes": 233542,
+    "republican_votes": 172290,
+    "green_votes": 8325,
+    "libertarian_votes": 6436
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 1,
+    "republican_votes": 254280,
+    "democratic_votes": 113586
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 2,
+    "republican_votes": 230838,
+    "democratic_votes": 102596,
+    "libertarian_votes": 9384
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 3,
+    "republican_votes": 193261,
+    "democratic_votes": 135688,
+    "no party affiliation_votes": 12438
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 4,
+    "republican_votes": 286018,
+    "democratic_votes": 112253,
+    "no party affiliation_votes": 8990
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 5,
+    "democratic_votes": 193430,
+    "republican_votes": 107784
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 6,
+    "republican_votes": 213180,
+    "democratic_votes": 150677
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 7,
+    "democratic_votes": 181758,
+    "republican_votes": 171412
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 8,
+    "republican_votes": 246257,
+    "democratic_votes": 126962,
+    "no party affiliation_votes": 16924
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 9,
+    "democratic_votes": 194963,
+    "republican_votes": 144281
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 10,
+    "democratic_votes": 198309,
+    "republican_votes": 107423
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 11,
+    "republican_votes": 257881,
+    "democratic_votes": 124599,
+    "no party affiliation_votes": 11961
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 12,
+    "republican_votes": 253347,
+    "democratic_votes": 115909
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 13,
+    "democratic_votes": 184371,
+    "republican_votes": 170964
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 14,
+    "democratic_votes": 194851,
+    "republican_votes": 120584
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 15,
+    "republican_votes": 182498,
+    "democratic_votes": 134945
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 16,
+    "republican_votes": 230187,
+    "democratic_votes": 154854
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 17,
+    "republican_votes": 209135,
+    "democratic_votes": 115801,
+    "no party affiliation_votes": 13336
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 18,
+    "republican_votes": 201011,
+    "democratic_votes": 161328,
+    "no party affiliation_votes": 12451
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 19,
+    "republican_votes": 238975,
+    "democratic_votes": 123625
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 20,
+    "democratic_votes": 220452,
+    "republican_votes": 54079
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 21,
+    "democratic_votes": 208999,
+    "republican_votes": 117273,
+    "no party affiliation_votes": 7148
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 22,
+    "democratic_votes": 197396,
+    "republican_votes": 137691
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 23,
+    "democratic_votes": 180979,
+    "republican_votes": 129400,
+    "no party affiliation_votes": 8935
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 24,
+    "democratic_votes": 0
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 25,
+    "republican_votes": 157748,
+    "democratic_votes": 95008
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 26,
+    "republican_votes": 148445,
+    "democratic_votes": 115348,
+    "no party affiliation_votes": 16491
+  },
+  {
+    "state_name": "Florida",
+    "district_id": 27,
+    "republican_votes": 157763,
+    "democratic_votes": 129548
+  },
+  {
+    "state_name": "Georgia",
+    "district_id": 1,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Georgia",
+    "district_id": 2,
+    "democratic_votes": 146284,
+    "republican_votes": 93392
+  },
+  {
+    "state_name": "Georgia",
+    "district_id": 3,
+    "republican_votes": 206930,
+    "democratic_votes": 95736
+  },
+  {
+    "state_name": "Georgia",
+    "district_id": 4,
+    "democratic_votes": 214278,
+    "republican_votes": 69075
+  },
+  {
+    "state_name": "Georgia",
+    "district_id": 5,
+    "democratic_votes": 241773,
+    "republican_votes": 44032
+  },
+  {
+    "state_name": "Georgia",
+    "district_id": 6,
+    "republican_votes": 191792,
+    "democratic_votes": 119536
+  },
+  {
+    "state_name": "Georgia",
+    "district_id": 7,
+    "republican_votes": 173638,
+    "democratic_votes": 113593
+  },
+  {
+    "state_name": "Georgia",
+    "district_id": 8,
+    "republican_votes": 171529,
+    "democratic_votes": 81903
+  },
+  {
+    "state_name": "Georgia",
+    "district_id": 9,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Georgia",
+    "district_id": 10,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Georgia",
+    "district_id": 11,
+    "republican_votes": 216772,
+    "democratic_votes": 104401
+  },
+  {
+    "state_name": "Georgia",
+    "district_id": 12,
+    "republican_votes": 158705,
+    "democratic_votes": 98870
+  },
+  {
+    "state_name": "Georgia",
+    "district_id": 13,
+    "democratic_votes": 0
+  },
+  {
+    "state_name": "Georgia",
+    "district_id": 14,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Hawaii",
+    "district_id": 1,
+    "democratic_votes": 135069,
+    "republican_votes": 42569,
+    "libertarian_votes": 6127,
+    "other_votes": 4040
+  },
+  {
+    "state_name": "Hawaii",
+    "district_id": 2,
+    "democratic_votes": 163484,
+    "republican_votes": 38098
+  },
+  {
+    "state_name": "Idaho",
+    "district_id": 1,
+    "republican_votes": 236397,
+    "democratic_votes": 111035
+  },
+  {
+    "state_name": "Idaho",
+    "district_id": 2,
+    "republican_votes": 208887,
+    "democratic_votes": 97250,
+    "constitution_votes": 25575
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 1,
+    "democratic_votes": 221551,
+    "republican_votes": 80161
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 2,
+    "democratic_votes": 229184,
+    "republican_votes": 58788
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 3,
+    "democratic_votes": 0
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 4,
+    "democratic_votes": 0
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 5,
+    "democratic_votes": 201983,
+    "republican_votes": 82931,
+    "green_votes": 13867
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 6,
+    "republican_votes": 205746,
+    "democratic_votes": 140023
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 7,
+    "democratic_votes": 232322,
+    "republican_votes": 44242
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 8,
+    "democratic_votes": 141138,
+    "republican_votes": 101893
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 9,
+    "democratic_votes": 203834,
+    "republican_votes": 105920
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 10,
+    "democratic_votes": 147299,
+    "republican_votes": 133383
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 11,
+    "democratic_votes": 157659,
+    "republican_votes": 105762
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 12,
+    "republican_votes": 169233,
+    "democratic_votes": 123754,
+    "green_votes": 18713
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 13,
+    "republican_votes": 186791,
+    "democratic_votes": 125932
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 14,
+    "republican_votes": 197962,
+    "democratic_votes": 134362
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 15,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 16,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 17,
+    "democratic_votes": 170746,
+    "republican_votes": 113141
+  },
+  {
+    "state_name": "Illinois",
+    "district_id": 18,
+    "republican_votes": 248701,
+    "democratic_votes": 95741
+  },
+  {
+    "state_name": "Indiana",
+    "district_id": 1,
+    "democratic_votes": 207299,
+    "libertarian_votes": 47009
+  },
+  {
+    "state_name": "Indiana",
+    "district_id": 2,
+    "republican_votes": 164276,
+    "democratic_votes": 102332,
+    "libertarian_votes": 10594
+  },
+  {
+    "state_name": "Indiana",
+    "district_id": 3,
+    "republican_votes": 201216,
+    "democratic_votes": 65908,
+    "libertarian_votes": 19782
+  },
+  {
+    "state_name": "Indiana",
+    "district_id": 4,
+    "republican_votes": 193272,
+    "democratic_votes": 91153,
+    "libertarian_votes": 14758
+  },
+  {
+    "state_name": "Indiana",
+    "district_id": 5,
+    "republican_votes": 221785,
+    "democratic_votes": 123791,
+    "libertarian_votes": 15324
+  },
+  {
+    "state_name": "Indiana",
+    "district_id": 6,
+    "republican_votes": 204844,
+    "democratic_votes": 79075,
+    "libertarian_votes": 12325
+  },
+  {
+    "state_name": "Indiana",
+    "district_id": 7,
+    "democratic_votes": 158606,
+    "republican_votes": 94396,
+    "libertarian_votes": 11470
+  },
+  {
+    "state_name": "Indiana",
+    "district_id": 8,
+    "republican_votes": 187569,
+    "democratic_votes": 93130,
+    "libertarian_votes": 13630
+  },
+  {
+    "state_name": "Indiana",
+    "district_id": 9,
+    "republican_votes": 174698,
+    "democratic_votes": 130539,
+    "libertarian_votes": 17417
+  },
+  {
+    "state_name": "Iowa",
+    "district_id": 1,
+    "republican_votes": 206273,
+    "democratic_votes": 176447
+  },
+  {
+    "state_name": "Iowa",
+    "district_id": 2,
+    "democratic_votes": 197802,
+    "republican_votes": 170529
+  },
+  {
+    "state_name": "Iowa",
+    "district_id": 3,
+    "republican_votes": 208264,
+    "democratic_votes": 154780,
+    "libertarian_votes": 15337,
+    "petitioning candidate_votes": 10846
+  },
+  {
+    "state_name": "Iowa",
+    "district_id": 4,
+    "republican_votes": 225842,
+    "democratic_votes": 142018
+  },
+  {
+    "state_name": "Kansas",
+    "district_id": 1,
+    "republican_votes": 166051,
+    "independent_votes": 66218,
+    "libertarian_votes": 18415
+  },
+  {
+    "state_name": "Kansas",
+    "district_id": 2,
+    "republican_votes": 177851,
+    "democratic_votes": 94561,
+    "libertarian_votes": 18700
+  },
+  {
+    "state_name": "Kansas",
+    "district_id": 3,
+    "republican_votes": 171647,
+    "democratic_votes": 135778,
+    "libertarian_votes": 26897
+  },
+  {
+    "state_name": "Kansas",
+    "district_id": 4,
+    "republican_votes": 163406,
+    "democratic_votes": 78822,
+    "independent_votes": 18358,
+    "libertarian_votes": 7420
+  },
+  {
+    "state_name": "Kentucky",
+    "district_id": 1,
+    "republican_votes": 216957,
+    "democratic_votes": 81710
+  },
+  {
+    "state_name": "Kentucky",
+    "district_id": 2,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Kentucky",
+    "district_id": 3,
+    "democratic_votes": 212388,
+    "republican_votes": 122085,
+    "other_votes": 0
+  },
+  {
+    "state_name": "Kentucky",
+    "district_id": 4,
+    "republican_votes": 233922,
+    "democratic_votes": 94064
+  },
+  {
+    "state_name": "Kentucky",
+    "district_id": 5,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Kentucky",
+    "district_id": 6,
+    "republican_votes": 202094,
+    "democratic_votes": 128725
+  },
+  {
+    "state_name": "Louisiana",
+    "district_id": 1,
+    "republican_votes": 243575,
+    "democratic_votes": 63745,
+    "libertarian_votes": 9395,
+    "green_votes": 6712,
+    "no party affiliation_votes": 3233
+  },
+  {
+    "state_name": "Louisiana",
+    "district_id": 2,
+    "democratic_votes": 284078
+  },
+  {
+    "state_name": "Louisiana",
+    "district_id": 3,
+    "republican_votes": 258298,
+    "democratic_votes": 56165,
+    "libertarian_votes": 2934,
+    "no party affiliation_votes": 2667
+  },
+  {
+    "state_name": "Louisiana",
+    "district_id": 4,
+    "republican_votes": 199677,
+    "democratic_votes": 80558,
+    "no party affiliation_votes": 5637
+  },
+  {
+    "state_name": "Louisiana",
+    "district_id": 5,
+    "republican_votes": 255610
+  },
+  {
+    "state_name": "Louisiana",
+    "district_id": 6,
+    "republican_votes": 241038,
+    "democratic_votes": 79161,
+    "libertarian_votes": 7598,
+    "other_votes": 3215
+  },
+  {
+    "state_name": "Maine",
+    "district_id": 1,
+    "democratic_votes": 225428,
+    "republican_votes": 164048
+  },
+  {
+    "state_name": "Maine",
+    "district_id": 2,
+    "republican_votes": 192285,
+    "democratic_votes": 157862
+  },
+  {
+    "state_name": "Maryland",
+    "district_id": 1,
+    "republican_votes": 229135,
+    "democratic_votes": 94776,
+    "libertarian_votes": 14207
+  },
+  {
+    "state_name": "Maryland",
+    "district_id": 2,
+    "democratic_votes": 172324,
+    "republican_votes": 92099,
+    "libertarian_votes": 12530
+  },
+  {
+    "state_name": "Maryland",
+    "district_id": 3,
+    "democratic_votes": 194362,
+    "republican_votes": 106627,
+    "green_votes": 8430
+  },
+  {
+    "state_name": "Maryland",
+    "district_id": 4,
+    "democratic_votes": 218215,
+    "republican_votes": 63674,
+    "green_votes": 7357,
+    "libertarian_votes": 5274
+  },
+  {
+    "state_name": "Maryland",
+    "district_id": 5,
+    "democratic_votes": 223582,
+    "republican_votes": 98768,
+    "libertarian_votes": 10033
+  },
+  {
+    "state_name": "Maryland",
+    "district_id": 6,
+    "democratic_votes": 167229,
+    "republican_votes": 123611,
+    "libertarian_votes": 6216,
+    "green_votes": 4997
+  },
+  {
+    "state_name": "Maryland",
+    "district_id": 7,
+    "democratic_votes": 211962,
+    "republican_votes": 61854,
+    "green_votes": 8428
+  },
+  {
+    "state_name": "Maryland",
+    "district_id": 8,
+    "democratic_votes": 191671,
+    "republican_votes": 115200,
+    "green_votes": 9761,
+    "libertarian_votes": 6540
+  },
+  {
+    "state_name": "Massachusetts",
+    "district_id": 1,
+    "democratic_votes": 233310,
+    "independent_votes": 57226,
+    "libertarian_votes": 27427
+  },
+  {
+    "state_name": "Massachusetts",
+    "district_id": 2,
+    "democratic_votes": 0
+  },
+  {
+    "state_name": "Massachusetts",
+    "district_id": 3,
+    "democratic_votes": 234361,
+    "republican_votes": 106882
+  },
+  {
+    "state_name": "Massachusetts",
+    "district_id": 4,
+    "democratic_votes": 261356,
+    "republican_votes": 111890
+  },
+  {
+    "state_name": "Massachusetts",
+    "district_id": 5,
+    "democratic_votes": 0
+  },
+  {
+    "state_name": "Massachusetts",
+    "district_id": 6,
+    "democratic_votes": 0
+  },
+  {
+    "state_name": "Massachusetts",
+    "district_id": 7,
+    "democratic_votes": 0
+  },
+  {
+    "state_name": "Massachusetts",
+    "district_id": 8,
+    "democratic_votes": 267944,
+    "republican_votes": 102146
+  },
+  {
+    "state_name": "Massachusetts",
+    "district_id": 9,
+    "democratic_votes": 209911,
+    "republican_votes": 127199,
+    "independent_votes": 26086,
+    "unenrolled_votes": 13527
+  },
+  {
+    "state_name": "Michigan",
+    "district_id": 1,
+    "republican_votes": 201153,
+    "democratic_votes": 144319,
+    "libertarian_votes": 13385,
+    "green_votes": 4773
+  },
+  {
+    "state_name": "Michigan",
+    "district_id": 2,
+    "republican_votes": 213095,
+    "democratic_votes": 110077,
+    "libertarian_votes": 8166,
+    "green_votes": 5362,
+    "u.s. taxpayers_votes": 2898
+  },
+  {
+    "state_name": "Michigan",
+    "district_id": 3,
+    "republican_votes": 203069,
+    "democratic_votes": 128159,
+    "u.s. taxpayers_votes": 10374
+  },
+  {
+    "state_name": "Michigan",
+    "district_id": 4,
+    "republican_votes": 194569,
+    "democratic_votes": 101275,
+    "libertarian_votes": 8514,
+    "u.s. taxpayers_votes": 5595,
+    "green_votes": 3953,
+    "natural law_votes": 1838
+  },
+  {
+    "state_name": "Michigan",
+    "district_id": 5,
+    "democratic_votes": 195076,
+    "republican_votes": 111908,
+    "libertarian_votes": 6999,
+    "green_votes": 4894
+  },
+  {
+    "state_name": "Michigan",
+    "district_id": 6,
+    "republican_votes": 192862,
+    "democratic_votes": 119871,
+    "libertarian_votes": 16239
+  },
+  {
+    "state_name": "Michigan",
+    "district_id": 7,
+    "republican_votes": 183549,
+    "democratic_votes": 133697,
+    "libertarian_votes": 16402
+  },
+  {
+    "state_name": "Michigan",
+    "district_id": 8,
+    "republican_votes": 205617,
+    "democratic_votes": 143775,
+    "libertarian_votes": 9615,
+    "green_votes": 5677,
+    "natural law_votes": 2250
+  },
+  {
+    "state_name": "Michigan",
+    "district_id": 9,
+    "democratic_votes": 199620,
+    "republican_votes": 128907,
+    "libertarian_votes": 9562,
+    "green_votes": 6612
+  },
+  {
+    "state_name": "Michigan",
+    "district_id": 10,
+    "republican_votes": 214164,
+    "democratic_votes": 109875,
+    "libertarian_votes": 10582,
+    "green_votes": 5113
+  },
+  {
+    "state_name": "Michigan",
+    "district_id": 11,
+    "republican_votes": 200787,
+    "democratic_votes": 152359,
+    "independent_votes": 16597,
+    "libertarian_votes": 9535
+  },
+  {
+    "state_name": "Michigan",
+    "district_id": 12,
+    "democratic_votes": 210922,
+    "republican_votes": 95823,
+    "other_votes": 9177,
+    "libertarian_votes": 7478,
+    "green_votes": 4370
+  },
+  {
+    "state_name": "Michigan",
+    "district_id": 13,
+    "democratic_votes": 197173,
+    "republican_votes": 40483,
+    "libertarian_votes": 9600,
+    "other_votes": 8778
+  },
+  {
+    "state_name": "Michigan",
+    "district_id": 14,
+    "democratic_votes": 244220,
+    "republican_votes": 58111,
+    "libertarian_votes": 4898,
+    "green_votes": 3851
+  },
+  {
+    "state_name": "Minnesota",
+    "district_id": 1,
+    "democratic_votes": 169076,
+    "republican_votes": 166527
+  },
+  {
+    "state_name": "Minnesota",
+    "district_id": 2,
+    "republican_votes": 174030,
+    "democratic_votes": 167071,
+    "independence_votes": 28845
+  },
+  {
+    "state_name": "Minnesota",
+    "district_id": 3,
+    "republican_votes": 223075,
+    "democratic_votes": 169238
+  },
+  {
+    "state_name": "Minnesota",
+    "district_id": 4,
+    "democratic_votes": 202558,
+    "republican_votes": 120871,
+    "other_votes": 27109
+  },
+  {
+    "state_name": "Minnesota",
+    "district_id": 5,
+    "democratic_votes": 249957,
+    "republican_votes": 80660,
+    "other_votes": 30759
+  },
+  {
+    "state_name": "Minnesota",
+    "district_id": 6,
+    "republican_votes": 235384,
+    "democratic_votes": 123012
+  },
+  {
+    "state_name": "Minnesota",
+    "district_id": 7,
+    "democratic_votes": 173571,
+    "republican_votes": 156950
+  },
+  {
+    "state_name": "Minnesota",
+    "district_id": 8,
+    "democratic_votes": 179106,
+    "republican_votes": 177095
+  },
+  {
+    "state_name": "Mississippi",
+    "district_id": 1,
+    "republican_votes": 203142,
+    "democratic_votes": 82133,
+    "libertarian_votes": 6070,
+    "reform party_votes": 3742
+  },
+  {
+    "state_name": "Mississippi",
+    "district_id": 2,
+    "democratic_votes": 181108,
+    "republican_votes": 79773,
+    "independent_votes": 6622,
+    "reform party_votes": 3623
+  },
+  {
+    "state_name": "Mississippi",
+    "district_id": 3,
+    "republican_votes": 201280,
+    "democratic_votes": 91992,
+    "other_votes": 8434,
+    "reform party_votes": 2020
+  },
+  {
+    "state_name": "Mississippi",
+    "district_id": 4,
+    "republican_votes": 174783,
+    "democratic_votes": 74176,
+    "libertarian_votes": 14212,
+    "reform party_votes": 5063
+  },
+  {
+    "state_name": "Missouri",
+    "district_id": 1,
+    "democratic_votes": 231604,
+    "republican_votes": 61252,
+    "libertarian_votes": 13954
+  },
+  {
+    "state_name": "Missouri",
+    "district_id": 2,
+    "republican_votes": 238826,
+    "democratic_votes": 153331,
+    "libertarian_votes": 11621,
+    "green_votes": 3839
+  },
+  {
+    "state_name": "Missouri",
+    "district_id": 3,
+    "republican_votes": 248880,
+    "democratic_votes": 102484,
+    "libertarian_votes": 11906,
+    "constitution_votes": 3586
+  },
+  {
+    "state_name": "Missouri",
+    "district_id": 4,
+    "republican_votes": 225034,
+    "democratic_votes": 92385,
+    "libertarian_votes": 14355
+  },
+  {
+    "state_name": "Missouri",
+    "district_id": 5,
+    "democratic_votes": 185494,
+    "republican_votes": 122367,
+    "libertarian_votes": 9594
+  },
+  {
+    "state_name": "Missouri",
+    "district_id": 6,
+    "republican_votes": 236938,
+    "democratic_votes": 98588,
+    "libertarian_votes": 8051,
+    "green_votes": 4202
+  },
+  {
+    "state_name": "Missouri",
+    "district_id": 7,
+    "republican_votes": 228001,
+    "democratic_votes": 92390,
+    "libertarian_votes": 17076
+  },
+  {
+    "state_name": "Missouri",
+    "district_id": 8,
+    "republican_votes": 229648,
+    "democratic_votes": 69949,
+    "libertarian_votes": 9059
+  },
+  {
+    "state_name": "Montana",
+    "district_id": 1,
+    "republican_votes": 280472,
+    "democratic_votes": 201758,
+    "libertarian_votes": 15949
+  },
+  {
+    "state_name": "Nebraska",
+    "district_id": 1,
+    "republican_votes": 187258,
+    "democratic_votes": 81939
+  },
+  {
+    "state_name": "Nebraska",
+    "district_id": 2,
+    "republican_votes": 134291,
+    "democratic_votes": 128739,
+    "libertarian_votes": 9057
+  },
+  {
+    "state_name": "Nebraska",
+    "district_id": 3,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Nevada",
+    "district_id": 1,
+    "democratic_votes": 116045,
+    "republican_votes": 54053,
+    "no party designation_votes": 13806,
+    "independent american_votes": 3722
+  },
+  {
+    "state_name": "Nevada",
+    "district_id": 2,
+    "republican_votes": 182452,
+    "democratic_votes": 115395,
+    "independent american_votes": 8660,
+    "no party designation_votes": 6204
+  },
+  {
+    "state_name": "Nevada",
+    "district_id": 3,
+    "democratic_votes": 146653,
+    "republican_votes": 142726,
+    "independent american_votes": 11580,
+    "no party designation_votes": 9551
+  },
+  {
+    "state_name": "Nevada",
+    "district_id": 4,
+    "democratic_votes": 128680,
+    "republican_votes": 118220,
+    "libertarian_votes": 10184,
+    "independent american_votes": 8307
+  },
+  {
+    "state_name": "New Hampshire",
+    "district_id": 1,
+    "democratic_votes": 161828,
+    "republican_votes": 157011,
+    "independent_votes": 40658,
+    "libertarian_votes": 6842
+  },
+  {
+    "state_name": "New Hampshire",
+    "district_id": 2,
+    "democratic_votes": 174386,
+    "republican_votes": 158960,
+    "independent_votes": 16843
+  },
+  {
+    "state_name": "New Jersey",
+    "district_id": 1,
+    "democratic_votes": 178655,
+    "republican_votes": 110235,
+    "independent_votes": 7281,
+    "libertarian_votes": 2352
+  },
+  {
+    "state_name": "New Jersey",
+    "district_id": 2,
+    "republican_votes": 167816,
+    "democratic_votes": 104726,
+    "independent_votes": 6431,
+    "libertarian_votes": 3562
+  },
+  {
+    "state_name": "New Jersey",
+    "district_id": 3,
+    "republican_votes": 177522,
+    "democratic_votes": 115212,
+    "constitution_votes": 5541
+  },
+  {
+    "state_name": "New Jersey",
+    "district_id": 4,
+    "republican_votes": 206137,
+    "democratic_votes": 108373,
+    "independent_votes": 5684,
+    "libertarian_votes": 3168
+  },
+  {
+    "state_name": "New Jersey",
+    "district_id": 5,
+    "democratic_votes": 156863,
+    "republican_votes": 146643,
+    "libertarian_votes": 6890
+  },
+  {
+    "state_name": "New Jersey",
+    "district_id": 6,
+    "democratic_votes": 150971,
+    "republican_votes": 85613,
+    "green_votes": 1695,
+    "libertarian_votes": 1536
+  },
+  {
+    "state_name": "New Jersey",
+    "district_id": 7,
+    "republican_votes": 184309,
+    "democratic_votes": 146350,
+    "libertarian_votes": 5252,
+    "independent_votes": 4208
+  },
+  {
+    "state_name": "New Jersey",
+    "district_id": 8,
+    "democratic_votes": 124381,
+    "republican_votes": 30085,
+    "independent_votes": 4102,
+    "libertarian_votes": 3114
+  },
+  {
+    "state_name": "New Jersey",
+    "district_id": 9,
+    "democratic_votes": 151823,
+    "republican_votes": 61384,
+    "libertarian_votes": 3082,
+    "independent_votes": 1819
+  },
+  {
+    "state_name": "New Jersey",
+    "district_id": 10,
+    "democratic_votes": 181591,
+    "republican_votes": 25452,
+    "independent_votes": 5084
+  },
+  {
+    "state_name": "New Jersey",
+    "district_id": 11,
+    "republican_votes": 192538,
+    "democratic_votes": 128232,
+    "independent_votes": 6914,
+    "libertarian_votes": 3420
+  },
+  {
+    "state_name": "New Jersey",
+    "district_id": 12,
+    "democratic_votes": 162383,
+    "republican_votes": 83633,
+    "independent_votes": 9092,
+    "libertarian_votes": 2215,
+    "green_votes": 1873
+  },
+  {
+    "state_name": "New Mexico",
+    "district_id": 1,
+    "democratic_votes": 179380,
+    "republican_votes": 96061
+  },
+  {
+    "state_name": "New Mexico",
+    "district_id": 2,
+    "republican_votes": 142499,
+    "democratic_votes": 84514
+  },
+  {
+    "state_name": "New Mexico",
+    "district_id": 3,
+    "democratic_votes": 167848,
+    "republican_votes": 100529
+  },
+  {
+    "state_name": "New York",
+    "district_id": 1,
+    "republican_votes": 174682,
+    "democratic_votes": 121640
+  },
+  {
+    "state_name": "New York",
+    "district_id": 2,
+    "republican_votes": 171915,
+    "democratic_votes": 103643
+  },
+  {
+    "state_name": "New York",
+    "district_id": 3,
+    "democratic_votes": 156315,
+    "republican_votes": 142023
+  },
+  {
+    "state_name": "New York",
+    "district_id": 4,
+    "democratic_votes": 173796,
+    "republican_votes": 118821
+  },
+  {
+    "state_name": "New York",
+    "district_id": 5,
+    "democratic_votes": 184179,
+    "republican_votes": 28030,
+    "green_votes": 3269
+  },
+  {
+    "state_name": "New York",
+    "district_id": 6,
+    "democratic_votes": 126018,
+    "republican_votes": 47278,
+    "other_votes": 1979
+  },
+  {
+    "state_name": "New York",
+    "district_id": 7,
+    "democratic_votes": 158972,
+    "republican_votes": 16255
+  },
+  {
+    "state_name": "New York",
+    "district_id": 8,
+    "democratic_votes": 199747,
+    "conservative_votes": 14468
+  },
+  {
+    "state_name": "New York",
+    "district_id": 9,
+    "democratic_votes": 200266,
+    "conservative_votes": 16617
+  },
+  {
+    "state_name": "New York",
+    "district_id": 10,
+    "democratic_votes": 170286,
+    "republican_votes": 49530
+  },
+  {
+    "state_name": "New York",
+    "district_id": 11,
+    "republican_votes": 134366,
+    "democratic_votes": 78066,
+    "green_votes": 3607
+  },
+  {
+    "state_name": "New York",
+    "district_id": 12,
+    "democratic_votes": 219165,
+    "republican_votes": 44981
+  },
+  {
+    "state_name": "New York",
+    "district_id": 13,
+    "democratic_votes": 187382,
+    "republican_votes": 14501,
+    "green_votes": 7448,
+    "other_votes": 1714
+  },
+  {
+    "state_name": "New York",
+    "district_id": 14,
+    "democratic_votes": 134603,
+    "republican_votes": 28332
+  },
+  {
+    "state_name": "New York",
+    "district_id": 15,
+    "democratic_votes": 150058,
+    "republican_votes": 5606,
+    "conservative_votes": 1899
+  },
+  {
+    "state_name": "New York",
+    "district_id": 16,
+    "democratic_votes": 192671,
+    "other_votes": 10840
+  },
+  {
+    "state_name": "New York",
+    "district_id": 17,
+    "democratic_votes": 0
+  },
+  {
+    "state_name": "New York",
+    "district_id": 18,
+    "democratic_votes": 149056,
+    "republican_votes": 120967
+  },
+  {
+    "state_name": "New York",
+    "district_id": 19,
+    "republican_votes": 153143,
+    "democratic_votes": 126641
+  },
+  {
+    "state_name": "New York",
+    "district_id": 20,
+    "democratic_votes": 195005,
+    "republican_votes": 93407
+  },
+  {
+    "state_name": "New York",
+    "district_id": 21,
+    "republican_votes": 164212,
+    "democratic_votes": 72637,
+    "green_votes": 11394
+  },
+  {
+    "state_name": "New York",
+    "district_id": 22,
+    "republican_votes": 120777,
+    "democratic_votes": 103955,
+    "reform party_votes": 32303
+  },
+  {
+    "state_name": "New York",
+    "district_id": 23,
+    "republican_votes": 149779,
+    "democratic_votes": 107822
+  },
+  {
+    "state_name": "New York",
+    "district_id": 24,
+    "republican_votes": 170532,
+    "democratic_votes": 108928
+  },
+  {
+    "state_name": "New York",
+    "district_id": 25,
+    "democratic_votes": 169199,
+    "republican_votes": 134285
+  },
+  {
+    "state_name": "New York",
+    "district_id": 26,
+    "democratic_votes": 193518,
+    "republican_votes": 66688
+  },
+  {
+    "state_name": "New York",
+    "district_id": 27,
+    "republican_votes": 207510,
+    "democratic_votes": 99222
+  },
+  {
+    "state_name": "North Carolina",
+    "district_id": 1,
+    "democratic_votes": 237938,
+    "republican_votes": 100633,
+    "libertarian_votes": 8259
+  },
+  {
+    "state_name": "North Carolina",
+    "district_id": 2,
+    "republican_votes": 219342,
+    "democratic_votes": 167299
+  },
+  {
+    "state_name": "North Carolina",
+    "district_id": 3,
+    "republican_votes": 214850,
+    "democratic_votes": 104007
+  },
+  {
+    "state_name": "North Carolina",
+    "district_id": 4,
+    "democratic_votes": 275501,
+    "republican_votes": 128331
+  },
+  {
+    "state_name": "North Carolina",
+    "district_id": 5,
+    "republican_votes": 204943,
+    "democratic_votes": 145597
+  },
+  {
+    "state_name": "North Carolina",
+    "district_id": 6,
+    "republican_votes": 205973,
+    "democratic_votes": 141480
+  },
+  {
+    "state_name": "North Carolina",
+    "district_id": 7,
+    "republican_votes": 209933,
+    "democratic_votes": 134344
+  },
+  {
+    "state_name": "North Carolina",
+    "district_id": 8,
+    "republican_votes": 187909,
+    "democratic_votes": 131428
+  },
+  {
+    "state_name": "North Carolina",
+    "district_id": 9,
+    "republican_votes": 191660,
+    "democratic_votes": 137335
+  },
+  {
+    "state_name": "North Carolina",
+    "district_id": 10,
+    "republican_votes": 219589,
+    "democratic_votes": 128114
+  },
+  {
+    "state_name": "North Carolina",
+    "district_id": 11,
+    "republican_votes": 229130,
+    "democratic_votes": 127972
+  },
+  {
+    "state_name": "North Carolina",
+    "district_id": 12,
+    "democratic_votes": 232451,
+    "republican_votes": 114242
+  },
+  {
+    "state_name": "North Carolina",
+    "district_id": 13,
+    "republican_votes": 196736,
+    "democratic_votes": 153691
+  },
+  {
+    "state_name": "North Dakota",
+    "district_id": 1,
+    "republican_votes": 233245,
+    "democratic_votes": 80186,
+    "libertarian_votes": 23454
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 1,
+    "republican_votes": 205283,
+    "democratic_votes": 139279
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 2,
+    "republican_votes": 215265,
+    "democratic_votes": 107859
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 3,
+    "democratic_votes": 189536,
+    "republican_votes": 88040
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 4,
+    "republican_votes": 205669,
+    "democratic_votes": 96334
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 5,
+    "republican_votes": 240036,
+    "democratic_votes": 98045
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 6,
+    "republican_votes": 209177,
+    "democratic_votes": 86938
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 7,
+    "republican_votes": 194146,
+    "democratic_votes": 87602,
+    "independent_votes": 21062
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 8,
+    "republican_votes": 219453,
+    "democratic_votes": 85313,
+    "green_votes": 13371
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 9,
+    "democratic_votes": 187926,
+    "republican_votes": 86311
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 10,
+    "republican_votes": 210256,
+    "democratic_votes": 105947,
+    "independent_votes": 10463
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 11,
+    "democratic_votes": 233285,
+    "republican_votes": 58066
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 12,
+    "republican_votes": 243970,
+    "democratic_votes": 109455,
+    "green_votes": 12848
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 13,
+    "democratic_votes": 203430,
+    "republican_votes": 97312
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 14,
+    "republican_votes": 214618,
+    "democratic_votes": 127547
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 15,
+    "republican_votes": 216186,
+    "democratic_votes": 110272
+  },
+  {
+    "state_name": "Ohio",
+    "district_id": 16,
+    "republican_votes": 221495,
+    "democratic_votes": 117296
+  },
+  {
+    "state_name": "Oklahoma",
+    "district_id": 1,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Oklahoma",
+    "district_id": 2,
+    "republican_votes": 189612,
+    "democratic_votes": 62307,
+    "independent_votes": 16618
+  },
+  {
+    "state_name": "Oklahoma",
+    "district_id": 3,
+    "republican_votes": 227276,
+    "democratic_votes": 63008
+  },
+  {
+    "state_name": "Oklahoma",
+    "district_id": 4,
+    "republican_votes": 203942,
+    "democratic_votes": 76380,
+    "libertarian_votes": 12548
+  },
+  {
+    "state_name": "Oklahoma",
+    "district_id": 5,
+    "republican_votes": 160012,
+    "democratic_votes": 103122,
+    "libertarian_votes": 17084
+  },
+  {
+    "state_name": "Oregon",
+    "district_id": 1,
+    "democratic_votes": 207190,
+    "republican_votes": 129495,
+    "libertarian_votes": 10894
+  },
+  {
+    "state_name": "Oregon",
+    "district_id": 2,
+    "republican_votes": 267179,
+    "democratic_votes": 103383
+  },
+  {
+    "state_name": "Oregon",
+    "district_id": 3,
+    "democratic_votes": 256159,
+    "other_votes": 71758,
+    "progressive_votes": 25059
+  },
+  {
+    "state_name": "Oregon",
+    "district_id": 4,
+    "democratic_votes": 216442,
+    "republican_votes": 155271,
+    "pacific green_votes": 11807,
+    "libertarian_votes": 6349
+  },
+  {
+    "state_name": "Oregon",
+    "district_id": 5,
+    "democratic_votes": 178405,
+    "republican_votes": 143839,
+    "pacific green_votes": 10583
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 1,
+    "democratic_votes": 237882,
+    "republican_votes": 51516
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 2,
+    "democratic_votes": 310770,
+    "republican_votes": 33911
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 3,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 4,
+    "republican_votes": 216772,
+    "democratic_votes": 111158
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 5,
+    "republican_votes": 200627,
+    "democratic_votes": 97686
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 6,
+    "republican_votes": 203671,
+    "democratic_votes": 151800
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 7,
+    "republican_votes": 219314,
+    "democratic_votes": 147808
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 8,
+    "republican_votes": 206607,
+    "democratic_votes": 172571
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 9,
+    "republican_votes": 183798,
+    "democratic_votes": 105958
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 10,
+    "republican_votes": 208106,
+    "democratic_votes": 87956
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 11,
+    "republican_votes": 194889,
+    "democratic_votes": 111025
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 12,
+    "republican_votes": 217449,
+    "democratic_votes": 133607
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 13,
+    "democratic_votes": 0
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 14,
+    "democratic_votes": 252709,
+    "republican_votes": 87334
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 15,
+    "republican_votes": 184562,
+    "democratic_votes": 120233,
+    "libertarian_votes": 11310
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 16,
+    "republican_votes": 167698,
+    "democratic_votes": 132969,
+    "libertarian_votes": 10408
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 17,
+    "democratic_votes": 155766,
+    "republican_votes": 133719
+  },
+  {
+    "state_name": "Pennsylvania",
+    "district_id": 18,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Rhode Island",
+    "district_id": 1,
+    "democratic_votes": 129272,
+    "republican_votes": 70608
+  },
+  {
+    "state_name": "Rhode Island",
+    "district_id": 2,
+    "democratic_votes": 131968,
+    "republican_votes": 69918,
+    "independent_votes": 24983
+  },
+  {
+    "state_name": "South Carolina",
+    "district_id": 1,
+    "republican_votes": 186735,
+    "democratic_votes": 117487,
+    "libertarian_votes": 11451,
+    "other_votes": 2730
+  },
+  {
+    "state_name": "South Carolina",
+    "district_id": 2,
+    "republican_votes": 183766,
+    "democratic_votes": 109488,
+    "other_votes": 11436
+  },
+  {
+    "state_name": "South Carolina",
+    "district_id": 3,
+    "republican_votes": 196793,
+    "democratic_votes": 72993
+  },
+  {
+    "state_name": "South Carolina",
+    "district_id": 4,
+    "republican_votes": 197235,
+    "democratic_votes": 91106,
+    "constitution_votes": 5045
+  },
+  {
+    "state_name": "South Carolina",
+    "district_id": 5,
+    "republican_votes": 175139,
+    "democratic_votes": 114936,
+    "other_votes": 6190
+  },
+  {
+    "state_name": "South Carolina",
+    "district_id": 6,
+    "democratic_votes": 179351,
+    "republican_votes": 70636,
+    "libertarian_votes": 3135,
+    "green_votes": 2518
+  },
+  {
+    "state_name": "South Carolina",
+    "district_id": 7,
+    "republican_votes": 170826,
+    "democratic_votes": 110378
+  },
+  {
+    "state_name": "South Dakota",
+    "district_id": 1,
+    "republican_votes": 237141,
+    "democratic_votes": 132792
+  },
+  {
+    "state_name": "Tennessee",
+    "district_id": 1,
+    "republican_votes": 196563,
+    "democratic_votes": 38513,
+    "independent_votes": 15605
+  },
+  {
+    "state_name": "Tennessee",
+    "district_id": 2,
+    "republican_votes": 212313,
+    "democratic_votes": 68373
+  },
+  {
+    "state_name": "Tennessee",
+    "district_id": 3,
+    "republican_votes": 176440,
+    "democratic_votes": 76664,
+    "independent_votes": 12649
+  },
+  {
+    "state_name": "Tennessee",
+    "district_id": 4,
+    "republican_votes": 165594,
+    "democratic_votes": 89018
+  },
+  {
+    "state_name": "Tennessee",
+    "district_id": 5,
+    "democratic_votes": 170729,
+    "republican_votes": 102220
+  },
+  {
+    "state_name": "Tennessee",
+    "district_id": 6,
+    "republican_votes": 202038,
+    "democratic_votes": 61940,
+    "independent_votes": 20241
+  },
+  {
+    "state_name": "Tennessee",
+    "district_id": 7,
+    "republican_votes": 199057,
+    "democratic_votes": 64938,
+    "independent_votes": 11810
+  },
+  {
+    "state_name": "Tennessee",
+    "district_id": 8,
+    "republican_votes": 193353,
+    "democratic_votes": 70426,
+    "independent_votes": 17337
+  },
+  {
+    "state_name": "Tennessee",
+    "district_id": 9,
+    "democratic_votes": 169911,
+    "republican_votes": 40580,
+    "independent_votes": 5165
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 1,
+    "republican_votes": 192066,
+    "democratic_votes": 62635,
+    "libertarian_votes": 5044
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 2,
+    "republican_votes": 168524,
+    "democratic_votes": 100077,
+    "libertarian_votes": 6418,
+    "green_votes": 2872
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 3,
+    "republican_votes": 193063,
+    "democratic_votes": 108780,
+    "libertarian_votes": 10408,
+    "green_votes": 2893
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 4,
+    "republican_votes": 215705,
+    "libertarian_votes": 29437
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 5,
+    "republican_votes": 155149,
+    "libertarian_votes": 37311
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 6,
+    "republican_votes": 159213,
+    "democratic_votes": 106510,
+    "green_votes": 7172
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 7,
+    "republican_votes": 143369,
+    "democratic_votes": 111774
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 8,
+    "republican_votes": 0
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 9,
+    "democratic_votes": 151884,
+    "republican_votes": 36454
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 10,
+    "republican_votes": 178926,
+    "democratic_votes": 119728,
+    "libertarian_votes": 13174
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 11,
+    "republican_votes": 201476,
+    "libertarian_votes": 23613
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 12,
+    "republican_votes": 196331,
+    "democratic_votes": 75938,
+    "libertarian_votes": 10586
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 13,
+    "republican_votes": 198730,
+    "libertarian_votes": 14687,
+    "green_votes": 7437
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 14,
+    "republican_votes": 160340,
+    "democratic_votes": 98815
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 15,
+    "democratic_votes": 101592,
+    "republican_votes": 66732,
+    "green_votes": 5439,
+    "libertarian_votes": 3435
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 16,
+    "democratic_votes": 148027,
+    "libertarian_votes": 17144,
+    "green_votes": 7413
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 17,
+    "republican_votes": 149157,
+    "democratic_votes": 86352,
+    "libertarian_votes": 9685
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 18,
+    "democratic_votes": 149928,
+    "republican_votes": 48248,
+    "green_votes": 5838
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 19,
+    "republican_votes": 175980,
+    "libertarian_votes": 17339,
+    "green_votes": 9761
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 20,
+    "democratic_votes": 149522,
+    "libertarian_votes": 29023,
+    "green_votes": 8969
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 21,
+    "republican_votes": 202523,
+    "democratic_votes": 129253,
+    "libertarian_votes": 14698,
+    "green_votes": 8520
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 22,
+    "republican_votes": 181663,
+    "democratic_votes": 123462
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 23,
+    "republican_votes": 109816,
+    "democratic_votes": 106049,
+    "libertarian_votes": 10717
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 24,
+    "republican_votes": 154364,
+    "democratic_votes": 107845,
+    "libertarian_votes": 8574,
+    "green_votes": 3742
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 25,
+    "republican_votes": 180579,
+    "democratic_votes": 116552,
+    "libertarian_votes": 12092
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 26,
+    "republican_votes": 210313,
+    "democratic_votes": 93954,
+    "libertarian_votes": 12734
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 27,
+    "republican_votes": 141722,
+    "democratic_votes": 87931
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 28,
+    "democratic_votes": 121980,
+    "republican_votes": 57683,
+    "green_votes": 4607
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 29,
+    "democratic_votes": 95508,
+    "republican_votes": 31619,
+    "libertarian_votes": 3229,
+    "green_votes": 1453
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 30,
+    "democratic_votes": 169905,
+    "republican_votes": 41365,
+    "libertarian_votes": 4740,
+    "green_votes": 2051
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 31,
+    "republican_votes": 165678,
+    "democratic_votes": 103543,
+    "libertarian_votes": 14638
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 32,
+    "republican_votes": 162212,
+    "libertarian_votes": 43297,
+    "green_votes": 22692
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 33,
+    "democratic_votes": 92914,
+    "republican_votes": 33156
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 34,
+    "democratic_votes": 104513,
+    "republican_votes": 62240
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 35,
+    "democratic_votes": 124161,
+    "republican_votes": 62212,
+    "libertarian_votes": 6484,
+    "green_votes": 4064
+  },
+  {
+    "state_name": "Texas",
+    "district_id": 36,
+    "republican_votes": 203779,
+    "green_votes": 25911
+  },
+  {
+    "state_name": "Utah",
+    "district_id": 1,
+    "republican_votes": 157106,
+    "democratic_votes": 65403,
+    "libertarian_votes": 13734,
+    "unaffiliated_votes": 4068
+  },
+  {
+    "state_name": "Utah",
+    "district_id": 2,
+    "republican_votes": 149838,
+    "democratic_votes": 83131,
+    "constitution_votes": 10724
+  },
+  {
+    "state_name": "Utah",
+    "district_id": 3,
+    "republican_votes": 186743,
+    "democratic_votes": 68104
+  },
+  {
+    "state_name": "Utah",
+    "district_id": 4,
+    "republican_votes": 123459,
+    "democratic_votes": 96284,
+    "constitution_votes": 10959
+  },
+  {
+    "state_name": "Vermont",
+    "district_id": 1,
+    "democratic_votes": 263400,
+    "liberty union_votes": 29326
+  },
+  {
+    "state_name": "Virginia",
+    "district_id": 1,
+    "republican_votes": 221826,
+    "democratic_votes": 130320,
+    "independent_votes": 12150
+  },
+  {
+    "state_name": "Virginia",
+    "district_id": 2,
+    "republican_votes": 172586,
+    "democratic_votes": 106979
+  },
+  {
+    "state_name": "Virginia",
+    "district_id": 3,
+    "democratic_votes": 199748,
+    "republican_votes": 99047
+  },
+  {
+    "state_name": "Virginia",
+    "district_id": 4,
+    "democratic_votes": 191939,
+    "republican_votes": 143261
+  },
+  {
+    "state_name": "Virginia",
+    "district_id": 5,
+    "republican_votes": 206577,
+    "democratic_votes": 147656
+  },
+  {
+    "state_name": "Virginia",
+    "district_id": 6,
+    "republican_votes": 223915,
+    "democratic_votes": 111699
+  },
+  {
+    "state_name": "Virginia",
+    "district_id": 7,
+    "republican_votes": 217968,
+    "democratic_votes": 158692
+  },
+  {
+    "state_name": "Virginia",
+    "district_id": 8,
+    "democratic_votes": 245775,
+    "republican_votes": 98123,
+    "independent_votes": 14617
+  },
+  {
+    "state_name": "Virginia",
+    "district_id": 9,
+    "republican_votes": 212666,
+    "democratic_votes": 87822,
+    "independent_votes": 9098
+  },
+  {
+    "state_name": "Virginia",
+    "district_id": 10,
+    "republican_votes": 204019,
+    "democratic_votes": 181977
+  },
+  {
+    "state_name": "Virginia",
+    "district_id": 11,
+    "democratic_votes": 0
+  },
+  {
+    "state_name": "Washington",
+    "district_id": 1,
+    "democratic_votes": 179521,
+    "republican_votes": 144212
+  },
+  {
+    "state_name": "Washington",
+    "district_id": 2,
+    "democratic_votes": 195661,
+    "republican_votes": 109838
+  },
+  {
+    "state_name": "Washington",
+    "district_id": 3,
+    "republican_votes": 183375,
+    "democratic_votes": 115277
+  },
+  {
+    "state_name": "Washington",
+    "district_id": 4,
+    "republican_votes": 211347
+  },
+  {
+    "state_name": "Washington",
+    "district_id": 5,
+    "republican_votes": 170711,
+    "democratic_votes": 116110
+  },
+  {
+    "state_name": "Washington",
+    "district_id": 6,
+    "democratic_votes": 189168,
+    "republican_votes": 117388
+  },
+  {
+    "state_name": "Washington",
+    "district_id": 7,
+    "democratic_votes": 343369
+  },
+  {
+    "state_name": "Washington",
+    "district_id": 8,
+    "republican_votes": 174729,
+    "democratic_votes": 116268
+  },
+  {
+    "state_name": "Washington",
+    "district_id": 9,
+    "democratic_votes": 186787,
+    "republican_votes": 68998
+  },
+  {
+    "state_name": "Washington",
+    "district_id": 10,
+    "democratic_votes": 159208,
+    "republican_votes": 112164
+  },
+  {
+    "state_name": "West Virginia",
+    "district_id": 1,
+    "republican_votes": 162339,
+    "democratic_votes": 73025
+  },
+  {
+    "state_name": "West Virginia",
+    "district_id": 2,
+    "republican_votes": 140153,
+    "democratic_votes": 100551
+  },
+  {
+    "state_name": "West Virginia",
+    "district_id": 3,
+    "republican_votes": 139700,
+    "democratic_votes": 49309,
+    "libertarian_votes": 16777
+  },
+  {
+    "state_name": "Wisconsin",
+    "district_id": 1,
+    "republican_votes": 230063,
+    "democratic_votes": 106857,
+    "independent_votes": 9435,
+    "libertarian_votes": 7493
+  },
+  {
+    "state_name": "Wisconsin",
+    "district_id": 2,
+    "democratic_votes": 275016,
+    "republican_votes": 125033
+  },
+  {
+    "state_name": "Wisconsin",
+    "district_id": 3,
+    "democratic_votes": 0
+  },
+  {
+    "state_name": "Wisconsin",
+    "district_id": 4,
+    "democratic_votes": 220389,
+    "independent_votes": 33496,
+    "libertarian_votes": 32184
+  },
+  {
+    "state_name": "Wisconsin",
+    "district_id": 5,
+    "republican_votes": 260703,
+    "democratic_votes": 114469,
+    "libertarian_votes": 15324
+  },
+  {
+    "state_name": "Wisconsin",
+    "district_id": 6,
+    "republican_votes": 203920,
+    "democratic_votes": 132908,
+    "independent_votes": 19690
+  },
+  {
+    "state_name": "Wisconsin",
+    "district_id": 7,
+    "republican_votes": 222834,
+    "democratic_votes": 137910
+  },
+  {
+    "state_name": "Wisconsin",
+    "district_id": 8,
+    "republican_votes": 227732,
+    "democratic_votes": 135648
+  },
+  {
+    "state_name": "Wyoming",
+    "district_id": 1,
+    "republican_votes": 156040,
+    "democratic_votes": 75419,
+    "constitution_votes": 10381,
+    "libertarian_votes": 9028
+  }
+]
