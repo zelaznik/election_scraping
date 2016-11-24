@@ -1,0 +1,1224 @@
+[
+  {
+    "state_name": "Alabama",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "Alaska",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "Arizona",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "J. Flake",
+          "votes": 1024459,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "R. Carmona",
+          "votes": 943660,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "M. Victor",
+          "votes": 91591,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Arkansas",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "California",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "D. Feinstein (i)",
+          "votes": 6538196,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "E. Emken",
+          "votes": 4081156,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Colorado",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "Connecticut",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "C. Murphy",
+          "votes": 815077,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "L. McMahon",
+          "votes": 637857,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "P. Passarelli",
+          "votes": 24883,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Delaware",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "T. Carper (i)",
+          "votes": 265374,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "K. Wade",
+          "votes": 115694,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "A. Pires",
+          "votes": 15300,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "A. Groff",
+          "votes": 3191,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Florida",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Nelson (i)",
+          "votes": 4521534,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "C. Mack",
+          "votes": 3457254,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "No Party Affiliation",
+          "name": "W. Gaylor",
+          "votes": 126043,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "No Party Affiliation",
+          "name": "C. Borgia",
+          "votes": 82040,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Georgia",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "Hawaii",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "M. Hirono",
+          "votes": 266435,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "L. Lingle",
+          "votes": 159002,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Idaho",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "Illinois",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "Indiana",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "J. Donnelly",
+          "votes": 1268407,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "R. Mourdock",
+          "votes": 1126832,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "A. Horning",
+          "votes": 146453,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Iowa",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "Kansas",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "Kentucky",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "Louisiana",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "Maine",
+    "results": {
+      "candidates": [
+        {
+          "party": "No Party Affiliation",
+          "name": "A. King",
+          "votes": 368130,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "C. Summers",
+          "votes": 213644,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Democratic",
+          "name": "C. Dill",
+          "votes": 91694,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "S. Woods",
+          "votes": 10297,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "No Party Affiliation",
+          "name": "D. Dalton",
+          "votes": 6510,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "No Party Affiliation",
+          "name": "A. Dodge",
+          "votes": 6313,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Maryland",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Cardin (i)",
+          "votes": 1335706,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Bongino",
+          "votes": 642443,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "R. Sobhani",
+          "votes": 409785,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "D. Ahmad",
+          "votes": 29345,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Massachusetts",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "E. Warren",
+          "votes": 1678408,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "S. Brown (i)",
+          "votes": 1449180,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Michigan",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "D. Stabenow (i)",
+          "votes": 2732886,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "P. Hoekstra",
+          "votes": 1765548,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "S. Boman",
+          "votes": 84463,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "H. Mikkelson",
+          "votes": 27896,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "U.S. Taxpayers",
+          "name": "R. Matkin",
+          "votes": 26022,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Natural Law",
+          "name": "J. Litle",
+          "votes": 11234,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Minnesota",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "A. Klobuchar (i)",
+          "votes": 1856196,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "K. Bills",
+          "votes": 868977,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independence",
+          "name": "S. Williams",
+          "votes": 73640,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Grass Roots Party",
+          "name": "T. Davis",
+          "votes": 30578,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "M. Cavlan",
+          "votes": 14009,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Mississippi",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "R. Wicker (i)",
+          "votes": 673223,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "A. Gore",
+          "votes": 472930,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "T. Cramer",
+          "votes": 14486,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Reform Party",
+          "name": "S. O'Hara",
+          "votes": 12559,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Missouri",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "C. McCaskill (i)",
+          "votes": 1484683,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "T. Akin",
+          "votes": 1063698,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "J. Dine",
+          "votes": 164991,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Montana",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "J. Tester (i)",
+          "votes": 234465,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "D. Rehberg",
+          "votes": 215701,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "D. Cox",
+          "votes": 31287,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Nebraska",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Fischer",
+          "votes": 444319,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "B. Kerrey",
+          "votes": 318930,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Nevada",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "D. Heller (i)",
+          "votes": 456471,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "S. Berkley",
+          "votes": 444337,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent American",
+          "name": "D. VanDerBeek",
+          "votes": 48544,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "No Party Designation",
+          "name": "None of these candidates",
+          "votes": 44892,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "New Hampshire",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "New Jersey",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Menendez (i)",
+          "votes": 1828417,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "J. Kyrillos",
+          "votes": 1244734,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "K. Kaplan",
+          "votes": 15169,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "K. Wolski",
+          "votes": 14323,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "G. Diakos",
+          "votes": 8429,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "D. Dranikoff",
+          "votes": 3427,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "I. Soni",
+          "votes": 3276,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "R. Turkavage",
+          "votes": 3204,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "E. Lavergne",
+          "votes": 2041,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "G. Pason",
+          "votes": 1964,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "D. Brooks",
+          "votes": 1876,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "New Mexico",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "M. Heinrich",
+          "votes": 389274,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "H. Wilson",
+          "votes": 346938,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent American",
+          "name": "J. Barrie",
+          "votes": 27710,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "New York",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "K. Gillibrand (i)",
+          "votes": 4212518,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "W. Long",
+          "votes": 1561893,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "C. Clark",
+          "votes": 36547,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "C. Edes",
+          "votes": 28315,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Other",
+          "name": "J. Mangelli",
+          "votes": 20223,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "North Carolina",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "North Dakota",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "H. Heitkamp",
+          "votes": 160752,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "R. Berg",
+          "votes": 157758,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Ohio",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "S. Brown (i)",
+          "votes": 2645901,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "J. Mandel",
+          "votes": 2371230,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "S. Rupert",
+          "votes": 241102,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Oklahoma",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "Oregon",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "Pennsylvania",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "B. Casey (i)",
+          "votes": 2943289,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "T. Smith",
+          "votes": 2453730,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "R. Smith",
+          "votes": 94362,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Rhode Island",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "S. Whitehouse (i)",
+          "votes": 265687,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "B. Hinckley",
+          "votes": 144620,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "South Carolina",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "South Dakota",
+    "results": {
+      "candidates": []
+    }
+  },
+  {
+    "state_name": "Tennessee",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "B. Corker (i)",
+          "votes": 1496668,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "M. Clayton",
+          "votes": 700753,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "M. Pleasant",
+          "votes": 37964,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "S. Crowell",
+          "votes": 20813,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "K. Steck",
+          "votes": 18490,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "M. Long",
+          "votes": 8043,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "J. Higdon",
+          "votes": 8036,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "T. Scoggin",
+          "votes": 7105,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "D. Gatchell",
+          "votes": 6469,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Texas",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "T. Cruz",
+          "votes": 4456599,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "P. Sadler",
+          "votes": 3183314,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "J. Myers",
+          "votes": 161462,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Green",
+          "name": "D. Collins",
+          "votes": 67791,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Utah",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "O. Hatch (i)",
+          "votes": 595972,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "S. Howell",
+          "votes": 275880,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Constitution",
+          "name": "S. McCausland",
+          "votes": 28367,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Justice Party",
+          "name": "D. Geery",
+          "votes": 7444,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Unaffiliated",
+          "name": "B. Barron",
+          "votes": 6261,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Vermont",
+    "results": {
+      "candidates": [
+        {
+          "party": "Independent",
+          "name": "B. Sanders (i)",
+          "votes": 208253,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "J. MacGovern",
+          "votes": 72629,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "C. Ericson",
+          "votes": 5912,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "P. Moss",
+          "votes": 2543,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Liberty Union",
+          "name": "P. Diamondstone",
+          "votes": 2511,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "L. LaFramboise",
+          "votes": 896,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Virginia",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "T. Kaine",
+          "votes": 1944992,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "G. Allen",
+          "votes": 1758857,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Washington",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "M. Cantwell (i)",
+          "votes": 1714271,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "M. Baumgartner",
+          "votes": 1135453,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "West Virginia",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "J. Manchin (i)",
+          "votes": 394532,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "J. Raese",
+          "votes": 237825,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Mountain Party",
+          "name": "B. Baber",
+          "votes": 19231,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Wisconsin",
+    "results": {
+      "candidates": [
+        {
+          "party": "Democratic",
+          "name": "T. Baldwin",
+          "votes": 1544274,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Republican",
+          "name": "T. Thompson",
+          "votes": 1377253,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Libertarian",
+          "name": "J. Kexel",
+          "votes": 61908,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Independent",
+          "name": "N. Allen",
+          "votes": 16327,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  },
+  {
+    "state_name": "Wyoming",
+    "results": {
+      "candidates": [
+        {
+          "party": "Republican",
+          "name": "J. Barrasso (i)",
+          "votes": 184531,
+          "percent": null,
+          "winner": true
+        },
+        {
+          "party": "Democratic",
+          "name": "T. Chesnut",
+          "votes": 52596,
+          "percent": null,
+          "winner": false
+        },
+        {
+          "party": "Wyoming Country",
+          "name": "J. Otto",
+          "votes": 6138,
+          "percent": null,
+          "winner": false
+        }
+      ]
+    }
+  }
+]
