@@ -15,7 +15,7 @@ def get_totals(df):
 
 def default_args(chamber, year):
     base_path           = '%(year)s_%(chamber)s_results' % locals()
-    json_path           = 'output/%(base_path)s.json' % locals()
+    json_path           = 'output/%(chamber)s/%(year)s/%(base_path)s_politico.json' % locals()
     json_path_national  = 'post_processing/%(chamber)s/%(year)s/%(base_path)s_national.json' % locals()
     excel_path_national = 'post_processing/%(chamber)s/%(year)s/%(base_path)s_national.xlsx' % locals()
     
