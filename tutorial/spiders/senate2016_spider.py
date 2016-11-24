@@ -52,7 +52,7 @@ class SenateSpider2016(scrapy.Spider):
 
     @property
     def __outputPath(self):
-        return '%s_senate_results.json' % (self.year,)
+        return 'output/%s_senate_results.json' % (self.year,)
 
     @property
     def __baseUrl(self):
